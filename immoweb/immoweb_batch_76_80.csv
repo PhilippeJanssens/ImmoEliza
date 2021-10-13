@@ -1,0 +1,296 @@
+,À partir de,État du bâtiment,Parkings intérieurs,Parkings extérieurs,Visite virtuelle,Surface habitable,Surface du salon,Type de cuisine,Surface de la cuisine,Chambres,Surface de la chambre 1,Surface de la chambre 2,Surface de la chambre 3,Surface de la chambre 4,Surface de la chambre 5,Dressing,Salles de douche,Toilettes,Cave,Meublé,Surface du terrain,Raccordement à l'égout,"Eau, gaz & électricité",Jardin,Orientation du jardin,Surface de la terrasse,Orientation de la terrasse,Consommation d'énergie primaire,Classe énergétique,Numéro du rapport PEB,Emission CO₂,Consommation théorique totale d'énergie primaire,Type de chauffage,Pompe à chaleur,Double vitrage,Prix,Revenu cadastral,Immeuble de rapport,Année de construction,Nombre de façades,Salles de bains,Surface de bureau,Bureau,Grenier,Porte blindée,Concierge,Ascenseur,Parlophone,Accès sécurisé / alarme,Interphone vidéo,Procédure pour violation de la réglementation urbanistique,Type de zone inondable,Affectation urbanistique la plus récente sur la base des dénominations utilisées dans le registre des plans,Adresse,Site internet,Accessible aux personnes avec un handicap,Piscine,Terrasse,Buanderie,Salle à manger,Combien de feux ouverts ?,Droit d'achat prioritaire possible,Lieu de la vente,Séance unique,Mise à prix,Surface du jardin,Attestation de conformité des citernes à mazout,Disponible le,Type d’environnement,Espace professionnel,Surface de la cave,Surface du grenier,Isolé,Terrain à front de rue,Terrain boisé,Terrain arrière,Terrain plat,Climatisation,Jacuzzi,Sauna,Internet,Panneaux photovoltaïques,Panneaux solaires,Chauffe-eau commun,Type de construction,Référence externe,Attestation as-built,Surface constructible totale au sol,Largeur de la façade à rue,Largeur du terrain à rue,Salon,Surface de l'espace professionnel,Nombre d'annexes,Quartier ou lieu-dit,Permis de bâtir obtenu,Autorisation de lotissement,Modalités de visite,Nom de l'agent,Charges mensuelles,Valeur du bien,Bouquet,Rente mensuelle,Rente indexée,Rente réversible,Vente en nue propriété,Nombre de rentiers,Durée maximale de la rente,Âge du rentier,Niveau E (performance énergétique globale),Obligation de construire,Informations supplémentaires
+0,À définir,Bon,1,1,257 m²,62 m²,Équipée,19 m²,5,16 m²,10 m²,12 m²,24 m²,18 m²,Non,1,3,Oui,Non,5912 m²,Connecté,Oui,Oui,Sud,100 m²,Sud,302 kWh/m²,D,20210811017473,Non communiqué,Non communiqué,Mazout,Non,Oui,595.000 €,2.555 €,Non,"Avenue Alphonse Allard 288
+1420 - Braine-l'Alleud",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Après la signature de l’acte,Excellent état,,4,,500 m²,50 m²,Équipée,28 m²,4,34 m²,33 m²,27 m²,24 m²,17 m²,,,6,Oui,,2400 m²,,Oui,,,54 m²,,54 kWh/m²,A+,20170313501357,Non communiqué,26 kWh/an,,,Oui,1.680.000 €,5.900 €,Non,2013,4,5,108 m²,Oui,Oui,Oui,Oui,Non,Oui,Oui,Oui,Non,Zone riveraine délimitée,"Zone d'habitat (résidentiel, urbain ou rural)","Rue Darwin 56
+1050 - Ixelles",V80000598,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Immédiatement,Bon,,3,,500 m²,,Équipée,,5,,,,,,,3,3,Oui,Non,2200 m²,Connecté,Oui,,,,,299 kWh/m²,D,20211006025986,Non communiqué,84899 kWh/an,Mazout,,Oui,1.150.000 €,,Non,,4,3,,Oui,Oui,,,Non,,Oui,,,,,"rue de la Gendarmerie 1
+1380 - Lasne",4517738,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,Après la signature de l’acte,Bon,1,4,,250 m²,,Hyper équipée,,5,,,,,,,,,Oui,Non,2500 m²,,,,,,,335 kWh/m²,D,20210707014169,Non communiqué,Non communiqué,,,Oui,1.185.000 €,,Non,,4,2,,Oui,Oui,,,Non,Oui,,,,,,"Avenue Legrand 30
+1050 - Ixelles",4519140,Non,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,,,,,,391 m²,62 m²,Équipée,,7,22 m²,18 m²,17 m²,17 m²,13 m²,,,4,,Non,3480 m²,,,,,,,193 kWh/m²,C,20210920012907,48 kg CO₂/m²,72395 kWh/an,Mazout,,Oui,1.475.000 €,5.713 €,Non,1990,4,4,23 m²,Oui,Oui,Non,Non,Non,Oui,Non,Oui,,,,"Rue des Saules, 31
+1380 - Ohain",102925,Non,Oui,Oui,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,,,,1,,125 m²,36 m²,,,2,16 m²,14 m²,,,,,,1,,Non,595 m²,,,,,,,611 kWh/m²,G,2020120816384,152 kg CO₂/m²,96677 kWh/an,Mazout,,Oui,350.000 €,1.072 €,Non,1959,4,1,15 m²,Oui,Oui,Non,,,,,,,,,"Rue des Saules, 31
+1380 - Ohain",102890,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,,,,6,,200 m²,60 m²,Équipée,,5,11 m²,11 m²,11 m²,11 m²,,,,2,,Non,2116 m²,,,,,,,350 kWh/m²,E,20170217014684,89 kg CO₂/m²,105073 kWh/an,Mazout,,Oui,685.000 €,,Non,1966,4,3,,Oui,,Non,Non,Non,Non,Oui,Non,,,,"Rue des Saules, 31
+1380 - Ohain",102893,Non,Oui,Oui,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Après la signature de l’acte,Bon,2,4,,275 m²,21 m²,Équipée,26 m²,4,21 m²,16 m²,17 m²,15 m²,,Oui,,,,Non,2200 m²,,Oui,,,,,247 kWh/m²,C,20121121012131,61 kg CO₂/m²,Non communiqué,Mazout,,,950.000 €,,Non,,4,4,17 m²,Oui,,,,,,,,,,,"Avenue Capouillet 58 A
+1410 - Waterloo",,,,Oui,,Oui,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Après la signature de l’acte,À rafraîchir,,8,,,,,,7,,,,,,,4,4,,Non,9000 m²,,Oui,,,,,328 kWh/m²,D,20210721006325,Non communiqué,132147 kWh/an,Gaz,,,950.000 €,,Non,,3,4,,,,,,,,,,,,,"rue de la Gendarmerie 1
+1380 - Lasne",4405148,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Après la signature de l’acte,Excellent état,4,,,,,,,7,,,,,,,,,Oui,,10500 m²,,,,,,,166 kWh/m²,B,20210612002985,Non communiqué,143216 kWh/an,Mazout,,,2.750.000 €,11.415 €,Non,2000,4,6,,Oui,Oui,,,,,,,,,,"Avenue Delleur, 8
+1170 - Watermael-Boitsfort",030/27647,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,Après la signature de l’acte,À rafraîchir,,,,120 m²,12 m²,,11 m²,2,12 m²,10 m²,,,,,,1,,Non,242 m²,Connecté,Non,,,20 m²,,436 kWh/m²,F,20201129002600,109 kg CO₂/m²,40272 kWh/an,,,Oui,150.000 €,267 €,Non,,2,1,,Oui,Oui,,,,,,,Non,Zone non inondable,,"Avenue du centenaire 53/4
+1400 - Nivelles",4211671,,,,,Oui,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,5,,,,8549 m²,,,,,306 kWh/m²,,,,,,,,,,,D,,,,,,,Non communiqué,Non communiqué,Non communiqué,Zone d'habitat mixte (habitat & activité économique),500.000 €,,,,,"Rue de la Gendarmerie 10
+1380 - Lasne",Juliette BOURDEAUX,,,,,,,,,,,,,,,9.816 €,,,,,,,,,,Non,À définir,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,Après la signature de l’acte,Bon,1,10,,430 m²,,,30 m²,3,37 m²,37 m²,32 m²,,,,,4,Oui,Non,4250 m²,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,3.600.000 €,,Non,2018,4,3,,Oui,,,,,,,,,,,"rue de la Gendarmerie 1
+1380 - Lasne",4186288,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Après la signature de l’acte,Excellent état,1,2,,130 m²,33 m²,Hyper équipée,11 m²,3,15 m²,85 m²,8 m²,,,,,2,,Non,560 m²,Connecté,Non,,,25 m²,,250 kWh/m²,C,20190212018338,Non communiqué,38961 kWh/an,Mazout,,Oui,525.000 €,2.310 €,Non,1975,3,2,,Oui,Oui,,,,,,,,,,"Chaussée de Bruxelles, 352
+1410 - Waterloo",4516945,,,,,,,,,,,350 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Après la signature de l’acte,Excellent état,1,,,180 m²,,,,4,15 m²,15 m²,17 m²,,,,1,2,,Non,462 m²,,,,,,,383 kWh/m²,E,Non communiqué,Non communiqué,86695 kWh/an,,,,Faire offre à partir de 395.000 €,,Non,,3,1,,,,,,,,,,,,,"rue de la Gendarmerie 1
+1380 - Lasne",4346634,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Après la signature de l’acte,,,4,,460 m²,,Équipée,,8,,,,,,,,3,Oui,Non,8500 m²,Connecté,Non,,,,,297 kWh/m²,D,20200707034019,Non communiqué,145444 kWh/an,Gaz,,Oui,Faire offre à partir de 800.000 €,,Non,,2,2,,Oui,Oui,,,Non,,Oui,,,,,"rue de la Gendarmerie 1
+1380 - Lasne",4369321,,Non,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,4,,221 m²,45 m²,Équipée,,4,15 m²,19 m²,19 m²,27 m²,,,1,3,,Non,5945 m²,,,,,,,Non communiqué,Non communiqué,20111127012989,222 kg CO₂/m²,252891 kWh/an,Mazout,,Oui,850.000 €,3.584 €,Non,,,1,,Non,,Non,,,,,,,Zone non inondable,,"Rue des Saules, 31
+1380 - Ohain",102916,,,Oui,Oui,,,,,,,5945 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,10,,490 m²,63 m²,Équipée,,6,24 m²,16 m²,16 m²,15 m²,13 m²,,,5,,Non,2511 m²,,,,,,,270 kWh/m²,D,20201229006611,67 kg CO₂/m²,121077 kWh/an,Mazout,,Oui,1.250.000 €,6.545 €,Non,,4,4,27 m²,Oui,,Oui,Non,Non,Oui,Oui,Non,,,,"Rue des Saules, 31
+1380 - Ohain",1000849,Non,Non,Oui,Oui,,,,,,,,"Oui, conforme",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,Après la signature de l’acte,À rafraîchir,2,2,,220 m²,50 m²,Hyper équipée,16 m²,5,22 m²,18 m²,16 m²,13 m²,10 m²,,,2,Oui,Non,1437 m²,Connecté,Non,,,10 m²,,523 kWh/m²,G,202108170012541,Non communiqué,99506 kWh/an,Mazout,,Oui,595.000 €,3.381 €,Non,1977,4,2,,Oui,Oui,,,Non,,,,,,,"Chaussée de Bruxelles, 352
+1410 - Waterloo",4506502,Oui,Non,,,,,,,,,800 m²,,14 décembre 2021 - 00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,À définir,Excellent état,1,2,,280 m²,73 m²,Hyper équipée,21 m²,5,27 m²,25 m²,16 m²,14 m²,18 m²,,,4,Oui,Non,827 m²,Connecté,Non,,,40 m²,,157 kWh/m²,B,Non communiqué,Non communiqué,Non communiqué,Mazout,,Oui,795.000 €,4.692 €,Non,1989,4,4,26 m²,Oui,Oui,,,Non,,Oui,,,,,"Chaussée de Bruxelles, 352
+1410 - Waterloo",4453592,Non,Oui,,,Oui,,,,,,200 m²,,27 août 2021 - 00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,,,,6,,260 m²,44 m²,Équipée,,4,26 m²,19 m²,19 m²,11 m²,,,,,,Non,1999 m²,,,,,,,357 kWh/m²,E,20211005010159,88 kg CO₂/m²,173137 kWh/an,Mazout,,Oui,1.050.000 €,2.543 €,Non,,4,2,11 m²,Oui,,Non,Non,Non,Oui,Oui,Non,,,,"Rue des Saules, 31
+1380 - Ohain",1000873,Non,Oui,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,,,,5,,399 m²,55 m²,Équipée,,4,30 m²,30 m²,12 m²,,,,,3,,Non,4496 m²,,,,,70 m²,,385 kWh/m²,E,20170124014453,95 kg CO₂/m²,143304 kWh/an,Mazout,,Oui,1.075.000 €,,Non,,4,2,12 m²,Oui,Oui,Oui,Non,Non,Non,Oui,Non,,,,"Rue des Saules, 31
+1380 - Ohain",102280,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+22,Après la signature de l’acte,Fraîchement rénové,,2,,175 m²,40 m²,Hyper équipée,16 m²,3,12 m²,13 m²,13 m²,,,,,2,Oui,Non,900 m²,,,,,30 m²,,214 kWh/m²,C,20210521021803,26 kg CO₂/m²,37893 kWh/an,,,Oui,599.000 €,815 €,Non,1910,4,2,6 m²,Oui,,,,Non,,,,,,,"Chaussée de Bruxelles, 352
+1410 - Waterloo",4496030,Oui,Non,,,,,,,,,900 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,Après la signature de l’acte,,1,4,,1015 m²,146 m²,Équipée,20 m²,3,34 m²,34 m²,16 m²,,,,,4,,,4200 m²,,,Oui,Sud,185 m²,,256 kWh/m²,D,20210430003239,Non communiqué,131 kWh/an,,,,3.300.000 €,,Non,,4,3,15 m²,Oui,,Oui,,Oui,,Oui,,,,,"Rue Darwin 56
+1050 - Ixelles",V80000283,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+24,,Excellent état,8,5,,,,,,3,,,,,,,,,Oui,,29000 m²,,,,,,,Non communiqué,B,Non communiqué,Non communiqué,Non communiqué,,,Oui,3.600.000 €,,Non,2017,4,3,,Oui,,Oui,,Oui,,Oui,Oui,,,,"Avenue J. Burgers, 2 b24
+1180 - Uccle",010/15205,,,Oui,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,,Excellent état,2,2,,184 m²,,,,4,,,,,,,,,,,1136 m²,,,,,,,239 kWh/m²,C,Non communiqué,Non communiqué,Non communiqué,,,,595.000 €,,Non,,4,2,,,,,,,,,,,,,"rue de la Gendarmerie 1
+1380 - Lasne",4278736,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,,,,,,380 m²,,,,1,,,,,,,,,,Non,1184 m²,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,Non,575.000 €,,Oui,,4,,,Non,,Non,,,,,,,,,"Rue des Saules, 31
+1380 - Ohain",102923,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,Après la signature de l’acte,Bon,2,4,,170 m²,30 m²,Équipée,11 m²,4,22 m²,16 m²,12 m²,11 m²,,Non,1,2,,Non,1245 m²,Connecté,Non,,Sud-ouest,100 m²,Sud-ouest,278 kWh/m²,D,20210930020391,Non communiqué,Non communiqué,Mazout,Non,Oui,695.000 €,2.949 €,Non,1971,4,1,11 m²,Oui,,Non,Non,Non,Non,Oui,Non,,Zone non inondable,,,,Non,Non,,,Oui,1,,,,,1000 m²,"Oui, conforme",,"Zone d'habitat (résidentiel, urbain ou rural)",Oui,12 m²,60 m²,Oui,Non,Non,Non,Non,Non,Non,Non,Oui,Oui,Non,Oui,Villa,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,Après la signature de l’acte,Bon,2,2,,530 m²,,Hyper équipée,,5,22 m²,16 m²,20 m²,15 m²,25 m²,,3,5,,Non,3147 m²,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Mazout,,,1.350.000 €,8.673 €,Non,2001,4,3,,,,,,Non,,,,,,,"Av. d’Hougoumont, 9 bte 2
+1180 - Bruxelles",,,Oui,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,4519209,,,,,,,,,,,,,,,,,,,,,,,,,
+29,Après la signature de l’acte,À rafraîchir,3,5,490 m²,80 m²,4,,,2,,,,,,,4,Oui,Non,2000 m²,Oui,,,Sud-ouest,50 m²,164 kWh/m²,,B,20170610000694,Non communiqué,83180 kWh/an,Non,Oui,,Zone non inondable,Non,,"chaussée de Wavre n°373
+1390 - Grez-Doiceau",1970,4,1,,Oui,,,,,,,,,850.000 €,,8104285 - 996367,,,,,,,,,,,,,Mazout,,,,,,,,,,,,,,,,,,,,"Oui, conforme",,,,,,,,,,,,,,,,,,,,,,,,
+30,Immédiatement,Bon,1,3,,250 m²,45 m²,Équipée,,4,,,,,,,1,3,Oui,,5600 m²,,Non,,,,,504 kWh/m²,F,20210625006398,125 kg CO₂/m²,125826 kWh/an,Mazout,,,850.000 €,,Non,,4,2,,Oui,Oui,Oui,,Non,,,,,,,"Av. d’Hougoumont, 9 bte 2
+1180 - Bruxelles",,Non,Non,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,4370281,,260 m²,,,,,,,,,,,,,,,,,,,,,,,
+31,,Excellent état,2,15,,754 m²,100 m²,,,,,,,,,,,6,,Non,2230 m²,,,,,30 m²,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Mazout,,Oui,1.650.000 €,,Oui,1975,,,350 m²,Oui,,,,,,,,,,,"Avenue Reine Astrid, 54
+1410 - Waterloo",25499 - 111136103,,,,,,,,,,,2000 m²,,1 septembre 2022 - 00:00,,,,,,,,,,,,,,,,,,,Non,,23 m,30 m,,,,,,,,,,,,,,,,,,,,,
+32,Après la signature de l’acte,,2,4,,275 m²,21 m²,Hyper équipée,26 m²,4,21 m²,16 m²,17 m²,15 m²,,Oui,1,4,Oui,Non,2200 m²,,Oui,,,1 m²,Sud-est,Non communiqué,C,20121121012131,61 kg CO₂/m²,Non communiqué,,Non,Non,950.000 €,,Non,,4,3,17 m²,Oui,,Non,Non,Non,Oui,Oui,Non,,,,,,Non,Non,,Oui,Oui,1,,,,,1 m²,,,Pays,Oui,,,,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,Oui,Toutes sortes,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,,À rénover,,,,,,,,2,,,,,,Non,,,,Non,400 m²,,Non,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Mazout,Non,Non,420.000 €,,Non,,3,1,,Non,,Non,,,,,,,,,,,,,,,,,,,,,1 m²,,,,Non,,,,Non,Non,Non,Non,,,,,Non,Non,Non,Toutes sortes,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,Après la signature de l’acte,Excellent état,1,4,,133 m²,,Hyper équipée,12 m²,1,35 m²,,,,,,1,2,,,1300 m²,Connecté,Oui,Oui,Sud,20 m²,Sud,596 kWh/m²,G,20170623009494,Non communiqué,79386 kWh/an,Gaz,,Oui,499.900 €,1.241 €,Non,1954,4,,,,,,,,Oui,Oui,,,,,"Avenue Lallemand 7
+1050 - Bruxelles",,,,,Oui,Oui,1,,,,,,,,,,,,,,Oui,,Oui,Oui,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,
+35,Après la signature de l’acte,Bon,,3,,245 m²,35 m²,Hyper équipée,30 m²,4,15 m²,13 m²,18 m²,20 m²,,,,,,Non,1107 m²,Connecté,Oui,Oui,Sud-ouest,,,486 kWh/m²,F,Non communiqué,Non communiqué,Non communiqué,Mazout,,Oui,650.000 €,,,,4,2,,,Oui,,,,,,,,,,"Rue d'Anogrune 140
+1380 - Lasne",,,,,,,1,,,,,,,,,Oui,10 m²,,,,,,,,,,,,,,,,,,17 m,,,75 m²,1,,,,,,,,,,,,,,,,,,
+36,Après la signature de l’acte,Excellent état,2,6,1746 m²,100 m²,9,,,7,,,,,,,,,Oui,,Oui,,,,,,,E,20170113008280,85 kg CO₂/m²,463315 kWh/an,Mazout,6.500.000 €,,,13.836 €,Non,"Rue Pechère 25
+1380 - Ohain",1918,4,Oui,,Oui,80978 m²,,,,,,,,,,386/0144,,,,342 kWh/m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,Après la signature de l’acte,À rénover,,,,170 m²,43 m²,,19 m²,2,15 m²,12 m²,,,,,,,Oui,,1084 m²,Connecté,Oui,,,,,729 kWh/m²,G,20210813007204,Non communiqué,Non communiqué,,,,410.000 €,1.289 €,,,3,1,14 m²,Oui,,,,,,,,,,,"Rue Lambermont 14
+1330 - Rixensart",,,,,,Oui,,,,,,900 m²,,,,,,30 m²,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,Selon le locataire,Bon,2,2,,210 m²,57 m²,Américaine équipée,,4,20 m²,15 m²,11 m²,11 m²,,,1,2,Oui,,1136 m²,Connecté,Non,,,50 m²,,333 kWh/m²,D,20130506015458,82 kg CO₂/m²,75090 kWh/an,Mazout,,Oui,595.000 €,2.231 €,Non,1980,4,2,,,Oui,,,Non,,,,,Zone non inondable,,"Rue de Namur 167
+1300 - Wavre",4457419,,Oui,,,,,,,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,,,,,,,,,,,,,,,,,Wavre et alentours,,,,,,,,,,,,,,,,,
+39,Après la signature de l’acte,Bon,1,5,,270 m²,30 m²,Équipée,30 m²,4,15 m²,13 m²,11 m²,9 m²,,,,2,Oui,Non,2441 m²,Connecté,Non,,,40 m²,,367 kWh/m²,E,20210804011359,91 kg CO₂/m²,80632 kWh/an,Mazout,,Oui,649.000 €,,Non,1978,4,2,,,,,,Non,,Oui,,,Zone non inondable,,"Place Ernest Dubois 6
+1390 - Grez-Doiceau",,Non,Non,,,Oui,,,,,,,,30 septembre 2021 - 00:00,Isolé,,,,,,,,,,,,,,,,,4454703,,,20 m,,,,,,,,,,,,,,,,,,,,,,
+40,,Bon,2,5,270 m²,45 m²,1,30 m²,4,9 m²,12 m²,13 m²,15 m²,2,,,,Oui,Non,2441 m²,Oui,,,Sud-ouest,40 m²,367 kWh/m²,,E,20210804011359,Non communiqué,80632 kWh/an,Non,Oui,,649.000 €,2.595 €,Non,"chaussée de Wavre n°373
+1390 - Grez-Doiceau",1978,4,2,,,,,,,,,,,,,8104276 - 996483,,,,,Oui,,Équipée,,,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,,,,,,,,,,Mazout,,20 m,,,,,Calme et résidentiel,,,,,,,,,,,,,,,,,
+41,Après la signature de l’acte,Excellent état,,2,,170 m²,14 m²,Hyper équipée,10 m²,3,18 m²,11 m²,10 m²,,,,,2,,Non,870 m²,Connecté,Oui,,Sud-ouest,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,,,480.000 €,,Non,2021,3,1,18 m²,Oui,Oui,,,,,,,,,,"Rue Xavier De Bue 1
+1180 - Uccle",jeremy maitre,,,,Oui,Oui,,,,,,620 m²,Non,,"Zone d'habitat (résidentiel, urbain ou rural)",Oui,,,Oui,,,,,,,,,,,,,,,,,,,18 m²,,,,,,,,,,,,,,,,,,,
+42,Après la signature de l’acte,À rafraîchir,,3,,193 m²,14 m²,Semi-équipée,10 m²,2,13 m²,15 m²,,,,,,1,Oui,Non,1085 m²,Non connecté,Non,,,,,404 kWh/m²,E,20210921012732,101 kg CO₂/m²,45028 kWh/an,Mazout,,Oui,Faire offre à partir de 275.000 €,,Non,1950,2,1,,,,,,,,,,,Zone non inondable,,"Chaussée de la libération, 3
+1390 - Grez-Doiceau",4531717,,,Oui,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,Après la signature de l’acte,Bon,2,2,252 m²,67 m²,Oui,17 m²,4,38 m²,34 m²,11 m²,11 m²,2,,,3,Oui,Non,1674 m²,Connecté,Non,1200 m²,,,,,C,20200127002610,Non communiqué,Non communiqué,Mazout,Oui,,Zone non inondable,2.463 €,Non,"Avenue Reine Astrid 215
+1410 - Waterloo",1992,4,1,,,,,,,,,,,675.000 €,,4321240,,,,252 kWh/m²,,Hyper équipée,,,,,,Oui,,1 novembre 2021 - 00:00,,,,,,,,,,,,,,,,,,,,,19 m,,,,,,,,,,,,,,,,,,,,,,
+44,Après la signature de l’acte,Bon,4,6,,424 m²,,Équipée,25 m²,5,24 m²,15 m²,13 m²,13 m²,11 m²,,,5,Oui,Non,5436 m²,,Oui,Oui,Sud-est,,,324 kWh/m²,D,Non communiqué,Non communiqué,Non communiqué,Gaz,,Oui,1.395.000 €,6.512 €,Non,1999,4,4,22 m²,Oui,,,,,,Oui,,,,,"Vismarkt 10 c
+3000 - Leuven",2679 - 2991604,,Oui,,,Oui,1,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,Oui,,,,,,,,,,,,,,,,
+45,Après la signature de l’acte,Fraîchement rénové,1,4,,215 m²,30 m²,Équipée,16 m²,4,18 m²,16 m²,14 m²,42 m²,,,,2,Oui,Non,879 m²,,Non,,,30 m²,,661 kWh/m²,G,20121014006662,Non communiqué,132964 kWh/an,Mazout,,Oui,450.000 €,840 €,Non,1927,4,1,,Oui,Oui,,,,,,,,Zone non inondable,,"Place Ernest Dubois 6
+1390 - Grez-Doiceau",,,,,,Oui,,,,,,,,1 août 2021 - 00:00,,,,,,,,,,,,,,,,,,4403959,,210 m²,,25 m,,33 m²,,,,,,,,,,,,,,,,,,,
+46,Après la signature de l’acte,À rénover,2,6,,364 m²,,Équipée,,10,,,,,,,,,Oui,,12700 m²,,,,,,,496 kWh/m²,F,20181123013555,Non communiqué,189999 kWh/an,Mazout,,,700.000 €,3.904 €,Non,1981,4,5,,,,,,,,,,,,,"Chaussée de Collines 102
+1300 - Wavre",,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,4456369,,540 m²,,,,,,,,,,,,,,,,,,,,,,,
+47,Après la signature de l’acte,Bon,,,550 m²,125 m²,1,,,70 m²,45 m²,24 m²,22 m²,Non,,Non,,,,Non,Non,Non,Non,,,,,B,20191022001303,29 kg CO₂/m²,4 kWh/an,Non,Non,Non,Oui,6.388 €,Non,"Drève Richelle, 118
+1410 - Waterloo",1996,4,,,Non,,Non,Non,Non,Oui,Non,Oui,1.375.000 €,,,5347656,,Oui,157 kWh/m²,,,,4,Non,,,,,Gaz,,,,,,,Non,Non,Non,Connecté,,,,,Non,Non,Oui,,,Non,Non,25 m,,,,,,645 m²,Non,,,,,,,,,,,,,,,
+48,Après la signature de l’acte,À rafraîchir,2,,660 m²,61 m²,Oui,,,24 m²,14 m²,17 m²,15 m²,3,,,,Oui,Non,5857 m²,Connecté,Non,51 m²,,,,,G,20190611016852,244 kg CO₂/m²,649930 kWh/an,Mazout,Oui,,Zone non inondable,10.862 €,Non,"Chaussée de Louvain 433
+1380 - Lasne",1976,4,4,,64 m²,,,,Non,Oui,,,,"Zone d'habitat (résidentiel, urbain ou rural)",1.650.000 €,4204250,,Oui,985 kWh/m²,Non,,4,,,,,,Oui,,1 juin 2021 - 00:00,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,
+49,Immédiatement,À rafraîchir,2,2,,100 m²,16 m²,Équipée,10 m²,3,14 m²,13 m²,9 m²,,,,,1,Oui,Non,1367 m²,Connecté,Non,,,25 m²,,615 kWh/m²,G,20210411009839,Non communiqué,59877 kWh/an,Mazout,,Oui,295.000 €,649 €,Non,,4,1,,,Oui,,,,,,,,Zone non inondable,,"Place Ernest Dubois 6
+1390 - Grez-Doiceau",,,,,,Oui,,,,,,,,31 mai 2021 - 00:00,,,,,,,,,,,,,,,,,,4349717,,,9 m,9 m,,27 m²,,,,,,,,,,,,,,,,,,,
+50,À définir,Excellent état,,3,,140 m²,18 m²,Hyper équipée,12 m²,4,11 m²,10 m²,15 m²,10 m²,,,1,2,,,1400 m²,Connecté,Non,,,20 m²,,284 kWh/m²,D,20201015004667,81 kg CO₂/m²,45657 kWh/an,,,,435.000 €,,Non,1991,4,1,,Oui,,,,Non,,Oui,,,Zone non inondable,,"Clos des Chêneaux 18A
+1390 - Grez-Doiceau",4416775,Non,Non,,,Oui,,,,,,1000 m²,,,,,,,,,,,,,,,,,Oui,,,,,90 m²,9 m,,,,,,,,,,,,,,,,,,,,,,
+51,Après la signature de l’acte,Bon,1,4,,160 m²,32 m²,Hyper équipée,12 m²,3,32 m²,16 m²,15 m²,,,,1,2,,Non,8191 m²,Connecté,Non,,,,,202 kWh/m²,C,20210604001781,53 kg CO₂/m²,53004 kWh/an,Mazout,,Oui,Faire offre à partir de 430.000 €,1.941 €,Non,2001,4,1,9 m²,Oui,Oui,,,Non,,Oui,,Non,Zone inondable potentielle,,"Chaussée de la libération, 3
+1390 - Grez-Doiceau",4496967,Non,Non,Oui,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,22 m,,,,,,,,,,,,,,,,,,,,,
+52,Après la signature de l’acte,Bon,1,4,,459 m²,46 m²,Équipée,19 m²,6,32 m²,16 m²,18 m²,17 m²,13 m²,,,2,Oui,,980 m²,Connecté,Non,,,,,234 kWh/m²,C,20210331021549,Non communiqué,107483 kWh/an,Mazout,,Oui,475.000 €,,Non,,4,1,,,Oui,,,,,,,,,,"Place Ernest Dubois 6
+1390 - Grez-Doiceau",,,,Oui,,,,,,,,,,30 août 2021 - 00:00,,,,,,,,,,,,,,,,,,4447697,,,15 m,26 m,,27 m²,,,,,,,,,,,,,,,,,,,
+53,Après la signature de l’acte,À rafraîchir,1,1,,100 m²,16 m²,Semi-équipée,7 m²,2,16 m²,11 m²,,,,,1,1,Oui,Non,550 m²,,Non,,,,,836 kWh/m²,G,20210929028138,Non communiqué,117567 kWh/an,Mazout,,Oui,195.000 €,,Non,,4,1,,,Oui,,,,,,,,Zone d'inondation reconnue,,"Place Ernest Dubois 6
+1390 - Grez-Doiceau",,,,Oui,,Oui,,,,,,,,1 octobre 2021 - 00:00,,,,,,,,,,,,,,,,,,4521081,,,,,,,,,,,,,,,,,,,,,,,,,
+54,À rénover,Pays,,,,,,,,996 m²,,,,,,,,,,,590 kWh/m²,,,,,,,G,20210419037299,Non communiqué,118370 kWh/an,Non,,,,,Non,"Rue de Clairvaux, 40 / 3
+1348 - Louvain-La-Neuve",,,,,,,,,,,,,,,120.000 €,Hélène POLLART,,,,,,,,,Non,"Visites les mercredis 13/10, 20/10, 27/10 et 03/11, de 16h à 18h, sans RDV.",899 €,,,,3,,,,,,,,,,,,,,Non,,,,,,,,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",Après la signature de l’acte,,,,,,,,,,,,,,
+55,Après la signature de l’acte,Excellent état,2,3,235 m²,50 m²,Hyper équipée,17 m²,6,25 m²,18 m²,16 m²,16 m²,13 m²,2,,,Oui,Non,1678 m²,Oui,,,,,,,B,Non communiqué,Non communiqué,Non communiqué,Non,Oui,,850.000 €,Non,,"Venelle de la réserve 2
+1300 - Wavre",2008,,2,,,,,,,,Oui,,,,,5470 - 5132,,,99 kWh/m²,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gaz,,,,,,,,,,,,,,,,,,,,,,,,
+56,Après la signature de l’acte,Excellent état,2,3,235 m²,50 m²,Hyper équipée,17 m²,6,25 m²,18 m²,16 m²,16 m²,13 m²,2,,,Oui,Non,1678 m²,Oui,,,,,,,B,Non communiqué,Non communiqué,Non communiqué,Non,Oui,,850.000 €,Non,,"Venelle de la réserve 2
+1300 - Wavre",2008,,2,,,,,,,,Oui,,,,,5469 - 5132,,,99 kWh/m²,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gaz,,,,,,,,,,,,,,,,,,,,,,,,
+57,Après la signature de l’acte,À rénover,4,,900 m²,1,,7,,Non,,,,,,7,5,Non,,Non,Non,Non,100 m²,,,Non,,Non communiqué,20180730013042,Non communiqué,Non communiqué,Non,,Non,Oui,Non,,"Drève Richelle, 118
+1410 - Waterloo",1976,,1,,Non,,Non,Non,Non,Oui,Non,Oui,1.495.000 €,,,5927618,,Non,Non communiqué,,,,Équipée,Non,,,,,Non,,,,,,,Non,Non,Non,Non connecté,,,,,Non,Non,Oui,,,"Oui, conforme",,,,,,,,Non,Non,,,,,,,,,,,,,,,
+58,À définir,Excellent état,1,,,285 m²,,Américaine équipée,,5,,,,,,,3,2,Oui,,2600 m²,Connecté,Oui,,,,,264 kWh/m²,D,20210710002972,Non communiqué,98268 kWh/an,,,,850.000 €,,Non,1994,4,3,,,Oui,,,Non,,Oui,,,Zone non inondable,,"Chaussée de Collines 102
+1300 - Wavre",,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,4431400,,,,,,,,,,,,,,,,,,,,,,,,,
+59,,Bon,1,2,,550 m²,,,,4,,,,,,,,,Oui,,10461 m²,,Oui,,,,,157 kWh/m²,B,20191022001303,Non communiqué,96797 kWh/an,Gaz,,Oui,1.375.000 €,6.388 €,Non,1996,4,4,,Oui,,,,,,Oui,,,,,"Chaussée de Collines 102
+1300 - Wavre",,,Oui,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,4457924,,,,,,,,,,,,,,,,,,,,,,,,,
+60,,Fraîchement rénové,2,6,,512 m²,83 m²,Pas équipée,35 m²,4,46 m²,19 m²,13 m²,,,,4,4,Oui,Non,5379 m²,,Non,,,,,136 kWh/m²,B,20210804001542,29 kg CO₂/m²,56532 kWh/an,Gaz,,Oui,1.775.000 €,,Non,1970,4,4,15 m²,Oui,,,,Non,,Oui,,,Zone non inondable,,"Allée du Bois de Bercuit 77
+1390 - Grez-Doiceau",,,Non,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,4532737,,,,,,,,,,,,,,,,,,,,,,,,,
+61,Après la signature de l’acte,Excellent état,1,2,320 m²,1,,,,1,,,,,,,3,Non,,688 m²,30 m,,,,,,,D,Non communiqué,Non communiqué,Non communiqué,Non,Oui,,499.000 €,3.740 €,Non,"Chaussée de Bruxelles 23 (sur N5)
+1472 - Vieux Genappe",,4,1,,,,,,,,,,,,,3688 - 650209,,,,Non communiqué,,,6,,,,,Oui,,,,,,,,,,,,,,,,,,,,,Mazout,,22 m,393 m²,,,,,,,,,,,,,,,,,,,,,
+62,,,2,6,,430 m²,64 m²,Équipée,,4,,,,,,,3,,,Non,5968 m²,,,,,150 m²,,121 kWh/m²,B,20160111501780,Non communiqué,54099 kWh/an,Gaz,Non,Non,2.590.000 €,3.762 €,Non,2015,4,1,,,,,,,Oui,Oui,Oui,,,,"Rue Notre Dame 39
+1360 - Perwez",606,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,Oui,Non,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,
+63,,Bon,,,,55 m²,,Équipée,12 m²,1,24 m²,,,,,,,,,Non,325 m²,,Oui,,,,,643 kWh/m²,G,Non communiqué,Non communiqué,Non communiqué,,,Oui,150.000 €,,Non,,4,1,,,,,,,,,,,,,"Venelle de la réserve 2
+1300 - Wavre",4899 - 2929,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,
+64,,,2,4,,771 m²,,Hyper équipée,,6,,,,,,,2,,,Non,5000 m²,,,,Sud,50 m²,,Non communiqué,Non communiqué,B num : 20140926021641,100 kg CO₂/m²,76848 kWh/an,,Non,Non,1.800.000 €,,Non,2007,4,3,,,,,,,,,,,,,"Chausse de St. Job, 546
+1180 - Bruxelles",Nathalie Haim,,Oui,,,,,,,,,4800 m²,,,,,,,,,,,,,,,,Non,Non,,,,Non,,,,Oui,,,,,,,1016055NH-1,,,,,,,,,,,,,
+65,,,2,4,,771 m²,,Hyper équipée,,6,,,,,,,2,,,Non,5000 m²,,,,Sud,50 m²,,Non communiqué,Non communiqué,B num: 20140926021641,100 kg CO₂/m²,76848 kWh/an,,Non,Non,1.950.000 €,,Non,2007,4,3,,,,,,,,,,,,,"Chausse de St. Job, 546
+1180 - Bruxelles",Nathalie Haim,,Oui,,,,,,,,,4800 m²,,,,,,,,,,,,,,,,Non,Non,,,,Non,,,,Oui,,,,,,,1016055NH,,,,,,,,,,,,,
+66,,,2,4,,771 m²,,Hyper équipée,,6,,,,,,,2,,,Non,5000 m²,,,,Sud-ouest,50 m²,,Non communiqué,Non communiqué,20140926021641,Non communiqué,Non communiqué,,Oui,Oui,1.830.000 €,,Non,2007,4,3,,,,,,,,,,,,,"Chausse de St. Job, 546
+1180 - Bruxelles",Nathalie Haim,,Oui,,,,,,,,,4500 m²,,,,,,,,,,,,,,,,Non,Non,,,,Non,,,,Oui,,,,,,,1020297NH,,,,,,,,,,,,,
+67,Après la signature de l’acte,Bon,1,2,,227 m²,42 m²,Équipée,22 m²,5,16 m²,16 m²,11 m²,15 m²,13 m²,,,2,Oui,Non,3770 m²,,,,,,,498 kWh/m²,F,20210120009479,125 kg CO₂/m²,146355 kWh/an,Gaz,,Oui,485.000 €,756 €,Non,,4,2,10 m²,Oui,,,,Non,,,,,,,"Avenue de Mérode , 4
+1330 - Rixensart",,Oui,Non,Oui,,,,,,,,3770 m²,,25 juin 2021 - 00:00,,,,,,,,,,,,,,,,,,4250741,,,,,,,,,,,,,,,,,,,,,,,,,
+68,Après la signature de l’acte,,1,3,,287 m²,52 m²,,22 m²,5,18 m²,14 m²,16 m²,15 m²,15 m²,,2,,Oui,,1830 m²,,Non,,,,,252 kWh/m²,C,20211011027164,Non communiqué,101996 kWh/an,Mazout,,Oui,Faire offre à partir de 835.000 €,,Non,2001,4,3,14 m²,Oui,Oui,,,,,,,,Zone non inondable,,"Allée du Bois de Bercuit 77
+1390 - Grez-Doiceau",,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,4508573,,,,,,14 m²,,,,,,,,,,,,,,,,,,,
+69,,,,,,200 m²,35 m²,,25 m²,3,35 m²,11 m²,15 m²,,,,,2,,,1300 m²,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,785.000 €,,Non,,4,2,,,,,,,,,,,,,"Allée du Bois de Bercuit 77
+1390 - Grez-Doiceau",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4521045,,,,,,,,,,,,,,,,,,,,,,,,,
+70,Après la signature de l’acte,Excellent état,1,2,,200 m²,80 m²,Équipée,42 m²,3,24 m²,12 m²,8 m²,,,,,3,,Non,1500 m²,,Oui,,Sud,45 m²,,419 kWh/m²,E,Non communiqué,Non communiqué,Non communiqué,Électrique,,Oui,725.000 €,2.719 €,Non,1990,4,2,,,,,,,,,,,,,"Avenue du Hockey, 40
+1150 - Woluwe-St-Pierre",6236 - 4682,,,,,,1,,,,,1200 m²,,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,,,,,,,,,,Non,,,,,,,Bercuit,,,,,50 €,,,,,,,,,,,,
+71,Après la signature de l’acte,Excellent état,1,1,,280 m²,35 m²,Américaine hyper-équipée,9 m²,4,15 m²,13 m²,32 m²,20 m²,,,1,2,Oui,,600 m²,Connecté,Oui,,,,,311 kWh/m²,D,20130131008769,77 kg CO₂/m²,69256 kWh/an,Mazout,,Oui,Faire offre à partir de 419.000 €,,Non,1967,4,2,,Oui,Oui,,,,,,,,Zone non inondable,,"Tienne du Sarment 13
+1300 - WAVRE",4492952,,,Oui,,,,,,,,,,,Isolé,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,,,2,3,,395 m²,67 m²,Pas équipée,,7,,,,,,Non,,4,,Non,1600 m²,Non connecté,Non,,,,Sud,218 kWh/m²,C,20150225025640,Non communiqué,100212 kWh/an,Gaz,,Oui,Faire offre à partir de 1.200.000 €,,Non,1992,4,3,,Non,,Non,,,,,,,,,"Rond Point Schuman 6/5
+1040 - Etterbeek",,,,,,,,,,,,,,,Pays,,,,,,,,,,,,,,,,,Maubroux_ 24,Non,,,,,,,,,,,,,,,,,,,,,,,,
+73,,Excellent état,5,3,,200 m²,,Équipée,,5,16 m²,14 m²,14 m²,14 m²,13 m²,,1,3,,Non,3074 m²,,Oui,Oui,Sud,,,163 kWh/m²,B,20210930009637,35 kg CO₂/m²,43143 kWh/an,Gaz,,Oui,Faire offre à partir de 679.000 €,2.101 €,Non,2001,4,1,,,,,,,,,,,,,"Chaussée de Louvain 244
+1300 - Wavre",,,,,,,,,,,,,,,,,14 m²,,,,,,,,,,,,,,,41825 - 20044/WAD,Non,,,,,,,,,,,,,,,,,,,,,,,,
+74,,,,2,,160 m²,13 m²,Hyper équipée,20 m²,3,13 m²,14 m²,25 m²,,,Oui,,2,Oui,Non,400 m²,Connecté,Oui,,Sud,10 m²,Sud,Non communiqué,B,Non communiqué,Non communiqué,Non communiqué,Mazout,Oui,Oui,420.000 €,,Non,1958,3,1,,Non,Oui,Non,Non,Non,Non,Non,Non,,Zone non inondable,,,,Non,Non,,Oui,Oui,,,,,,1 m²,,,,Non,,,,Non,Non,Non,Non,Non,Non,Non,Oui,Non,Non,Oui,Toutes sortes,,,,,,,,,,,,,,,,,,,,,,,,,,
+75,,,1,2,,146 m²,33 m²,Équipée,12 m²,2,13 m²,13 m²,,,,,,1,,Non,1056 m²,,Oui,Oui,Ouest,,,504 kWh/m²,F,20210913013366,98 kg CO₂/m²,70086 kWh/an,Électrique,,Oui,,1.527 €,Non,1988,4,1,,,,,,,,Oui,,,,,"Chaussée de Louvain 244
+1300 - Wavre",,,,,,,,,,,,,,,,,6 m²,,,,,,,,,,,,,,,41739 - 20042/WAD,Non,,,,,,,,,,,,,100.000 €,100.000 €,1.700 €,Oui,Oui,Non,2,10 ans,,,,
+76,Après la signature de l’acte,À rénover,1,,,110 m²,29 m²,Équipée,,2,,,,,,,,,Oui,Non,942 m²,,,,,,,444 kWh/m²,F,Non communiqué,111 kg CO₂/m²,96357 kWh/an,Mazout,,,Faire offre à partir de 260.000 €,,Non,,4,1,7 m²,Oui,,,,,,,,,,,"Chaussée de Louvain 244
+1300 - Wavre",,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,41716 - 20042/WBJ,Non,,,,,,,,,,,,,,,,,,,,,,,,
+77,Après la signature de l’acte,Bon,2,,,140 m²,,Hyper équipée,,2,,,,,,,,,Oui,Non,795 m²,,Oui,,,20 m²,,900 kWh/m²,G,20120531022438,Non communiqué,Non communiqué,Mazout,,Oui,340.000 €,,Non,,4,1,,,,,,,,,,,,,"Place des Tilleuls 3
+5300 - Andenne",4873 - 19732,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,
+78,Après la signature de l’acte,Bon,2,,,140 m²,,Hyper équipée,,2,,,,,,,,,Oui,Non,795 m²,,Oui,,,20 m²,,900 kWh/m²,G,20120531022438,Non communiqué,Non communiqué,Mazout,,Oui,340.000 €,,Non,,4,1,,,,,,,,,,,,,"Place des Tilleuls 3
+5300 - Andenne",4872 - 19732,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,
+79,Après la signature de l’acte,Excellent état,1,6,,562 m²,42 m²,Américaine équipée,35 m²,6,20 m²,20 m²,16 m²,15 m²,57 m²,,3,4,Oui,Non,1934 m²,Connecté,Non,,,,,203 kWh/m²,C,20200224009463,545 kg CO₂/m²,110419 kWh/an,,,Oui,1.175.000 €,3.971 €,Non,2005,4,3,18 m²,Oui,Oui,,,Non,Oui,Oui,,,,,"Allée du Bois de Bercuit 77
+1390 - Grez-Doiceau",,Non,Oui,Oui,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,3990044,,562 m²,,,,,,,,,,,,,,,,,,,,,,,
+80,Après la signature de l’acte,,,2,,,,Équipée,,3,,,,,,,,2,,,727 m²,,Oui,,,,,Non communiqué,B,Non communiqué,Non communiqué,Non communiqué,Gaz,,Oui,365.000 €,,,2021,4,1,,,,,,,,Oui,,,Zone non inondable,,"Rue de l'école 7
+5575 - Patignies",Florence Hotton,,,Oui,,,,,,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81,À définir,Bon,1,4,,139 m²,32 m²,Hyper équipée,9 m²,3,24 m²,12 m²,11 m²,,,,1,2,,Non,1633 m²,Connecté,Non,,,,,354 kWh/m²,E,20210726010310,89 kg CO₂/m²,66046 kWh/an,Mazout,,Oui,399.000 €,1.670 €,Non,1985,4,2,,,Oui,,,,,,,Non,Zone inondable potentielle,,"Chaussée de la libération, 3
+1390 - Grez-Doiceau",4417994,,,Oui,,,,Non,,,,,,15 février 2022 - 00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,
+82,Après la signature de l’acte,Excellent état,,,,139 m²,54 m²,Hyper équipée,,2,15 m²,20 m²,,,,,1,2,Oui,,,,Non,,,16 m²,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,,,360.000 €,,Non,2019,2,2,,,,,,Oui,,,,,,,"Chaussée de la libération, 3
+1390 - Grez-Doiceau",4342104,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+83,Après la signature de l’acte,Bon,1,3,Oui,,,11 m²,4,23 m²,14 m²,10 m²,8 m²,1,,,1,Oui,,578 m²,Oui,,Oui,Nord,13 m²,324 kWh/m²,,D,20210909011146,Non communiqué,45567 kWh/an,Non,Oui,,Faire offre à partir de 350.000 €,1.653 €,Non,"Rue du Bois Paillet 9
+1315 - Roux-Miroir",1987,4,,,,,,,,,,,,,,69 - 93363874,,,,,11 m²,Équipée,,,,,,,,,,,Non,,,,,,,,,,,,,,,,Électrique,,,,,,,,,,,,,,,,,,,,,,,,
+84,Après la signature de l’acte,,1,2,,145 m²,38 m²,Équipée,14 m²,3,15 m²,12 m²,12 m²,,,,,,,Non,864 m²,,,,,,,297 kWh/m²,D,20180525015004,750 kg CO₂/m²,52739 kWh/an,Mazout,,Oui,Faire offre à partir de 375.000 €,1.797 €,Non,1983,4,1,,,,,,,,,,,,,"Chaussée de Louvain 244
+1300 - Wavre",,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,41647 - 20042/WAD,Non,,,,,,,,,,,,,,,,,,,,,,,,
+85,Après la signature de l’acte,Bon,4,10,,525 m²,57 m²,,,6,27 m²,18 m²,11 m²,13 m²,16 m²,,6,,,,1915 m²,,,,,,,117 kWh/m²,B,2019011801167,Non communiqué,58148 kWh/an,Gaz,,,Faire offre à partir de 999.000 €,,Non,1990,4,6,17 m²,Oui,,,,,,,,,,,"Allée du Bois de Bercuit 77
+1390 - Grez-Doiceau",,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,4411118,,,,,,,,,,,,,,,,,,,,,,,,,
+86,Après la signature de l’acte,À rafraîchir,4,10,,650 m²,,,,5,,,,,,,,4,,,27000 m²,Connecté,Non,,,120 m²,,397 kWh/m²,E,20190429001660,Non communiqué,33654 kWh/an,Mazout,,Oui,3.900.000 €,10.042 €,Non,1972,4,5,,Oui,,Oui,Oui,Oui,Oui,Oui,Oui,,,,"Allée du Bois de Bercuit 77
+1390 - Grez-Doiceau",,Oui,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4220583,,,,,,,,,,,,,,,,,,,,,,,,,
+87,,,,,,,,Équipée,,4,,,,,,,,,,Non,12000 m²,,,,,,,287 kWh/m²,D,20140416014369,Non communiqué,Non communiqué,,,Oui,1.350.000 €,,Non,,4,2,,,,,,,,,,Non,Zone non inondable,Zone agricole,"Sint-Laurentuisstraat 50D
+9130 - Verrebroek",4132 - 4031,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,Oui,Non,,,,,,,,,,,,,,,
+88,Après la signature de l’acte,,,,,,,,,4,,,,,,,,,,Non,11700 m²,,,,,,,266 kWh/m²,D,20171003000627,Non communiqué,Non communiqué,Mazout,,Oui,1.980.000 €,,Non,,4,4,,,,,,,,,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)","Sint-Laurentuisstraat 50D
+9130 - Verrebroek",4091 - 4008,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,Oui,,,,,,,,,,,,,,,,
+89,,Excellent état,2,2,,179 m²,50 m²,,,3,,,,,,,,,Oui,,,Connecté,Oui,Oui,Sud,,,214 kWh/m²,C,20150109000244,40 kg CO₂/m²,57785 kWh/an,Gaz,,Oui,750.000 €,3.098 €,Non,1998,2,2,10 m²,Oui,Oui,,,Non,,Oui,,,,,"Av. Albert 1er 2a
+1342 - Ottignies (Limelette)",W6553,,,Oui,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,19 m,,,,,,,,,,250 €,,,,,,,,,,,,
+90,Après la signature de l’acte,À rafraîchir,1,1,,128 m²,24 m²,Semi-équipée,17 m²,3,10 m²,12 m²,6 m²,,,,1,1,,Non,312 m²,Connecté,Non,,,,,377 kWh/m²,E,20210905005580,93 kg CO₂/m²,48244 kWh/an,Mazout,,Oui,Faire offre à partir de 259.000 €,1.341 €,Non,,3,1,4 m²,Oui,Oui,,,,,,,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)","Place Communale 18
+6230 - Pont-à-Celles",4536307,,,,,Oui,,Non,,,,100 m²,,,Isolé,,,,,,,,,,,,,,,,,,,55 m²,6 m,18 m,,,,,Oui,Oui,,,,,,,,,,,,,,,
+91,Après la signature de l’acte,Excellent état,,,,130 m²,35 m²,Américaine hyper-équipée,16 m²,3,16 m²,15 m²,21 m²,,,,1,1,Oui,Non,185 m²,Connecté,Oui,,,25 m²,,254 kWh/m²,C,20160918001283,50 kg CO₂/m²,36873 kWh/an,Gaz,,Oui,Faire offre à partir de 275.000 €,737 €,Non,1920,2,1,,Oui,,,,,,,,,,,"Place Communale 18
+6230 - Pont-à-Celles",4515834,,,,,,,,,,,120 m²,,1 janvier 2022 - 00:00,Urbain,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,Après la signature de l’acte,Bon,1,2,,130 m²,40 m²,Équipée,9 m²,3,11 m²,28 m²,10 m²,,,,1,2,,Non,1000 m²,,Non,,,50 m²,,379 kWh/m²,E,20210708000595,108 kg CO₂/m²,63435 kWh/an,Électrique,,Oui,Faire offre à partir de 425.000 €,1.497 €,Non,1989,4,1,,,,,,,,,,,,,"Place Communale 18
+6230 - Pont-à-Celles",4402153,,,,,Oui,,,,,,920 m²,,1 octobre 2021 - 00:00,Isolé,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,Après la signature de l’acte,Excellent état,,,,225 m²,43 m²,Hyper équipée,,4,,,,,,,1,1,Oui,Non,104 m²,,Oui,,,60 m²,,281 kWh/m²,D,20170222002405,52 kg CO₂/m²,64465 kWh/an,Gaz,,Oui,270.000 €,1.273 €,Non,,3,1,,,,,,,,,,,,,"Rue de Namur 93
+1400 - Nivelles",2734 - 1287,,,,,,,,,,,,,,Urbain,,,,,,,,,,,,,,,,,,Non,,4 m,4 m,,,,,,,,,,,,,,,,,,,,,
+94,Après la signature de l’acte,À rafraîchir,1,,,118 m²,31 m²,Hyper équipée,,3,,,,,,,,1,Oui,Non,794 m²,,Oui,,Sud-ouest,18 m²,,652 kWh/m²,G,20210614009112,162 kg CO₂/m²,67494 kWh/an,Mazout,,,300.000 €,711 €,Non,1968,4,1,6 m²,Oui,,,,,,,,,,,"Rue de Namur 93
+1400 - Nivelles",2726 - 1272,,,,,,1,,,,,600 m²,,,,,,,,,,,,,,,,,,,,,Non,,12 m,19.7 m,,,,,,,,,,,,,,,,,,,,,
+95,Après la signature de l’acte,Bon,,,,320 m²,39 m²,Semi-équipée,,3,,,,,,,1,2,Oui,Non,170 m²,,Oui,,,,,474 kWh/m²,F,20190517010330,119 kg CO₂/m²,76130 kWh/an,Mazout,,Oui,325.000 €,2.813 €,Oui,1958,2,1,,,,,,,,Oui,,,,,"Rue de Namur 93
+1400 - Nivelles",2741 - 1080,,,,,,,,,,,,,,Urbain,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,
+96,Après la signature de l’acte,Bon,,,,320 m²,39 m²,Semi-équipée,,5,,,,,,,1,2,Oui,Non,170 m²,,Oui,,,,,474 kWh/m²,F,20190517010330,119 kg CO₂/m²,76130 kWh/an,Mazout,,Oui,325.000 €,2.813 €,Non,1958,2,1,,,,,,,,Oui,,,,,"Rue de Namur 93
+1400 - Nivelles",2483 - 1080,,,,,,,,,,,,,,Urbain,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,
+97,,,,,,203 m²,35 m²,Équipée,,3,,,,,,,2,2,,Non,260 m²,,Oui,,Nord-est,,,90 kWh/m²,B,Non communiqué,Non communiqué,Non communiqué,Gaz,,Oui,357.000 €,1 €,Non,2023,3,1,,,,,,,,,,,,,"Rue du fond Cattelain 1 bt1
+1435 - Mont St Guibert",3289 - 1570,,,,,,,,,,,170 m²,,1 mars 2023 - 00:00,,,,,,Non,,,,,,,,,,,,,Non,,10 m,10 m,,,,,,,,,,,,,,,,,,,,,
+98,Après la signature de l’acte,Excellent état,,,316 m²,35 m²,Hyper équipée,26 m²,4,17 m²,12 m²,16 m²,16 m²,2,,,,Oui,,481 m²,Connecté,Non,300 m²,,,Non,,C,Non communiqué,Non communiqué,Non communiqué,Mazout,Oui,,320 m²,Non,,"Chée de Nivelles 167
+7181 - Arquennes (Nivelles)",,2,5,,136 m²,,,,Non,,Non,,499.000 €,,,4528869,,Oui,252 kWh/m²,,,,,Non,,,,100 m²,,,Pays,,Non,,,,,,,,,,,,,,,,,Non,,,,28 m²,,,,Non,,,,,,,,,,,,,,,
+99,Après la signature de l’acte,À rafraîchir,,,,170 m²,44 m²,Semi-équipée,5 m²,2,17 m²,17 m²,,,,,1,1,,Non,270 m²,Non connecté,Non,,,,,373 kWh/m²,E,20210224011715,91 kg CO₂/m²,52173 kWh/an,Mazout,,,Faire offre à partir de 225.000 €,753 €,Non,1900,2,1,,,,,,,,,,Non,,,"Avenue du centenaire 53/4
+1400 - Nivelles",4286320,,,Oui,,Oui,,Non,,,,,,,,,15 m²,,,,,,,,,,,,,,,,,110 m²,470 m,,,,,,,,,,,,,,,,,,,,,,
+100,Après la signature de l’acte,,2,2,,210 m²,52 m²,Équipée,8 m²,4,20 m²,20 m²,12 m²,9 m²,,,,2,Oui,Non,968 m²,,Oui,,Sud,,,374 kWh/m²,E,20210614032637,93 kg CO₂/m²,95766 kWh/an,Mazout,,Oui,405.000 €,1.874 €,Non,1968,4,1,21 m²,Oui,,,,,,,,,Zone non inondable,,"Chaussée de Mons 14
+1400 - Nivelles",181387 - 111114721,,,,,Oui,1,,,,,560 m²,,,,,,,,,,,,,,,,,,,,,Non,,,22 m,,,,Thines,,,,,,,,,,,,,,,,,
+101,Après la signature de l’acte,À rafraîchir,1,2,,126 m²,28 m²,Équipée,18 m²,3,12 m²,15 m²,6 m²,,,,,1,Oui,Non,953 m²,Connecté,Oui,,,16 m²,,417 kWh/m²,E,20210510018788,103 kg CO₂/m²,48911 kWh/an,Mazout,,Oui,Faire offre à partir de 300.000 €,,Non,1963,3,1,,Oui,,,,,,,,Non,,,"Avenue du centenaire 53/4
+1400 - Nivelles",4350627,,,,,,,Non,,,,900 m²,,,,,,37 m²,,,,,,,,,,,,,,,,53 m²,8 m,15.45 m,,,,,Oui,,,,,,,,,,,,,,,,
+102,Après la signature de l’acte,Bon,,,225 m²,65 m²,Pas équipée,3,,1,,,,,,,2,Oui,Non,167 m²,Oui,,57 m²,,,Oui,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,Oui,,300.000 €,2.845 €,Non,"Rue de Namur 93
+1400 - Nivelles",1875,2,,,,,,,,,Non communiqué,,,,,2567 - 1081,,,,,,,,,,,,,,,Urbain,,,,,,,,,,,,,,,,,,Gaz,,12 m,,,,,,,,,,,,,,,,,,,,,,
+103,À définir,À rafraîchir,,,,201 m²,35 m²,Équipée,14 m²,3,11 m²,12 m²,16 m²,,,,,1,Oui,Non,270 m²,Connecté,Oui,,,18 m²,,435 kWh/m²,F,20210608023830,82 kg CO₂/m²,65252 kWh/an,Gaz,,,Faire offre à partir de 325.000 €,,Non,1890,2,1,,,Oui,,,,,,,Non,Zone non inondable,,"Avenue du centenaire 53/4
+1400 - Nivelles",4373270,,,,,,,,,,,270 m²,,18 septembre 2021 - 00:00,,,,,,,,,,,,,,,,,,,,,5.18 m,,,,,,,Non,,,,,,,,,,,,,,,
+104,Après la signature de l’acte,Excellent état,1,1,,161 m²,26 m²,Hyper équipée,9 m²,4,11 m²,11 m²,8 m²,23 m²,,,,2,,Non,402 m²,Connecté,Oui,,,32 m²,,129 kWh/m²,B,20160218500635,Non communiqué,20836 kWh/an,Gaz,,Oui,480.000 €,,Non,2015,3,2,,Oui,,,,,,,,Non,Zone non inondable,,"Avenue du centenaire 53/4
+1400 - Nivelles",4318176,,,,,,,Non,,,,,,,,,,11 m²,,,,,,,,,,,,,,,,,11 m,,,,,,Oui,Oui,,,,,,,,,,,,,,,
+105,,Bon,1,2,,168 m²,34 m²,Équipée,14 m²,3,20 m²,14 m²,,,,,1,2,,Non,602 m²,,Oui,,Sud-est,,,361 kWh/m²,E,20150715015305,Non communiqué,Non communiqué,Électrique,,Oui,,2.253 €,Non,1989,4,,20 m²,Oui,,,,,,,,,Zone non inondable,,"Chaussée de Mons 14
+1400 - Nivelles",181394 - 111114497,,,Oui,,Oui,,,,,,258 m²,Non,,,,,,,,,,,,,,,,,,,,Non,,9 m,15 m,,,,,,,,,,350.000 €,40.000 €,900 €,Oui,Non,Non,1,17 ans,72,,,
+106,Après la signature de l’acte,Excellent état,1,10,761 m²,50 m²,Oui,30 m²,5,44 m²,28 m²,28 m²,25 m²,20 m²,5,,,17 m²,,26769 m²,40 m,,4200 m²,,,Non,,B,20210402022101,Non communiqué,126191 kWh/an,Mazout,Oui,,Oui,Non,,"Chée de Nivelles 167
+7181 - Arquennes (Nivelles)",,4,5,Oui,40 m²,,,,Oui,,Non,,,"Zone d'habitat (résidentiel, urbain ou rural)",1.250.000 €,4530051,,,167 kWh/m²,,,Américaine hyper-équipée,,,,,,100 m²,,,,,35 m²,Non,,,,,,,,,,,Oui,,,,,Zone non inondable,,Non,,,,Seneffe,761 m²,,,,,,,,,,,,,,,,
+107,Après la signature de l’acte,Excellent état,1,2,242 m²,25 m²,Hyper équipée,14 m²,5,14 m²,10 m²,9 m²,18 m²,9 m²,2,,,8 m²,Non,1140 m²,11.89 m,,,,20 m²,171 kWh/m²,,C,20211009006300,31 kg CO₂/m²,45424 kWh/an,Non,Oui,,Faire offre à partir de 480.000 €,2.055 €,Non,"Chaussée de Bruxelles 23 (sur N5)
+1472 - Vieux Genappe",1978,2,3,Oui,Oui,,,,,,,,,,,3748 - 650262,,,,,,,,,,,,Sud,,,,,,,,,,,,,,,,,,,,,Gaz,,,909 m²,,,,,,,,,,,,,,,,,,,,,
+108,Après la signature de l’acte,Excellent état,1,2,194 m²,31 m²,Hyper équipée,11 m²,5,10 m²,16 m²,16 m²,16 m²,18 m²,2,,,Oui,364 m²,,Connecté,Oui,40 m²,,,Oui,,B,RWPEB-007517.19,Non communiqué,21045 kWh/an,Gaz,Oui,,Zone non inondable,Non,,"Chaussée Bara, 148
+1420 - Braine L'Alleud",2013,2,3,,,,,,,96 kWh/m²,,,,485.000 €,,4273227,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+109,Après la signature de l’acte,Bon,1,1,,120 m²,27 m²,Équipée,11 m²,3,13 m²,12 m²,11 m²,,,,,2,,Non,125 m²,,Oui,,,,,196 kWh/m²,C,20120426023155,49 kg CO₂/m²,Non communiqué,Mazout,,Oui,285.000 €,1.321 €,Non,1974,2,1,,,,,,,,,,,,,"Avenue de Burlet 11A
+1400 - Nivelles",78231 - CV36,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,5 m,5 m,,,,,,,,,,,,,,,,,,,,,
+110,Après la signature de l’acte,Bon,1,1,,202 m²,29 m²,Équipée,11 m²,3,17 m²,13 m²,12 m²,,,,,2,Oui,Non,410 m²,Connecté,Non,,,21 m²,,384 kWh/m²,E,20210406007275,71 kg CO₂/m²,72996 kWh/an,Gaz,,Oui,Faire offre à partir de 375.000 €,1.626 €,Non,,3,1,9 m²,Oui,,,,Non,,Oui,,Non,Zone non inondable,,"Avenue du centenaire 53/4
+1400 - Nivelles",4528344,Non,Non,,,,,Non,,,,410 m²,,,,,,62 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+111,À définir,Bon,,5,,200 m²,,Équipée,,5,25 m²,10 m²,11 m²,17 m²,14 m²,,,2,,Non,953 m²,,Oui,,,,,289 kWh/m²,D,20191120019262,Non communiqué,70962 kWh/an,Gaz,,Oui,,,Non,1994,4,2,14 m²,Oui,,,,Non,,,,,,,"Avenue du centenaire 53/4
+1400 - Nivelles",4399845,Oui,Non,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20 m,,,,,,,,,,,,125.000 €,340 €,Non,Non,Non,1,,60,,,
+112,Après la signature de l’acte,Fraîchement rénové,1,2,,141 m²,29 m²,Équipée,7 m²,3,15 m²,13 m²,8 m²,,,,1,2,,Non,199 m²,,Oui,,,,,309 kWh/m²,D,20210720014223,Non communiqué,43512 kWh/an,Électrique,,Oui,335.000 €,1.398 €,Non,1974,2,,,,,,,,,,,,,,"Avenue de Burlet 11A
+1400 - Nivelles",78271 - N25+CV15,,,Oui,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,7.2 m,,,,,,,,,,,,,,,,,,,,,
+113,Après la signature de l’acte,Bon,,5,,200 m²,,Équipée,,5,25 m²,10 m²,11 m²,17 m²,14 m²,,,2,,Non,953 m²,,Oui,,,,,289 kWh/m²,D,20191120019262,Non communiqué,70962 kWh/an,Gaz,,Oui,Faire offre à partir de 400.000 €,,Non,1994,4,2,14 m²,Oui,,,,Non,,,,,,,"Avenue du centenaire 53/4
+1400 - Nivelles",4501404,Oui,Non,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20 m,,Oui,,,,,,,,,,,,,,,,,,,,
+114,Après la signature de l’acte,Excellent état,1,2,189 m²,30 m²,Hyper équipée,12 m²,3,8 m²,15 m²,16 m²,2,,,,,Oui,Oui,,Connecté,Oui,30 m²,,,Oui,,B,RWPEB-007517.17,Non communiqué,21185 kWh/an,Gaz,Oui,,Zone non inondable,1.771 €,Non,"Chaussée Bara, 148
+1420 - Braine L'Alleud",2013,2,2,,Oui,336 m²,,,,Oui,100 kWh/m²,,,475.000 €,,4264436,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+115,Après la signature de l’acte,À rafraîchir,,,,80 m²,27 m²,Équipée,8 m²,2,13 m²,8 m²,,,,,1,1,Oui,Non,124 m²,,Oui,,,,,Non communiqué,Non communiqué,20130709024566,1000 kg CO₂/m²,Non communiqué,Électrique,,Oui,195.000 €,426 €,Non,,2,,,,,,,,,,,,,,"Avenue de Burlet 11A
+1400 - Nivelles",78391 - N12,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,5 m,,,,,,,,,,,,,,,,,,,584,,
+116,Après la signature de l’acte,Fraîchement rénové,,,,135 m²,60 m²,,,1,,,,,,,,2,Oui,Non,84 m²,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,,Oui,185.000 €,2.526 €,Non,1900,2,1,,,,,,,,,,,,,"Chaussée de Bruxelles 23 (sur N5)
+1472 - Vieux Genappe",3714 - 650231,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,
+117,Après la signature de l’acte,Bon,,,,210 m²,30 m²,Équipée,11 m²,4,42 m²,20 m²,18 m²,11 m²,,,,3,Oui,Non,280 m²,Connecté,Oui,,,35 m²,,270 kWh/m²,D,20211001007688,68 kg CO₂/m²,48622 kWh/an,Mazout,,Oui,300.000 €,904 €,Non,,3,3,,Oui,,,,,,,,,,,"Avenue du centenaire 53/4
+1400 - Nivelles",4520914,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+118,Après la signature de l’acte,Bon,,,,260 m²,39 m²,Équipée,15 m²,4,17 m²,14 m²,14 m²,30 m²,,,,,,,4900 m²,,,,,,,379 kWh/m²,E,20210227003713,93 kg CO₂/m²,Non communiqué,Mazout,,Oui,795.000 €,564 €,,,4,2,,Oui,,,,,,Oui,,,,"Zone d'habitat (résidentiel, urbain ou rural)","Rue de Saintes 11/3
+1400 - Nivelles",,,,Oui,Oui,,,,,,,,,,,,16 m²,36 m²,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+119,Après la signature de l’acte,Fraîchement rénové,,4,,180 m²,39 m²,Équipée,11 m²,4,27 m²,16 m²,15 m²,11 m²,,,,2,,Non,652 m²,Connecté,Non,,,,,255 kWh/m²,C,20210408025437,64 kg CO₂/m²,48832 kWh/an,Mazout,,Oui,Faire offre à partir de 375.000 €,1.588 €,Non,1976,4,2,18 m²,Oui,Oui,,,Non,,,,Non,Zone non inondable,,"Avenue du centenaire 53/4
+1400 - Nivelles",4501411,Oui,Non,Oui,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,Après la signature de l’acte,Excellent état,,,219 m²,33 m²,Équipée,20 m²,4,28 m²,14 m²,14 m²,14 m²,14 m²,2,,,28 m²,Non,390 m²,6 m,,220 m²,,36 m²,Oui,,D,20210618009643,52 kg CO₂/m²,Non communiqué,Non,Oui,,389.000 €,783 €,Non,"Avenue de Burlet 11A
+1400 - Nivelles",,2,3,Oui,Oui,,,,,,283 kWh/m²,,,,,78165 - N01+cv31,,,,,,,,,,,,Nord-est,,,,,,,,,,,,,,,,,,,,,Gaz,,6 m,Oui,,,,,,,,,,,,,,,,,,,,,
+121,À définir,Excellent état,1,5,,200 m²,31 m²,Hyper équipée,15 m²,3,21 m²,19 m²,17 m²,,,,,2,,Non,928 m²,Connecté,Non,,,50 m²,,260 kWh/m²,D,20200929023508,11 kg CO₂/m²,51446 kWh/an,Pellets,,Oui,Faire offre à partir de 400.000 €,907 €,Non,1990,4,2,,Oui,Oui,,,Non,,Oui,,Non,Zone non inondable,,"Avenue du centenaire 53/4
+1400 - Nivelles",4400797,Oui,Non,,,,,Non,,,,,,,,,2 m²,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,
+122,Après la signature de l’acte,À rafraîchir,,,,512 m²,,Équipée,,11,8 m²,8 m²,14 m²,7 m²,10 m²,,7,,Oui,Non,340 m²,,,,,20 m²,,318 kWh/m²,D,20210314008252,58 kg CO₂/m²,36606 kWh/an,Gaz,,,Faire offre à partir de 600.000 €,4.291 €,Oui,,2,7,,,,,,,,,,,,,"Avenue du centenaire 53/4
+1400 - Nivelles",4303839,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,146 m²,8 m,,,,,,,,,,,,,,,,,,,,,,
+123,Après la signature de l’acte,Bon,1,,312 m²,32 m²,1,16 m²,6,60 m²,21 m²,17 m²,17 m²,16 m²,1,,,,,2050 m²,18 m,,1830 m²,,,Oui,,C,20210610003049,35 kg CO₂/m²,Non communiqué,Non,Oui,,650.000 €,1.792 €,Non,"Avenue de Burlet 11A
+1400 - Nivelles",1935,2,16 m²,Oui,Non,,,,,,190 kWh/m²,,,,,78074 - N04+CV30,,,,,,,Équipée,,,,,60 m²,,,,,,,,,,,,,,,,,,,,,Gaz,,11 m,Oui,,,,,,,,,,,,,,,,,,,,,
+124,À définir,Excellent état,4,4,,500 m²,75 m²,,,7,,,,,,,,,Oui,,10550 m²,Non connecté,Non,,,200 m²,,452 kWh/m²,F,20190608001124,112 kg CO₂/m²,220504 kWh/an,Mazout,,Oui,1.495.000 €,1.779 €,Non,1880,4,7,43 m²,Oui,Oui,,,Non,,Oui,,,,,"Chaussée de Mons, 303
+1480 - Tubize",12272/116,,Oui,,,,1,,,,,10200 m²,,,,,,,,,,,,,,,,,,,,,,,46 m,,,43 m²,,,,,,,,,,,,,,,,,310,,
+125,À définir,Excellent état,4,4,,500 m²,75 m²,,,7,,,,,,,,,Oui,,10550 m²,Non connecté,Non,,,200 m²,,452 kWh/m²,F,20190608001124,112 kg CO₂/m²,220504 kWh/an,Mazout,,Oui,1.750.000 €,1.779 €,Non,1880,4,7,43 m²,Oui,Oui,,,Non,,Oui,,,,,"Chaussée de Mons, 303
+1480 - Tubize",12274/116,,Oui,,,,1,,,,,10200 m²,,,,,,,,,,,,,,,,,,,,,,,46 m,,,43 m²,,,,,,,,,,,,,,,,,310,,
+126,,2,,,,3,,,,Oui,,,,,,,,,Oui,,563 kWh/m²,,,,,,,G,20200224000482,Non communiqué,69108 kWh/an,Oui,,,,,Non,"rue Laurent Delvaux, 25
+1400 - Nivelles",,150 m²,,,,105 m²,,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",,100.000 €,Christophe VAN OUYTSEL,,,,,,,,,Non,Visites par le Service Immobilier Notarial (S.I.N) - Mr Patrick Veltmans : 0475/42.40.39.,681 €,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,Non,À rénover,,,,,,,,,,,,,,
+127,Après la signature de l’acte,Excellent état,3,1,,282 m²,52 m²,Hyper équipée,16 m²,4,24 m²,16 m²,24 m²,30 m²,,,2,2,Oui,,423 m²,Connecté,Oui,,,35 m²,,425 kWh/m²,E,20210426007882,Non communiqué,Non communiqué,,,Oui,Faire offre à partir de 550.000 €,,Non,,4,2,16 m²,Oui,Oui,,,Non,Oui,,Oui,,,,"Place Franklin Roosevelt, 39
+6180 - Courcelles",4522264,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,113 m²,13 m,,,20 m²,,,,,,,,,,,,,,,,,,,
+128,Après la signature de l’acte,À rénover,,,,198 m²,,Pas équipée,11 m²,4,17 m²,16 m²,10 m²,10 m²,,,,1,,Non,315 m²,Connecté,Non,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Faire offre à partir de 165.000 €,,Non,,2,1,11 m²,Oui,,,,,,,,,,,"Avenue du centenaire 53/4
+1400 - Nivelles",4372878,,,Oui,,Oui,,,,,,225 m²,,1 juillet 2021 - 00:00,,,20 m²,32 m²,,,,,,,,,,,,,,,,90 m²,3.88 m,4 m,,,,,,,,,,,,,,,,,,,,,
+129,Après la signature de l’acte,À rafraîchir,,,,210 m²,15 m²,Pas équipée,,3,20 m²,20 m²,13 m²,,,,,1,Oui,Non,175 m²,Connecté,Non,,,15 m²,,258 kWh/m²,D,20210115003085,65 kg CO₂/m²,53195 kWh/an,Mazout,,Oui,260.000 €,565 €,Non,,2,1,,Oui,Oui,,,,,,,Non,Zone non inondable,,"Avenue du centenaire 53/4
+1400 - Nivelles",4258873,,,,,Oui,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+130,Après la signature de l’acte,Fraîchement rénové,,,,200 m²,,Équipée,,6,26 m²,24 m²,20 m²,19 m²,12 m²,,1,3,Oui,Non,80 m²,Connecté,Oui,,,,,160 kWh/m²,B,20190331002818,30 kg CO₂/m²,36311 kWh/an,Gaz,,Oui,Faire offre à partir de 300.000 €,1.522 €,Non,,3,3,,Oui,Oui,,,Non,,Oui,,Non,Zone non inondable,,"Avenue du centenaire 53/4
+1400 - Nivelles",4456006,Non,Non,Oui,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,
+131,Après la signature de l’acte,,1,1,75 m²,24 m²,Équipée,9 m²,2,13 m²,10 m²,1,,,,,,Oui,Non,572 m²,9 m,,,,,,,G,20210913019352,21539 kg CO₂/m²,75544 kWh/an,Non,Non,Non,240.000 €,1.065 €,Non,"Rue de la Station 45
+7090 - Braine-le-Comte",1965,4,1,,,,,,,,,,,,,3755-1,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,Non,,,,Électrique,,,852 kWh/m²,,,,,,,,,,,,,,,,,,,,,
+132,À définir,Excellent état,1,1,66 m²,32 m²,Équipée,5 m²,1,16 m²,Non,,,,,1,,Oui,Non,1300 m²,Connecté,Oui,Oui,Sud,Oui,,Non,E,20131014002725,Non communiqué,Non communiqué,Électrique,Non,Oui,Non,265 €,Non,"Chaussée de Bruxelles 2
+1470 - Genappe",,,,,,,,Non,Non,,Oui,,Zone non inondable,255.000 €,,,,,345 kWh/m²,Sud,,,,Non,,,,,,,,,,,,,,,,,,,,Oui,Oui,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,
+133,À définir,À rénover,,,130 m²,33 m²,Semi-équipée,23 m²,3,18 m²,14 m²,6 m²,Non,,,2,,Oui,Oui,120 m²,Connecté,Oui,120 m²,,420 kWh/m²,,,E,20210914011541,Non communiqué,Non communiqué,Gaz,Non,265.000 €,,Non,,"Avenue Alphonse Allard 288
+1420 - Braine-l'Alleud",,,,,,Non,,,,,,,,,,,,,,,,,,,,,,Sud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+134,À définir,Bon,,,112 m²,15 m²,Équipée,31 m²,3,15 m²,15 m²,12 m²,Non,,,2,,Oui,Non,80 m²,Connecté,Oui,14 m²,,,Sud,340 kWh/m²,D,2014224026700,Non communiqué,Non communiqué,Gaz,Non,Oui,215.000 €,Non,,"Chaussée de Bruxelles 2
+1470 - Genappe",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+135,Après la signature de l’acte,À rafraîchir,,3,,150 m²,38 m²,Pas équipée,16 m²,3,16 m²,15 m²,14 m²,,,,,,Oui,Non,130 m²,,Oui,,,,,1090 kWh/m²,G,20210216019354,311 kg CO₂/m²,Non communiqué,,,Oui,290.000 €,1.145 €,Oui,,3,,,,,,,,,,,,,,"Avenue de Burlet 11A
+1400 - Nivelles",78291 - N06,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,Non,,15 m,21 m,,,,,,,,,,,,,,,,,,,,,
+136,Après la signature de l’acte,À rafraîchir,,3,,150 m²,38 m²,Pas équipée,16 m²,3,16 m²,15 m²,14 m²,,,,,,Oui,Non,130 m²,,Oui,,,,,1090 kWh/m²,G,20210216019354,311 kg CO₂/m²,Non communiqué,,,Oui,290.000 €,1.145 €,Non,,3,,,,,,,,,,,,,,"Avenue de Burlet 11A
+1400 - Nivelles",77905 - N06,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,Non,,15 m,21 m,,,,,,,,,,,,,,,,,,,,,
+137,À définir,Bon,,,70 m²,22 m²,Équipée,13 m²,1,20 m²,Non,,,,,1,,Oui,Non,365 m²,Connecté,Oui,Oui,Sud-ouest,Oui,,,G,20201119002350,Non communiqué,Non communiqué,Non,,Oui,165.000 €,270 €,Non,"Rue de Tubize, 5
+1440 - Braine-le-Château",,,,,,,,,,,,,,,,,,,,861 kWh/m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+138,Après la signature de l’acte,,,,190 m²,30 m²,Oui,4,,2,,,,,,,2,Oui,Non,160 m²,100 m²,,,,,,,C,20210914010108,44 kg CO₂/m²,53836 kWh/an,Non,Non,Non,270.000 €,535 €,Non,"Rue de la Station 45
+7090 - Braine-le-Comte",,2,1,,,,,,,,,,,,,3757,,,,241 kWh/m²,,Équipée,,,,,,Oui,,,,,,,,,,,,,,,,Non,Oui,,,,Gaz,,,,,,,,,,,,,,,,,,,,,,,,
+139,À définir,Bon,,,170 m²,52 m²,Équipée,16 m²,3,23 m²,18 m²,17 m²,Oui,,,2,,Oui,Non,895 m²,Connecté,Oui,Oui,Sud-ouest,18 m²,Sud,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Non,Oui,425.000 €,2.568 €,Non,"Chaussée de Bruxelles 2
+1470 - Genappe",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140,Après la signature de l’acte,Bon,,4,,250 m²,30 m²,Équipée,8 m²,6,9 m²,9 m²,9 m²,9 m²,9 m²,,,5,,Non,161 m²,Connecté,Non,,,,,200 kWh/m²,C,20181018008378,58 kg CO₂/m²,3584 kWh/an,Mazout,,Oui,Faire offre à partir de 700.000 €,2.719 €,Oui,1980,3,5,,,,,,Non,Oui,,,,,,"Rue de Charleroi 31/7
+1400 - Nivelles",4496512,Non,Non,,,,,,,,,,,1 décembre 2021 - 00:00,,,,,,,,,,,,,,,,,,,,,6 m,,,,,,,,,,,,,,,,,,,,,,
+141,Après la signature de l’acte,,,2,,115 m²,37 m²,Pas équipée,,3,,,,,,,,,,Non,1455 m²,,,,,,,880 kWh/m²,G,20210831002252,16180 kg CO₂/m²,119741 kWh/an,Gaz,Non,Oui,190.000 €,1.422 €,Non,,3,1,,,,,,,,,,,,,"Rue de la Station 45
+7090 - Braine-le-Comte",3749,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,Non,Non,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,
+142,À définir,À rénover,2,2,,190 m²,37 m²,Semi-équipée,7 m²,3,12 m²,11 m²,15 m²,,,,,1,Oui,Non,564 m²,Connecté,Oui,,,15 m²,,5446 kWh/m²,G,Non communiqué,56 kg CO₂/m²,Non communiqué,Gaz,,Oui,Faire offre à partir de 269.000 €,1.026 €,Non,1970,4,1,,,Oui,,,,,,,,,,"Rue de Charleroi 31/7
+1400 - Nivelles",4359390,,,,,,,,,,,300 m²,,1 décembre 2021 - 00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+143,,,,,,989 m²,,Équipée,,,,,,,,,,,,Non,,,,,,,,425 kWh/m²,E,20190322001997,Non communiqué,38004 kWh/an,Gaz,Non,Non,2.700.000 €,,Non,1970,2,,,,,,,,,,,,,,"Rue du Bois 1
+7090 - Hennuyères",999,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,Non,,,,Non,,,,Oui,,,,,,,,,,,,,,,,,,,,
+144,À définir,Bon,,,,,,Hyper équipée,,4,,,,,,Non,,3,,Non,,Connecté,Oui,,,,,391 kWh/m²,E,20210226023120,Non communiqué,Non communiqué,Mazout,Non,Oui,480.000 €,,Non,,,,,,,,,,,,,,,,"Chaussée de Bruxelles 2
+1470 - Genappe",,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145,,,,,,,,,,2,,,,,,,,,Oui,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,,,249.000 €,428 €,Non,,,1,,Non,Oui,,,,,,,,,,"99 Chaussée de Bruxelles
+1410 - Waterloo",174/6912,,,,,,,,,,,,,1 juillet 2017 - 00:00,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146,Après la signature de l’acte,,,,,2600 m²,,Équipée,,30,,,,,,,,,Oui,Oui,5000 m²,,Oui,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,Oui,1.600.000 €,,Oui,,4,,,Oui,,,,Oui,,,,,,,"Avenue de Burlet 11A
+1400 - Nivelles",77899 - N19,,Oui,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,
+147,Après la signature de l’acte,À rafraîchir,,,,150 m²,14 m²,Équipée,12 m²,4,13 m²,13 m²,16 m²,17 m²,,Non,1,2,,Non,170 m²,Connecté,Oui,,Sud-ouest,50 m²,Sud-ouest,550 kWh/m²,G,20210713006239,106 kg CO₂/m²,Non communiqué,Gaz,Non,Oui,252.500 €,691 €,Non,1930,2,,9 m²,Oui,,Non,Non,Non,Non,Non,Non,Non,Zone non inondable,Zone d'habitat mixte (habitat & activité économique),,,Non,Non,,Oui,Oui,,Non,,,,100 m²,Non,,Aménagé,Oui,23 m²,10 m²,Oui,Non,Non,Non,Oui,Non,Non,Non,Oui,Non,Non,Oui,,,,72 m²,6 m,6 m,,,,,,,,,,,,,,,,,,,,Non,Jardin agréable de 100 m2 dallé pour la moitié en pierres bleues et exposé en sud ouest.
+148,À définir,Excellent état,2,8,,415 m²,65 m²,Hyper équipée,21 m²,4,19 m²,17 m²,17 m²,15 m²,30 m²,Oui,1,3,,,12500 m²,,,Oui,Sud,50 m²,Sud,200 kWh/m²,C,20201006000622,50 kg CO₂/m²,77134 kWh/an,Mazout,,Oui,1.250.000 €,,,1992,4,2,30 m²,Oui,,,,,,Oui,Oui,,Zone non inondable,,"Avenue du Monde
+1400 - Nivelles",,Oui,,,Oui,,1,,,,,,,,,Oui,20 m²,60 m²,,Oui,,,Oui,,,,,,,,,,,,,125 m,,100 m²,,,,,,,,,,,,,,,,,,,
+149,,Bon,9,,,655 m²,,Semi-équipée,,16,,,,,,,,8,Oui,Non,400 m²,,,,,,,184 kWh/m²,C,20140825019941,Non communiqué,Non communiqué,Gaz,,Oui,1.550.000 €,8.719 €,Oui,1956,2,8,,,,,,Oui,,,,,,,"Rue de Namur 15
+1400 - Nivelles",993 - 669,,,Oui,,,,,,,,,,,,,,,,Non,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,
