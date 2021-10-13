@@ -1,0 +1,295 @@
+,État du bâtiment,Largeur de la façade à rue,Surface habitable,Surface du salon,Type de cuisine,Surface de la cuisine,Chambres,Surface de la chambre 1,Surface de la chambre 2,Surface de la chambre 3,Surface de la chambre 4,Surface de la chambre 5,Dressing,Salles de bains,Toilettes,Surface de bureau,Bureau,Surface de la cave,Surface du grenier,Terrain à front de rue,Terrain boisé,Terrain arrière,Terrain plat,Largeur du terrain à rue,Raccordement à l'égout,"Eau, gaz & électricité",Surface du jardin,Surface de la terrasse,Consommation d'énergie primaire,Classe énergétique,Numéro du rapport PEB,Emission CO₂,Consommation théorique totale d'énergie primaire,Type de chauffage,Double vitrage,Prix,Immeuble de rapport,Adresse,Site internet,À partir de,Disponible le,Quartier ou lieu-dit,Parkings intérieurs,Visite virtuelle,Permis de bâtir obtenu,Salles de douche,Cave,Meublé,Surface du terrain,Orientation du jardin,Attestation as-built,Revenu cadastral,Année de construction,Nombre de façades,Salle à manger,Porte blindée,Niveau E (performance énergétique globale),Pompe à chaleur,Panneaux photovoltaïques,Panneaux solaires,Chauffe-eau commun,Autorisation de lotissement,Droit d'achat prioritaire possible,Procédure pour violation de la réglementation urbanistique,Type de zone inondable,Affectation urbanistique la plus récente sur la base des dénominations utilisées dans le registre des plans,Salon,Terrasse,Surface constructible totale au sol,Combien de feux ouverts ?,Espace professionnel,Grenier,Lieu de la vente,Séance unique,Modalités de visite,Informations supplémentaires,Mise à prix,Buanderie,Concierge,Ascenseur,Accessible aux personnes avec un handicap,Parlophone,Accès sécurisé / alarme,Climatisation,Interphone vidéo,Jacuzzi,Sauna,Piscine,Internet,Jardin,Orientation de la terrasse,Référence externe,Obligation de construire,Type d’environnement,Attestation de conformité des citernes à mazout,Nom de l'agent,Isolé,Type de construction,Charges mensuelles,Parkings extérieurs,Pourcentage loué,Revenu mensuel actuel,Surface de l'espace professionnel
+0,À rafraîchir,6 m,350 m²,28 m²,Équipée,20 m²,6,28 m²,20 m²,28 m²,12 m²,20 m²,Oui,3,5,12 m²,Oui,80 m²,38 m²,Non,Non,Non,Non,6 m,Non connecté,Oui,20 m²,6 m²,269 kWh/m²,E,20120924-0000116633-01-0,Non communiqué,Non communiqué,Gaz,Oui,750.000 €,Non,"Tramlaan 249
+1933 - Sterrebeek",680C,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,Non communiqué,Non communiqué,Non communiqué,Oui,,,,"Rue Fort d'Andoy 5
+5100 - Wierde",3954592,,Immédiatement,30 décembre 2020 - 00:00,Bruxelles,113,33 kWh/m²,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Bon,,430 m²,,Hyper équipée,,6,,,,,,,1,4,,,,,Non,,,,,,,115 m²,,267 kWh/m²,E,Non communiqué,53 kg CO₂/m²,Non communiqué,Mazout,Oui,850.000 €,Oui,"Place des chasseurs Ardennais 24-26
+1030 - Schaerbeek",8184 - 654657899,Après la signature de l’acte,,,,,,2,Oui,Non,255 m²,Sud-ouest,Non,3.564 €,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,,5 m,Oui,,,4,4,,,,,,,Non,,,,,,,,,,,Oui,40 m²,207 kWh/m²,,D,20210623-0000591301-01-8,41 kg CO₂/m²,Non communiqué,207,Non,Non,1.881 €,"Rue Archimède 17
+1000 - Bruxelles ville",,,,,,,295 m²,,,,Non,Connecté,,,Oui,1938,2,30 m²,137 m²,Gaz,Non,Non,Non,Oui,Non,Non,Zone non inondable,Autre type de zone,680.000 €,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,À rénover,,255 m²,,,,6,,,,,,,1,,,,,,,,,,,Connecté,Oui,,,572 kWh/m²,G,20210827-0000594649-01-4,104 kg CO₂/m²,Non communiqué,Gaz,Oui,539.000 €,Non,"Rue Archimède 17
+1000 - Bruxelles ville",,,,,,,,,,Non,100 m²,,,,1938,2,Oui,Non,572,Non,Non,Non,Non,Non,Non,Non,Zone non inondable,Autre type de zone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,À rafraîchir,,400 m²,,Équipée,,6,16 m²,16 m²,16 m²,16 m²,,,5,4,,,,,,,,,,Connecté,Oui,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,,1.075.000 €,Oui,"Chaussée de Waterloo 1382
+1180 - Uccle",4342638,À définir,,,,,,,,Non,,,,,1908,2,,,,,,,,,,,,,Oui,Oui,450 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Bon,,300 m²,34 m²,Équipée,,5,,,,,,,1,2,,,,,Non,,,,,,,,16 m²,313 kWh/m²,F,Non communiqué,62 kg CO₂/m²,Non communiqué,Gaz,Oui,475.000 €,Non,"Place des chasseurs Ardennais 24-26
+1030 - Schaerbeek",8182 - 654657923,Après la signature de l’acte,,,,,,1,Oui,Non,,,Non,1.414 €,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Excellent état,,350 m²,,Équipée,,4,,,,,,,1,,,Oui,,,,,,,,,Oui,,,467 kWh/m²,G,20190602-0000550667-01-9,87 kg CO₂/m²,Non communiqué,Gaz,,890.000 €,Non,"Avenue Capouillet 58 A
+1410 - Waterloo",,Après la signature de l’acte,,,1,,,,Oui,Non,171 m²,,,2.117 €,,2,Oui,,,,,,,,,,,,Oui,Oui,,1,Oui,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,,,,,,,2,,,,,,,277 m²,,,,,,,,,,,,,,,G,20201022-0000577011-01-7,Non communiqué,Non communiqué,"Zone d’hab. ZICHEE, en bordure d’un esp. struct.",,,,"Boulevard Lambermontlaan, 374
+1030 - Schaerbeek",Pascale RATLIFF BOURGEON,,4,,,,,,,,,457 kWh/m²,,,Non,,,,,,,,,,,,,,,,,,,,,Non,(àpd. 4/10 jusqu’au 15/11 incl.) : lun. de 13-15h et jeu. de 14-16h. MASQUE OBLIGATOIRE.,Après la signature de l’acte,400.000 €,3.703 €,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,,,,,,,511 kWh/m²,,,,,,,,,,,,,,,,,,,,,,20190325-0000546369-01-7,Non communiqué,Non communiqué,250.000 €,2.369 €,,,,Marie LECLERCQ,,,5,,,,190 m²,,,,,G,,,"Avenue Louise, 213 / 11
+1050 - Bruxelles-Quartier Louise",,,,,,,,,,,,,,,,,,,,,Non,(àpd 28/8) : mercr. de 11-13h et sam. de 15-17h.,Après la signature de l’acte,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,Semi-équipée,,4,,,,,,Non,1,3,,Non,,,Non,Non,Non,Non,,,Oui,105 m²,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Mazout,Oui,598.000 €,Non,,,Après la signature de l’acte,,,,,,2,Oui,Non,370 m²,,,,,2,Oui,Non,,Non,Non,Non,Oui,,,,,,Oui,,,,Non,Oui,,,,,,Oui,Non,Non,Non,Non,Non,Non,Non,Non,Non,Non,Oui,,,,,,,,,,,,,,
+11,À rénover,,205 m²,,Semi-équipée,,6,,,,,,,,,,,,,,,,,,,,,,490 kWh/m²,G,Non communiqué,98 kg CO₂/m²,Non communiqué,Gaz,,459.000 €,Oui,"Blvd. G. Wahis 272 (place Meiser)
+1030 - Schaerbeek",4229 - 2135,Après la signature de l’acte,,,,,,,Oui,Non,380 m²,,Non,,1912,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,174 m²,40 m²,Hyper équipée,,3,,,,,,,1,3,,,,,Non,,,,,,,93 m²,20 m²,100 kWh/m²,C,Non communiqué,19 kg CO₂/m²,Non communiqué,Gaz,Oui,485.000 €,Non,"Place des chasseurs Ardennais 24-26
+1030 - Schaerbeek",8112 - 654657864,Après la signature de l’acte,,,,,,2,,Non,,,Non,,1894,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,À rénover,,30 m²,Semi-équipée,6,,1,,,,,,,3,Oui,,,,,,,,,,,50 m²,20 m²,350 kWh/m²,G,Non communiqué,Non communiqué,Non communiqué,Non,490.000 €,,Non,"Rue Victor Hugo 81
+1030 - Schaerbeek",1909 - 1948,,,,,,250 m²,,,Non,Oui,,,Gaz,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Fraîchement rénové,,291 m²,,Américaine hyper-équipée,,7,,,,,,,,3,,,,,,,,,,,Oui,,8 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,750.000 €,Non,"Rue Washington 128b
+1050 - Bruxelles",8760 - 903,Après la signature de l’acte,,,,,,3,Oui,Non,,,Non,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,372 m²,,Pas équipée,,5,,,,,,,,,,,,,Non,,,,,,,,,395 kWh/m²,G,Non communiqué,78 kg CO₂/m²,Non communiqué,,Oui,640.000 €,Oui,"Place des chasseurs Ardennais 24-26
+1030 - Schaerbeek",7790 - 654657596,,,,,,,,Oui,Non,177 m²,,Non,,1907,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,Non communiqué,,,,,,,,,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,120.000 €,795 €,,,,Francis CHAFFART,,,4,,,,115 m²,,,,,Non communiqué,,,"Eugène Demolderlaan 49
+1030 - Schaerbeek",,,,,,,,,,,,,,,,,,,,,Non,"sam. 25/9, 2-9/10 de 10-12h.",Après la signature de l’acte,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,Non communiqué,,,,,,,,,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,"Eléctr. : rez, 1e et 2e ét. : non conforme © 3e et 4e ét. : conforme. PEB G-F. Rez, 1e ét. et combles: libres - 2e et 3e ét.: loués.",649.000 €,,,,Charlotte HENROTIN,,,1,,,,Non communiqué,,,,,,,,"Charleroisesteenweg, 74-76
+1060 - BRUXELLES/BRUSSEL",,,,,,,,,,,,,,,,,,,,,Non,mar. 12-19-26/10 de 17-19h et sam. 16-23-30/10 de 11-13h. MAX 2 PERS. MASQUE OBLIGATOIRE - GEL hydro-alcoolique non fourni.,À définir,1.153 €,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,
+18,À rafraîchir,,224 m²,46 m²,Semi-équipée,14 m²,4,14 m²,16 m²,14 m²,16 m²,,Non,,2,,,,,,,,,,Connecté,Oui,,,Non communiqué,Non communiqué,20210607-0000590195018,Non communiqué,Non communiqué,,Oui,785.000 €,Non,"Chaussée de Bruxelles 18
+1410 - Waterloo",,À définir,,,,,,,Oui,Non,,Sud,,,,,,,,Non,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,Oui,Sud,,,,,,,,,,,,
+19,,,,,,,,,,,,,,,,,,,,,,,,,,,160 m²,,305 kWh/m²,F,20210910-0000595447-01-6,79 kg CO₂/m²,Non communiqué,Mazout,,1.350.000 €,Oui,"Bld Louis Schmidt 72
+1040 - Bruxelles",,Après la signature de l’acte,19 août 2021 - 00:00,,,,,,Oui,Non,,Sud,Non,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41698 - 16112/BDDGV,,,,,,,,,,,
+20,Bon,,1250 m²,,Équipée,,15,,,,,,,12,15,,,,,,,,,,,,,,191 kWh/m²,D,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,4.500.000 €,Oui,"Square Ambiorix, 32/11B
+1000 - Bruxelles",1699317 - 345345980,,,,1,,Oui,,Oui,Non,,,Non,6.499 €,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,,,190 m²,,Équipée,,7,,,,,,Non,2,3,,Non,,,Non,Non,Non,Non,,Connecté,Oui,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Oui,440.000 €,Non,"Steenbrugsestraat 21
+8210 - Loppem",,,,,,,,,Oui,,140 m²,,,1.316 €,,,Oui,,,,,,,,Non,,,"Zone d'habitat (résidentiel, urbain ou rural)",,Oui,,,,,,,,,,,,,,,,,,,,,,,,AADupontstraat,Non,,,,,,,,,,
+22,,,,,,,Oui,,,,,,,,,,Oui,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,,,,"Boulevard Auguste Reyerslaan, 41 / 7
+1030 - SCHAERBEEK",Christine TOM,,Oui,,,,,,,Non communiqué,,,,,Oui,,,,,,,,400.000 €,,,,,,,7,,,,,,Non,À définir,,,2.424 €,,,,,,,,,,,,,,,,,,,,,,,,,,
+23,À rénover,6 m,165 m²,16 m²,Semi-équipée,12 m²,5,13 m²,13 m²,13 m²,13 m²,8 m²,,1,2,,,24 m²,,Oui,,,Oui,6 m,Connecté,Oui,60 m²,,440 kWh/m²,G,20210210-0000582425-01-2,87 kg CO₂/m²,Non communiqué,Gaz,,495.000 €,Non,"Keizerlaan 1
+3090 - Overijse",,Après la signature de l’acte,,,,,,,,Non,135 m²,Nord-est,,1.003 €,1932,2,Oui,,,,,,,,,Non,,"Zone d'habitat (résidentiel, urbain ou rural)",,Oui,,,,Oui,,,,,,Oui,,Oui,Oui,,,,,,,,,,Nord-est,,,Urbain,Non,JP Mat,,,,,,,
+24,À rénover,6 m,195 m²,,,,4,,,,,,,1,,,,,,,,,,6 m,Non connecté,Oui,,,574 kWh/m²,G,20210906-0000595183-01-5,115 kg CO₂/m²,Non communiqué,Gaz,Non,460.000 €,Non,"Place Pinoy 7
+1160 - Auderghem",,Après la signature de l’acte,,,,,,,,Non,150 m²,,,1.147 €,1899,2,,Non,574,Non,Non,Non,Non,Non,Non,Non,Zone non inondable,Autre type de zone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+25,À rénover,5 m,Oui,,4,,4,,,,,,,3,4 m²,,,Non,,,,,,Connecté,Non,62 m²,Non,,Non communiqué,9223372036854775807,102 kg CO₂/m²,Non communiqué,Mazout,Oui,72 m²,1.661 €,"Jozef de Vleminckstraat 4B
+1853 - Strombeek-Bever",4489993,,Selon le locataire,,,,304 m²,,4,,134 m²,6.2 m,,,Oui,1930,2,Équipée,,,,,,,,,,,,Oui,,420.000 €,,,,,,,,,,,Non,Oui,Non,,,,,,Non communiqué,,,,,,Urbain,,,,,,,,,
+26,Bon,,26 m²,Hyper équipée,16 m²,4,14 m²,12 m²,13 m²,10 m²,2,,,2,7 m²,Oui,Oui,,,,,,,,Oui,34 m²,,295 kWh/m²,F,202110914-,59 kg CO₂/m²,Non communiqué,Gaz,Oui,449.000 €,1.147 €,"Allée de la recherche 12
+1070 - Anderlecht",4529283,,Après la signature de l’acte,,Bruxelles (19 communes),,200 m²,,2,Non,Connecté,,,,Non,1954,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urbain,,,,,,,,,
+27,Fraîchement rénové,,185 m²,17 m²,Américaine équipée,20 m²,4,20 m²,11 m²,10 m²,9 m²,,Non,1,2,15 m²,Oui,60 m²,,Oui,Non,Non,Oui,,Connecté,Oui,,30 m²,155 kWh/m²,D,20210826,155 kg CO₂/m²,Non communiqué,Gaz,Oui,599.000 €,Non,,,À définir,,,,,Oui,,,Non,94 m²,,,1.024 €,1906,2,Oui,Non,,Non,Non,Non,Oui,,,,,,,,,1,Oui,Oui,,,,,,Oui,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Oui,,Sud-est,,,"Zone d'habitat (résidentiel, urbain ou rural)",,,Oui,Toutes sortes,80 €,,,,
+28,À rafraîchir,15 m,440 m²,440 m²,Américaine hyper-équipée,,1,,,,,,,2,2,,Oui,,,,,,,,Connecté,Oui,,220 m²,849 kWh/m²,G,20210814-0000594048-01-7,224 kg CO₂/m²,Non communiqué,,,640.000 €,Non,"Rue Général Leman 152
+1040 - Etterbeek",,Après la signature de l’acte,1 novembre 2021 - 00:00,Bruxelles (19 communes),1,,Oui,1,,Non,710 m²,,,,1965,4,,Oui,,,,,,,Non,Non,Zone non inondable,,,,460 m²,,,,,,,,,,,Non,Oui,Oui,Oui,,,,,Non,,,,4492436,,Pays,,,,,,,,,
+29,Bon,,212 m²,44 m²,Équipée,10 m²,4,17 m²,15 m²,12 m²,11 m²,,,1,2,,,,,,,,,,,,,6 m²,288 kWh/m²,F,Non communiqué,Non communiqué,Non communiqué,Gaz,,685.000 €,Non,"Avenue du Hockey, 40
+1150 - Woluwe-St-Pierre",6196 - 4660,Après la signature de l’acte,,,1,,,1,Oui,Non,206 m²,,Non,,1959,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
+30,Fraîchement rénové,7 m,140 m²,,Américaine équipée,,3,,,,,,Non,2,3,,Oui,,,Non,Non,Non,Non,,Connecté,Oui,,2 m²,251 kWh/m²,E,20210614-0000590662-01-3,50 kg CO₂/m²,Non communiqué,Gaz,Oui,415.000 €,Oui,,,Après la signature de l’acte,,,,,,1,Oui,Non,55 m²,,,1.276 €,1910,2,Oui,Non,,Non,Non,Non,Oui,,,Non,,"Zone d'habitat (résidentiel, urbain ou rural)",Oui,,,1,Oui,Oui,,,,,,,Non,Non,Non,Oui,Non,Non,Oui,Non,Non,Non,Oui,,,,,,,,,Toutes sortes,,,,,
+31,,,205 m²,20 m²,Équipée,,6,,,,,,,2,4,,,,,,,,,,,,,35 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,449.000 €,Oui,"Av. Houba de Strooper 618
+1020 - Laeken",4377,,,,,,,1,Oui,Non,93 m²,,Non,,1940,2,Oui,,,Non,Non,Non,,,,,,,,,,,,,,,,,,Oui,,,,Oui,,,,,,,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,
+32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,Non communiqué,Non communiqué,Non communiqué,Oui,,,,"Rue Fort d'Andoy 5
+5100 - Wierde",3954592,,Immédiatement,30 décembre 2020 - 00:00,Bruxelles,113,33 kWh/m²,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,,6 m,,,,,,,,,,,,5,,,,,,,,,,,,Oui,,,506 kWh/m²,G,20140822-0000243754-01-0,96 kg CO₂/m²,Non communiqué,Gaz,Oui,Faire offre à partir de 475.000 €,Oui,"Boulevard Saint Michel 75
+1040 - Etterbeek",,Après la signature de l’acte,,,,,,2,,Non,84 m²,,Non,,1950,,,,,,,,,,,,Zone non inondable,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,22693 - 329/22914,,Rue commerçante,,,,,,,,,
+34,Excellent état,,256 m²,49 m²,Équipée,17 m²,6,23 m²,22 m²,22 m²,22 m²,15 m²,,,3,,,3 m²,,,,,,5.5 m,,,,9 m²,221 kWh/m²,E,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,760.000 €,Non,"Avenue du Hockey, 40
+1150 - Woluwe-St-Pierre",6114 - 4602,,,,1,,,2,,Non,101 m²,,Non,1.551 €,1910,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,
+35,À rénover,,215 m²,,,,4,,,,,,Oui,1,3,,Oui,,,Non,Non,Non,Non,,Connecté,Oui,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,399.000 €,Non,,,Après la signature de l’acte,,,,,Oui,,Oui,Non,100 m²,,,1.833 €,1911,2,Oui,Non,,Non,Non,Non,Non,,,Non,,,Oui,,,1,Oui,Oui,,,,,,Oui,,,,,,,,,,,,,,,,,,,,Maison bel-étage,,,,,
+36,,6 m,360 m²,40 m²,Équipée,25 m²,12,,,,,,Oui,1,3,,Non,40 m²,,Non,Non,Non,Non,,Connecté,Oui,52 m²,15 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,540.000 €,Oui,,,,,,,,,2,,Non,360 m²,,,,1930,2,Oui,Non,,Non,Non,Non,Oui,,,Non,Zone non inondable,,,,,,Non,,,,,,,,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Oui,,,,,,,,,,,,1,,
+37,À rafraîchir,,250 m²,,,,6,,,,,,Non,3,,,Non,,,Non,Non,Non,Non,,Connecté,Oui,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Non,425.000 €,Non,,,Immédiatement,,,,,,,,Non,85 m²,,,,,2,,Non,,Non,Non,Non,Non,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,Toutes sortes,,,,,
+38,Bon,,273 m²,,,,,,,,,,,5,,,,,,,,,,,Connecté,Oui,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,645.000 €,Oui,"Brusselsesteenweg, 518
+3090 - Overijse",4455292,Selon le locataire,,,,,,,,Non,110 m²,,,1.053 €,1903,2,,,,,,,,,,,,,Oui,,294 m²,,,,,,,,,,,Non,Non,Oui,,,,,,,,,,,,,,,,,,,,,
+39,,,500 m²,,,,6,,,,,,,5,6,,,,,,,,,,Connecté,Oui,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Oui,1.560.000 €,Oui,"Av.de L'Indépendance Belge, 13
+1081 - KOEKELBERG",4037413,,,Région de Bruxelles capitale,,,,5,Oui,Non,147 m²,,,,1920,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+40,À rénover,,358 m²,,,,6,,,,,,,2,3,,,,,,,,,,,,40 m²,,470 kWh/m²,G,202106020000589963013,93 kg CO₂/m²,Non communiqué,,,595.000 €,Non,"Boulevard Theo Lambert 94
+1070 - Bruxelles",4492682,Après la signature de l’acte,,,,,,2,,Non,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+41,Bon,,300 m²,,,,6,,,,,,,4,,,,,,,,,,,,,,,232 kWh/m²,E,20140218-0000209312-01-0,50 kg CO₂/m²,Non communiqué,,,695.000 €,Non,"René Declercq 8D
+1150 - Woluwe-St-Pierre",,Après la signature de l’acte,,,1,,,,,Non,135 m²,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4370407,,,,,,,,,,,
+42,Bon,,300 m²,,,,6,,,,,,,4,,,,,,,,,,,,,,,232 kWh/m²,E,20140218-0000209312-01-0,50 kg CO₂/m²,Non communiqué,,,695.000 €,Oui,"René Declercq 8D
+1150 - Woluwe-St-Pierre",,Après la signature de l’acte,,,1,,,,,Non,135 m²,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4368677,,,,,,,,,,,
+43,,,,,,,,,,,,,,,,,,,,Non,Non,Non,Non,,,Non,70 m²,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Non,879.000 €,Oui,,,,,,,,,,,,300 m²,,,2.100 €,,2,,,,Non,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Toutes sortes,,,,2600,
+44,,,262 m²,55 m²,Équipée,,5,,,,,,,,1,,,,,,,,,,,,150 m²,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,519.000 €,Non,"Rue Pierre Timmermans, 23
+1090 - Jette",3000,,,,,,,1,Oui,Non,,Sud,Non,,,2,Oui,,,Non,Non,Non,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+45,,,350 m²,,,,8,,,,,,,6,,,Non,,,,,,,,Connecté,Oui,,,253 kWh/m²,E,Non communiqué,50 kg CO₂/m²,Non communiqué,,,749.000 €,Oui,"Rue de Laeken 91
+1000 - Bruxelles",,Selon le locataire,,,,,,,Oui,,,,,,,2,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,798/17215,,,,,,,,,,,
+46,,,401 m²,,Semi-équipée,,10,,,,,,,1,3,,Non,,,,,,,,,,,,310 kWh/m²,F,20210807-0000593747-01-9,62 kg CO₂/m²,Non communiqué,Gaz,Oui,590.000 €,Oui,"Route de Givet 20
+5377 - Somme-Leuze",,,,,3,,,2,Oui,Non,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2014392,,,,,,,,,,,
+47,,,27 m²,Oui,7,,2,,,,,,,3,Non,,,,,,,,,,,,20 m²,Ouest,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,Non,845.000 €,Non,"Avenue des Saisons 42
+1050 - Ixelles",2118 B-1,,,,,,333 m²,,,,280 m²,,,Mazout,,,2,Équipée,,,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non communiqué,,,,,,,,,,,,
+48,Bon,,375 m²,,Américaine équipée,,5,17 m²,11 m²,12 m²,15 m²,13 m²,,4,4,,,,,,,,,,,,,55 m²,264 kWh/m²,E,Non communiqué,57 kg CO₂/m²,Non communiqué,Gaz,,950.000 €,Oui,"Place Colignon 47
+1030 - Schaerbeek",4533378,Selon le locataire,,,,,,4,,Non,147 m²,,,2.072 €,1914,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Urbain,,,,,,,,,
+49,Excellent état,7 m,445 m²,41 m²,Américaine équipée,16 m²,7,22 m²,14 m²,16 m²,10 m²,21 m²,,6,6,20 m²,Oui,80 m²,,,,,,7 m,Connecté,Oui,47 m²,64 m²,204 kWh/m²,D,20210613-0000590623-01-7,41 kg CO₂/m²,Non communiqué,Gaz,Oui,795.000 €,Oui,"Parklaan 59/1
+1930 - Zaventem",4375890,,,Brussel,,,Oui,6,,,165 m²,,,1.375 €,1874,2,Oui,,,,,Oui,,,Non,Non,Zone non inondable,"Zone d'habitat d'intérêt culturel, historique et/ou esthétique",,,90 m²,,,Oui,,,,,,,,Non,,Oui,Oui,,Oui,,,Non,,,,,,Urbain,,,,,,,,,88 m²
+50,À rénover,6 m,300 m²,25 m²,,75 m²,7,22 m²,18 m²,17 m²,14 m²,14 m²,,7,5,12 m²,Oui,,,,,,,6 m,Connecté,Oui,,20 m²,328 kWh/m²,F,20130322-0000154719-01-2,70 kg CO₂/m²,Non communiqué,,Oui,Faire offre à partir de 985.000 €,Oui,"Av. de Burbure 134A
+1970 - Wezembeek-Oppem",4418768,À définir,,,2,,Oui,7,Oui,Non,100 m²,,,,1910,2,Oui,,,,,,,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",,,100 m²,,,Oui,,,,,,,,Non,Non,Oui,,,,,,Non,,,,,,Urbain,,,,,,,,,12 m²
+51,Bon,6.35 m,176 m²,34 m²,Équipée,6 m²,3,16 m²,8 m²,11 m²,,,Non,,2,,Non,,,,,,,,Connecté,Oui,166 m²,7 m²,276 kWh/m²,E,20210331-00004147001-5-4,64 kg CO₂/m²,Non communiqué,,Oui,525.000 €,Non,"Rue de Tervaete 35
+1040 - Etterbeek",,,,,1,,,1,Oui,Non,245 m²,,Non,1.767 €,1961,,,Non,,,,,,Non,Non,Non,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,,,,Oui,Non,Non,Non,Oui,Non,,Non,,,Non,,,Nord-ouest,3715,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,1,,,
+52,À rénover,5 m,175 m²,,,,3,,,,,,Non,,1,,Non,,,Oui,Non,Oui,Non,,,Non,,1 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Non,299.000 €,Non,,,Immédiatement,,,1,,,1,Oui,Non,104 m²,,,741 €,1924,2,,Non,,Non,Non,Non,Non,,Oui,,Zone non inondable,,Oui,,,,Non,Oui,,,,,,Oui,,,,,,,,,,,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,Toutes sortes,,1,,,
+53,À rénover,6 m,305 m²,,,,,,,,,,Non,,,,Non,,17 m²,Non,Non,Non,Non,,,Non,48 m²,,211 kWh/m²,D,20210315,211 kg CO₂/m²,Non communiqué,,Oui,449.500 €,Oui,,,Après la signature de l’acte,,,,,,,,Non,140 m²,Est,,1.013 €,1932,2,,Non,211,Non,Non,Non,Oui,,,,,,,,,,Non,,,,,,,Oui,Non,Non,Non,Oui,Non,Non,Non,Non,Non,Non,Non,,,,,,,,,Toutes sortes,,,,,
+54,Bon,,320 m²,,Équipée,,5,,,,,,,3,3,,,,,,,,,7.9 m,,Oui,,71 m²,230 kWh/m²,E,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,545.000 €,Oui,"Blvd. G. Wahis 272 (place Meiser)
+1030 - Schaerbeek",4173 - 2096,Après la signature de l’acte,,,1,,,2,Oui,Non,167 m²,,Non,2.000 €,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,Bon,,320 m²,,Équipée,,5,,,,,,,3,3,,,,,,,,,7.9 m,,Oui,,71 m²,230 kWh/m²,E,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,545.000 €,Non,"Blvd. G. Wahis 272 (place Meiser)
+1030 - Schaerbeek",4163 - 2096,Après la signature de l’acte,,,1,,,2,Oui,Non,167 m²,,Non,2.000 €,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,Bon,7 m,280 m²,,Pas équipée,,3,,,,,,,3,5,,,,,,,,,7 m,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,550.000 €,Non,"Blvd. G. Wahis 272 (place Meiser)
+1030 - Schaerbeek",4168 - 2095,,,,,,,,Oui,Non,157 m²,,Non,1.150 €,1908,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+57,Bon,7 m,280 m²,,Pas équipée,,3,,,,,,,3,5,,,,,,,,,7 m,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,550.000 €,Oui,"Blvd. G. Wahis 272 (place Meiser)
+1030 - Schaerbeek",4161 - 2095,,,,,,,,Oui,Non,157 m²,,Non,1.150 €,1908,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,Bon,11 m,268 m²,,,,9,,,,,,,,,,,,,,,,,,Connecté,Oui,,,473 kWh/m²,G,Non communiqué,95 kg CO₂/m²,Non communiqué,Gaz,Oui,630.000 €,Oui,"Chemin de la Justice 1
+1300 - Limal",,Selon le locataire,,,,,,,,,67 m²,,,3.453 €,1937,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",,Fabrice Huberty,,,,,,4350,
+59,À rafraîchir,,Oui,,4,,2,,,,,,,2,Oui,,,,,,,,,,,Oui,,,G,202105010000587922015,Non communiqué,Non communiqué,660.000 €,,,1.585 €,,,,Après la signature de l’acte,,Cinquantenaire,,250 m²,,,Non,115 m²,Oui,Oui,,"Place Des Maïeurs 4/20
+1150 - Woluwé-St-Pierre",1926,3,Équipée,,,,,,,,,,,,Oui,Oui,,,,,,,,,,,,,,Oui,490 kWh/m²,,,,,,,Sud-ouest,,,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,
+60,Fraîchement rénové,,230 m²,,Américaine équipée,,4,,,,,,Non,2,2,,Non,,,Non,Non,Non,Non,,Connecté,Oui,1 m²,1 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,595.000 €,Non,,,Après la signature de l’acte,,,,,,,Oui,Non,200 m²,,,,1930,2,Oui,Non,,Non,Non,Non,Oui,,,,Zone non inondable,,Oui,,,,Non,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,Toutes sortes,,,,,
+61,Bon,,,,,,,,,,,,,,,,,,,Non,Non,Non,Non,,Connecté,Non,,,424 kWh/m²,G,20210803-­0000593584­-01­-5,85 kg CO₂/m²,Non communiqué,Gaz,Oui,725.000 €,Oui,"3B, RUE DES ROMAINS
+7264 - Helmsange",,Selon le locataire,,,,,,,,,,,Non,1.544 €,,,,Non,,Non,Non,Non,Non,,,,,,,,,,,,,,,,,,Non,Non,Non,Oui,Non,,Non,,,Non,,,,6154848,,,Non,,,,,,,2800,
+62,Excellent état,7.2 m,235 m²,,,,4,,,,,,,,,25 m²,Oui,,,,,,,,Connecté,Oui,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,825.000 €,Oui,"Rue de Pervyse, 37
+1040 - Etterbeek",18316,Après la signature de l’acte,,,,,,5,Oui,,66 m²,,,1.241 €,1914,2,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+63,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,Non communiqué,Non communiqué,Non communiqué,Oui,,,,"Rue Fort d'Andoy 5
+5100 - Wierde",3954592,,Immédiatement,30 décembre 2020 - 00:00,Bruxelles,113,33 kWh/m²,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,,,503 m²,,,,,,,,,,Non,,,,Non,,,,,,,,Connecté,Oui,,,309 kWh/m²,F,20210331-00004147001-5-4,61 kg CO₂/m²,Non communiqué,,Non,899.000 €,Oui,"Rue de Tervaete 35
+1040 - Etterbeek",,,,,,,,,,Non,144 m²,,Non,3.509 €,1922,,,Non,,,,,,Non,Non,Non,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,,,,,Non,Non,Non,Oui,Non,,Non,,,Non,,,Nord-est,3796,,,,,,,,,,,
+65,À rénover,5.84 m,140 m²,23 m²,,12 m²,4,18 m²,11 m²,11 m²,11 m²,,,2,,,,,,,,,,,,,80 m²,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,Faire offre à partir de 299.900 €,Non,"Voie des Chasseurs à Cheval 4
+1300 - Wavre",,Après la signature de l’acte,,,,,,,,,184 m²,,,,,4,Oui,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,4496568,,Urbain,,,,,,,,,
+66,Fraîchement rénové,,260 m²,50 m²,Américaine hyper-équipée,,6,,,,,,,1,3,,,,,,,,,6 m,,,125 m²,,309 kWh/m²,F,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,615.000 €,Non,"Blvd. G. Wahis 272 (place Meiser)
+1030 - Schaerbeek",4137 - 2082,,1 novembre 2021 - 00:00,,,,,1,Oui,Non,335 m²,,Non,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,,5.5 m,152 m²,36 m²,Semi-équipée,,4,,,,,,Non,1,2,,Non,,,,,,,,Non connecté,Non,190 m²,20 m²,370 kWh/m²,G,Non communiqué,74 kg CO₂/m²,Non communiqué,,Oui,405.000 €,Non,"Rue Colonel Bourg 110, Bte 4
+1030 - Bruxelles",30537,,,,,,,1,,Non,258 m²,,Non,1.160 €,1950,2,,Non,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,Sud-est,,,,,,,,,,,,
+68,À rénover,,325 m²,,,,5,18 m²,18 m²,15 m²,14 m²,,,3,3,,Oui,,,,,,,,Connecté,Oui,65 m²,,394 kWh/m²,G,20210217-0000582921-01-5,101 kg CO₂/m²,Non communiqué,Gaz,Oui,495.000 €,Oui,"Rue du Virginal 83
+7090 - Hennuyères",4252186,Après la signature de l’acte,,,,,,3,Oui,Non,180 m²,,,,,2,,,,,,,,,,,Zone non inondable,,,,,,,Oui,,,,,,,,Non,Oui,,,,,,,Non,,,,,,,,,,,,,,,
+69,Bon,,260 m²,94 m²,Équipée,35 m²,7,10 m²,12 m²,16 m²,9 m²,10 m²,Non,,1,,,,,,,,,,Non connecté,Oui,,,263 kWh/m²,E,20190318-0000545797-01-5,Non communiqué,Non communiqué,Gaz,Oui,529.000 €,Non,"avenue Rogier 128
+1030 - Schaerbeek",,À définir,,,,,,,Oui,Non,,,,1.835 €,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+70,À rénover,4.9 m,15 m²,Équipée,12 m²,3,19 m²,19 m²,Non,,,,1,1,Non,,Oui,,,,,,,,Non,100 m²,10 m²,Nord-est,G,Non communiqué,Non communiqué,Non communiqué,Non,,300.000 €,Non,"Rue Colonel Bourg 110, Bte 4
+1030 - Bruxelles",30540,,,,,,115 m²,,,Non,Non,,,Oui,,,2,,Connecté,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,632 kWh/m²,,,Urbain,,,,,,,,,
+71,À rafraîchir,6 m,265 m²,,,,6,,,,,,,3,,,Non,,,,,,,,,,,,348 kWh/m²,G,20131010-000190482-01-9,75 kg CO₂/m²,Non communiqué,Gaz,Oui,590.000 €,Oui,"Rue Gérard 50
+1040 - Etterbeek",,Selon le locataire,,,,,,,Oui,,141 m²,,,1.914 €,1930,2,,,,,,,,,,,,,,Oui,,,,Oui,,,,,,,,,,,,,,,,,,,,764/5013,,,,,,,,,,1515,
+72,Bon,,210 m²,42 m²,Hyper équipée,,3,,,,,,,1,2,40 m²,Oui,,,Non,,,,,,,,3 m²,114 kWh/m²,C,Non communiqué,23 kg CO₂/m²,Non communiqué,Gaz,Oui,515.000 €,Non,"Place des chasseurs Ardennais 24-26
+1030 - Schaerbeek",7905 - 654657685,,,,,,,,Oui,Non,,,Non,3.086 €,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+73,,,300 m²,,,,5,,,,,,,6,,,Oui,,,,,,,,,Oui,,50 m²,357 kWh/m²,G,001047944,73 kg CO₂/m²,Non communiqué,Gaz,Oui,650.000 €,Oui,"Rue Alexandre Markelbach 78
+1030 - Schaarbeek",1477 - 0991,,,,,,,,Oui,Non,135 m²,,Non,2.359 €,1913,2,,,,,,,,,,,Zone non inondable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,3435,
+74,,,170 m²,,,,6,15 m²,10 m²,15 m²,15 m²,18 m²,Non,,3,,Non,,,Non,Non,Non,Non,,,Non,,,Non communiqué,Non communiqué,Non communiqué,384 kg CO₂/m²,Non communiqué,Gaz,Non,399.000 €,Oui,,,,,,,,,3,,Oui,45 m²,,,693 €,,2,,Non,,Non,Non,Non,Non,,,Non,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,Toutes sortes,,,100,2170,
+75,À rafraîchir,5.55 m,210 m²,,Semi-équipée,,4,14 m²,14 m²,14 m²,14 m²,,,3,4,,,,,,,,,5.55 m,Connecté,Oui,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,,590.000 €,Oui,"Avenue Jules du Jardin 43
+1150 - Woluwe-St-Pierre",4535774,,,Bruxelles (19 communes),,,,4,,Non,102 m²,,,,1936,2,,,,,,,,,,,,,Oui,,,,,,,,,,,,,Non,Non,Oui,,,,,,Non,,,,,,,,,,,,,,,
+76,Bon,,,30 m²,Équipée,6 m²,3,,,,,,,3,3,,,,,,,,,,,,65 m²,,233 kWh/m²,E,Non communiqué,38 kg CO₂/m²,Non communiqué,,,415.000 €,Oui,"Avenues Charles Quint 114
+1083 - Ganshoren",,Selon le locataire,,,,,,,Oui,,162 m²,,,1.569 €,1951,2,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+77,Fraîchement rénové,,200 m²,16 m²,Américaine équipée,16 m²,9,16 m²,16 m²,16 m²,16 m²,16 m²,,9,4,16 m²,Oui,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,990.000 €,Oui,"Av. Louise 523
+1050 - Bruxelles",,Après la signature de l’acte,,,,,,9,Oui,Non,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4368468,,,,,,,,,,,
+78,À rénover,,185 m²,,Semi-équipée,6 m²,5,18 m²,18 m²,16 m²,13 m²,12 m²,,2,2,,,,,,,,,,,,,,502 kWh/m²,G,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,448.000 €,Oui,"Square Ambiorix, 32/11B
+1000 - Bruxelles",1699086 - 2686,Après la signature de l’acte,,,1,,,,,Non,,,Non,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+79,À rénover,,270 m²,,Semi-équipée,6 m²,5,18 m²,18 m²,16 m²,13 m²,12 m²,,2,2,,,,,,,,,,,,,,502 kWh/m²,G,Non communiqué,Non communiqué,Non communiqué,Gaz,,448.000 €,Oui,"Square Ambiorix, 32/11B
+1000 - Bruxelles",1697565 - 2685,Après la signature de l’acte,,,1,,,,,Non,,,Non,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+80,,,275 m²,,Équipée,10 m²,4,18 m²,16 m²,16 m²,15 m²,,,,4,,,12 m²,,,,,,10 m,,,90 m²,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Non,479.000 €,Non,"Chaussée de Helmet 239
+1030 - Schaerbeek",2350,,,,,,,4,,Non,,,Non,1.090 €,1910,2,Oui,,,Non,Non,Non,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+81,,,354 m²,35 m²,Équipée,,4,,,,,,,2,3,,,,,,,,,,,,74 m²,,202 kWh/m²,D,20210303-0000583728-01-1,52 kg CO₂/m²,Non communiqué,Mazout,Oui,890.000 €,Non,"Av. Henri Conscience 74
+1140 - Evere",9451-1,,,,,,,,Oui,Non,,Sud-est,Non,3.185 €,1927,2,Oui,,,Non,Non,Non,,,,,,,,,,,,,,,,,,Oui,,,,,Oui,,,,,,,,,,,,,,,,,,,,
+82,À rafraîchir,,215 m²,57 m²,Équipée,,6,18 m²,18 m²,13 m²,18 m²,23 m²,Non,,1,,,,,,,,,,Connecté,Oui,,,346 kWh/m²,F,20160427-0000336862-01-1,Non communiqué,Non communiqué,Gaz,,449.000 €,Non,"avenue Rogier 128
+1030 - Schaerbeek",,À définir,,,,,,,Oui,Non,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+83,Bon,,155 m²,30 m²,Équipée,9 m²,5,14 m²,13 m²,22 m²,14 m²,6 m²,Non,,1,,,,,,,,,,Connecté,Oui,6500 m²,10 m²,583 kWh/m²,G,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,469.000 €,Non,"avenue Rogier 128
+1030 - Schaerbeek",,À définir,,,,,,,Oui,Non,,,,,,,,,,Non,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+84,Bon,,230 m²,42 m²,Équipée,,7,16 m²,16 m²,16 m²,16 m²,,Non,,4,,,,,,,,,,Connecté,Oui,120 m²,,272 kWh/m²,E,20130627-0000173990-01-5,Non communiqué,Non communiqué,Gaz,Oui,590.000 €,Non,"avenue Rogier 128
+1030 - Schaerbeek",,À définir,,,,,,,Oui,Non,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+85,Bon,,431 m²,74 m²,Équipée,10 m²,4,16 m²,17 m²,13 m²,13 m²,,Non,,3,,,,,,,,,,Connecté,Oui,,61 m²,424 kWh/m²,G,20200103-0000562750-01-6,Non communiqué,Non communiqué,Gaz,Oui,599.000 €,Non,"avenue Rogier 128
+1030 - Schaerbeek",,À définir,,,,,,,,Non,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,Bon,,200 m²,,Semi-équipée,,7,,,,,,,7,7,,,,,,,,,,,,,,223 kWh/m²,E,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,765.000 €,Oui,"Square Ambiorix, 32/11B
+1000 - Bruxelles",1699115 - 2623,,,,1,,,,,Non,75 m²,,Non,1.913 €,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87,,,154 m²,31 m²,Équipée,,3,25 m²,18 m²,15 m²,,,,,1,9 m²,Oui,,,,,,,,,,131 m²,,259 kWh/m²,E,20210616-0000590887-01-1,51 kg CO₂/m²,Non communiqué,,Oui,379.000 €,Non,"Av. Henri Conscience 74
+1140 - Evere",9674,,,,,,,1,Oui,Non,,Sud,Non,1.184 €,,2,,,,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88,Bon,,,,,,,,,,,,,,,,,,,,,,,,,,,,220 kWh/m²,E,Non communiqué,43 kg CO₂/m²,Non communiqué,,,560.000 €,Oui,"Chaussée d' Haecht 41
+1210 - St-Josse-Ten-Noode",4500893,Selon le locataire,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89,,,390 m²,,Équipée,,7,,,,,,,4,6,,,90 m²,,,,,,,,,210 m²,,328 kWh/m²,F,20210607-0000590162-01-8,83 kg CO₂/m²,Non communiqué,Gaz,Oui,949.000 €,Oui,"Square Eugène Plasky 97
+1030 - Schaerbeek",7989-1,,,,,,,,,Non,,,Non,,,2,,,,Non,Non,Non,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
+90,,,165 m²,32 m²,Équipée,9 m²,3,25 m²,17 m²,8 m²,,,,,2,,,48 m²,,,,,,9 m,,,46 m²,8 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Non,369.000 €,Non,"Chaussée de Helmet 239
+1030 - Schaerbeek",2351,,,,,,,1,,Non,,,Non,3.126 €,,2,,,,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91,,,200 m²,30 m²,Semi-équipée,,6,1 m²,1 m²,1 m²,1 m²,1 m²,,1,2,,,,,,,,,,,,30 m²,,356 kWh/m²,G,Non communiqué,93 kg CO₂/m²,Non communiqué,,Oui,399.000 €,Non,"Square Eugène Plasky 97
+1030 - Schaerbeek",7907-1-1,,,,,,,,,Non,,Est,Non,968 €,,2,,,,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,Bon,,200 m²,30 m²,Équipée,17 m²,6,13 m²,22 m²,13 m²,22 m²,13 m²,Non,,2,,,,,,,,,,Connecté,Oui,30 m²,,356 kWh/m²,G,Non communiqué,Non communiqué,Non communiqué,,Oui,399.000 €,Non,"avenue Rogier 128
+1030 - Schaerbeek",,À définir,,,,,,,,Non,,Est,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,,,118 m²,22 m²,Équipée,,3,,,,,,,1,1,,,,,,,,,,,,,,459 kWh/m²,G,20150929-0000305990-01-9,98 kg CO₂/m²,Non communiqué,,Oui,249.000 €,Non,"Av. Henri Conscience 74
+1140 - Evere",9758,,,,,,,,Oui,Non,,,Non,514 €,,2,,,,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+94,,,,,,,,,,,,,,,,,,,,,,,,,,,,,A,Non communiqué,Non communiqué,Non communiqué,Oui,,,,"Rue Fort d'Andoy 5
+5100 - Wierde",3954592,,Immédiatement,30 décembre 2020 - 00:00,Bruxelles,113,33 kWh/m²,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95,,,150 m²,30 m²,Équipée,,5,,,,,,,,2,,,,,,,,,,,,65 m²,10 m²,583 kWh/m²,G,Non communiqué,117 kg CO₂/m²,Non communiqué,Gaz,Oui,469.000 €,Non,"Square Eugène Plasky 97
+1030 - Schaerbeek",7955-1,,,,,,,2,,Non,,Est,Non,,,2,,,,Non,Non,Non,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,
+96,À rénover,,216 m²,,,,6,,,,,,,1,2,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,498.000 €,Non,"rue Willy Van der Meeren 23
+1140 - Evere",96 - 93363893,Après la signature de l’acte,,,,,,,Oui,Non,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+97,,,230 m²,,,,,14 m²,8 m²,,,,,,,,,,,,,,,,,,,,417 kWh/m²,G,20210429-0000587852-01-8,83 kg CO₂/m²,Non communiqué,,Oui,540.000 €,Non,"Av. Henri Conscience 74
+1140 - Evere",9531-1-1,,,,,,,,,Non,,,Non,2.335 €,,2,,,,Non,Non,Non,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+98,,,210 m²,,Équipée,,,,,,,,,,,,,,,,,,,,,,100 m²,,500 kWh/m²,G,20191031-0000559350-01-4,100 kg CO₂/m²,Non communiqué,,Oui,695.000 €,Oui,"Av. Henri Conscience 74
+1140 - Evere",9494,,,,,,,,,Non,,Sud,Non,,,2,Oui,,,Non,Non,Non,,,,,,,Oui,Oui,,,,,,,,,,Oui,,,,Oui,,,Oui,,,,,,,,,,,,,,,,,,
+99,,,215 m²,,,,6,23 m²,20 m²,,,,,5,,,,40 m²,,,,,,,,,,,346 kWh/m²,F,20160427-0000336862-01-1,74 kg CO₂/m²,Non communiqué,Gaz,Oui,449.000 €,Non,"Square Eugène Plasky 97
+1030 - Schaerbeek",8011,,,,,,,,,Non,,,Non,,,2,,,,Non,Non,Non,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,,,275 m²,,,,7,17 m²,15 m²,12 m²,9 m²,,,1,4,,,,,,,,,,,,38 m²,,Non communiqué,Non communiqué,20140117-0000207278-01-7,152 kg CO₂/m²,Non communiqué,,Oui,620.000 €,Oui,"Av. Henri Conscience 74
+1140 - Evere",9546-1,,,,,,,3,,Non,,Est,Non,,,4,,,,Non,Non,Non,,,,,,,Oui,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,
+101,,,405 m²,,Équipée,,,,,,,,,6,8,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Non,649.000 €,Oui,"Chaussée de Helmet 239
+1030 - Schaerbeek",1188,,,,,,,,,Non,,,Non,,,2,,,,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,,,173 m²,40 m²,Équipée,,4,,,,,,,1,2,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Mazout,Non,325.000 €,Non,"Rue Victor Greson 1/3
+1050 - Ixelles",1416-1-1-1,,,,1,,,1,,Non,,,Non,,,2,,,,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
+103,,,173 m²,40 m²,Équipée,,4,,,,,,,1,2,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Mazout,Non,325.000 €,Non,"Rue Victor Greson 1/3
+1050 - Ixelles",1416-1-1,,,,1,,,1,,Non,,,Non,,,2,,,,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,,,143 m²,32 m²,Équipée,,4,20 m²,19 m²,12 m²,11 m²,,,1,1,,,,,,,,,,,,,6 m²,493 kWh/m²,G,20200926-0000575500-01-4,98 kg CO₂/m²,Non communiqué,,Oui,339.000 €,Non,"Av. Henri Conscience 74
+1140 - Evere",1140-257,,,,,,,,Oui,Non,,,Non,,1931,2,,,,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,
+105,,,352 m²,40 m²,Équipée,9 m²,2,20 m²,15 m²,,,,,,,,,43 m²,,,,,,9 m,,,,40 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,399.000 €,Non,"Chaussée de Helmet 239
+1030 - Schaerbeek",1196,,,,,,,1,,Non,,,Non,,,2,Oui,,,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+106,,,350 m²,,Équipée,,7,,,,,,,2,,,,,,,,,,,,,120 m²,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Oui,650.000 €,Non,"Rue Faider 11
+1060 - St-Gilles",Sébastien TAILLIEU,,,,1,,,,,Non,,,Non,,,2,,,,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6414,,,,,,,
+107,,,146 m²,,Équipée,13 m²,4,,,,,,,4,,,,,,,,,,13 m,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Non,245.000 €,Oui,"Chaussée de Helmet 239
+1030 - Schaerbeek",1193-1,,,,,,,,,Non,,,Non,,,2,,,,Non,Non,Non,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+108,,,,,,,6,,,,,,,3,,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,790.000 €,Oui,"Rue Wayez 1c
+1070 - Anderlecht",4499109,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+109,À rénover,,,,Pas équipée,,,,,,,,Non,,,,Non,,,,,,,,Non connecté,Non,40 m²,17 m²,523 kWh/m²,G,20210918-0000595839-01-7,Non communiqué,Non communiqué,,Oui,310.000 €,Non,"Av. de l'Araucaria 59
+1020 - Laeken",UNI-0019-21,,,,,,,,,Non,,,Non,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+110,Bon,,325 m²,17 m²,Américaine équipée,32 m²,5,16 m²,18 m²,12 m²,19 m²,14 m²,Non,1,2,16 m²,Oui,40 m²,,Non,Non,Non,Non,,Connecté,Oui,,100 m²,497 kWh/m²,G,20161010-0000353112-01-3,107 kg CO₂/m²,Non communiqué,Gaz,Oui,850.000 €,Non,,,À définir,,,2,,,,,Non,105 m²,,,2.260 €,1911,2,Oui,Non,,Non,Non,Non,Oui,,,,,,,,,,Oui,,,,,,,Oui,Non,Non,Non,Oui,Oui,Non,Non,Non,Non,Non,Non,,Est,,,Urbain,,,,Toutes sortes,,,,,
+111,Excellent état,6 m,Oui,,31 m²,4,24 m²,24 m²,17 m²,13 m²,3,,,3,Oui,,,,,,,,,,Non,35 m²,35 m²,Oui,E,63531015,53 kg CO₂/m²,Non communiqué,Gaz,Oui,Zone non inondable,2.935 €,"Avenue Baron Albert d'Huart 130
+1950 - Kraainem",4453967,,Après la signature de l’acte,31 décembre 2021 - 00:00,,2,345 m²,,3,Non,Oui,Connecté,,,Non,1930,2,Américaine hyper-équipée,Non,,,,,,,,,1.260.000 €,,,,,,,,,,,,,,,Oui,Oui,,Oui,,,,,246 kWh/m²,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,
+112,À rafraîchir,6 m,200 m²,20 m²,Hyper équipée,15 m²,3,20 m²,20 m²,20 m²,,,,3,4,,,27 m²,,,,,,,Connecté,Oui,,,375 kWh/m²,G,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,540.000 €,Non,"Rue Xavier De Bue 1
+1180 - Uccle",jeremy maitre,Après la signature de l’acte,,,,,,,,Non,52 m²,,,1.236 €,,2,Oui,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,Oui,,,,,,,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",Non,,,,,,,,
+113,Excellent état,,260 m²,50 m²,Équipée,15 m²,5,50 m²,15 m²,15 m²,14 m²,15 m²,,3,3,15 m²,Oui,,,,,,,,Connecté,Oui,110 m²,6 m²,224 kWh/m²,E,Non communiqué,44 kg CO₂/m²,Non communiqué,Gaz,Oui,945.000 €,Non,"Avenue de L'Armée 41
+1040 - Etterbeek",4454540,Après la signature de l’acte,,,1,,,,Oui,Non,180 m²,,,2.840 €,1980,2,Oui,,,,,,,,,,,,,,,,,,,,,,,,,Non,Non,Oui,Oui,,,,,Non,,,,,,Urbain,,,,,,2,,,
+114,À rénover,6 m,17 m²,Oui,16 m²,5,17 m²,15 m²,17 m²,15 m²,18 m²,2,,2,Oui,,,,,,,,,,Oui,40 m²,2 m²,486 kWh/m²,G,Non communiqué,97 kg CO₂/m²,Non communiqué,550.000 €,,,Non,"Avenue des Cerisiers, 212
+1200 - Woluwe-St-Lambert",4499995,,Après la signature de l’acte,,Bruxelles (19 communes),,250 m²,,2,Non,100 m²,Connecté,,,,1930,2,Pas équipée,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Isolé,,,,,,,,,
+115,À rénover,5.5 m,220 m²,18 m²,Équipée,7 m²,3,23 m²,12 m²,10 m²,,,,2,3,8 m²,Oui,,,,,,,,Connecté,Oui,80 m²,,327 kWh/m²,F,20210825-TEST,65 kg CO₂/m²,Non communiqué,Gaz,Oui,595.000 €,Non,"Rue Belliard 200
+1000 - Bruxelles",4456671,Après la signature de l’acte,,,,,,1,Oui,Non,147 m²,,,,1835,2,Oui,,,,,,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",,,70 m²,,,,,,,,,,,Non,Non,Oui,,,,,,Non,,,,,,,,,,,,,,,
+116,Bon,6 m,308 m²,55 m²,Hyper équipée,19 m²,4,20 m²,20 m²,20 m²,20 m²,20 m²,,3,5,,,,,,,,Oui,6 m,Connecté,Oui,,,257 kWh/m²,E,20191114-0000559951-01-03,52 kg CO₂/m²,Non communiqué,,,1.249.000 €,Non,"Laarheidestraat 91
+1650 - Beersel",,Après la signature de l’acte,,,,,,1,Oui,Non,240 m²,Est,,2.692 €,1924,2,Oui,,,,,,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",,Oui,,,Oui,,,,,,,,,,,Oui,,,,,,,,Oui,Est,,,"Zone d'habitat (résidentiel, urbain ou rural)",,Ariane Lauer,,,,,,,20 m²
+117,,,240 m²,,Équipée,,6,,,,,,,2,2,,,,,,,,,,,,50 m²,15 m²,333 kWh/m²,F,Non communiqué,488 kg CO₂/m²,Non communiqué,Gaz,Oui,665.000 €,Non,"Avenue de Busleyden 21
+1020 - Laeken",Vincent JACOB,,,,1,,,,,Non,169 m²,Sud,Non,,1930,2,,,,Non,Non,Non,,,,,,,Oui,,,,,,,,,,,,,,,Oui,,,,,,,,,Sud-est,,,Urbain,,JUST - V21/143,,,,1,,,
+118,Fraîchement rénové,14 m,270 m²,62 m²,Américaine hyper-équipée,25 m²,4,30 m²,18 m²,14 m²,11 m²,,Oui,2,3,18 m²,Oui,15 m²,,,,Oui,,,Connecté,Oui,60 m²,,136 kWh/m²,C,Non communiqué,27 kg CO₂/m²,Non communiqué,Gaz,Oui,899.000 €,,"Rue Paul Lauters 67
+1050 - Ixelles",,Après la signature de l’acte,,,,,,,,Non,182 m²,Sud,,,2021,2,Oui,,,,,,,,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",,Oui,,,,,,,,,,Oui,,,,,Oui,,Oui,,,,,,Sud,,,,,TRUST CONSULT,,,,,,,
+119,Excellent état,,260 m²,,Américaine équipée,,4,,,,,,,4,5,,,,,,,,,,Connecté,Oui,,,330 kWh/m²,F,2140815-0000242989-01-601-,71 kg CO₂/m²,Non communiqué,Gaz,,1.150.000 €,Oui,"Av. de Tervueren, 37
+1040 - Etterbeek",4497233,,,Bruxelles,,,,4,Oui,,,,,,1950,2,,,,,,,,,,,Zone non inondable,,,Oui,,,,,,,,,,,,Non,Non,,,,Oui,,,Non,,,,,,Urbain,,,,,,,,,
+120,Bon,,203 m²,,Hyper équipée,,4,,,,,,,3,3,,,,,,,,,,,,,,330 kWh/m²,F,F,71 kg CO₂/m²,Non communiqué,,,520.000 €,Non,"Rue du Lac 27,
+1050 - Ixelles",4445699,Selon le locataire,,Bruxelles (19 communes),,,,2,Oui,Non,203 m²,,,,1900,2,,,,,,,,,,,,,,Oui,,,,Oui,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,
+121,Bon,7 m,430 m²,50 m²,Hyper équipée,10 m²,4,20 m²,20 m²,15 m²,13 m²,,,2,4,110 m²,Oui,,,,,,,,Connecté,Oui,200 m²,15 m²,307 kWh/m²,F,20190510-0000549185-01-1,61 kg CO₂/m²,Non communiqué,Gaz,Oui,1.295.000 €,Oui,"Rue Belliard 200
+1000 - Bruxelles",4364049,Immédiatement,2 juin 2020 - 00:00,,1,,,2,Oui,Non,317 m²,,,2.669 €,1900,2,,Oui,,,,,,,,,,,,,15 m²,,,,,,,,,,,Non,Non,Oui,Oui,,Oui,,,Non,,,,,,,,,,,,,,,110 m²
+122,Excellent état,,333 m²,24 m²,Semi-équipée,,6,32 m²,28 m²,28 m²,22 m²,22 m²,,2,4,13 m²,Oui,,,,,,,,Connecté,Oui,130 m²,40 m²,341 kWh/m²,F,Non communiqué,68 kg CO₂/m²,Non communiqué,Gaz,Oui,1.175.000 €,Non,"Avenue de Tervuren 113
+1040 - Etterbeek",,Après la signature de l’acte,1 mars 2022 - 00:00,,1,,Oui,2,,Non,239 m²,,,2.921 €,1904,2,,,,,,,,,Non,,,,,,350 m²,,,,,,,,,,,Non,Non,Oui,,,,,,Non,,,,4527424,,,,,,,,1,,,
+123,Bon,,,,,,4,,,,,,,2,,,,,,,,,,,Connecté,Oui,,,204 kWh/m²,D,20121012-0000121834-01-1,45 kg CO₂/m²,Non communiqué,Gaz,Oui,1.100.000 €,Oui,"Rue Archimède 17
+1000 - Bruxelles ville",,,,,,,,,,Non,1 m²,,,1.991 €,1918,2,,Non,204,Non,Non,Non,Non,Non,Non,Non,Zone non inondable,Autre type de zone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+124,Bon,5 m,Américaine hyper-équipée,,4,,Non,,,,,,2,3,Non,,Oui,,,,,,,,Non,150 m²,10 m²,368 kWh/m²,G,202107280000593295017,73 kg CO₂/m²,Non communiqué,Non,,920.000 €,2.251 €,"Avenue du Tennis 29
+1150 - Woluwe-St-Pierre",21022,,,,,,235 m²,,,Non,Non,Non connecté,,Oui,Non,1933,2,,250 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+125,À rénover,,16 m²,Oui,14 m²,4,13 m²,16 m²,14 m²,20 m²,1,,,1,Oui,,,,,,,,,,Non,85 m²,Oui,,G,Non communiqué,91 kg CO₂/m²,Non communiqué,Gaz,495.000 €,,718 €,"Avenue Baron Albert d'Huart 130
+1950 - Kraainem",4452391,,Après la signature de l’acte,1 juin 2021 - 00:00,,,140 m²,,2,Oui,150 m²,Connecté,,,Non,1890,2,Équipée,,,,,,,,,,,,,488 kWh/m²,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+126,Bon,5.5 m,280 m²,25 m²,Hyper équipée,11 m²,6,24 m²,24 m²,24 m²,15 m²,33 m²,,2,3,7 m²,Oui,,,,,,,5.5 m,,,50 m²,23 m²,404 kWh/m²,G,Non communiqué,85 kg CO₂/m²,Non communiqué,Gaz,Oui,990.000 €,Non,"Avenue de Tervuren 113
+1040 - Etterbeek",,Selon le locataire,1 mars 2022 - 00:00,,,,,1,Oui,,16 m²,,,,1920,2,Oui,,,,,,,,,,,,,,,,,,,,,,,,,Non,Non,Oui,,,,,,Non,,,,4518985,,,,,,,,1,,,
+127,Bon,7 m,423 m²,,Américaine hyper-équipée,,4,15 m²,13 m²,13 m²,12 m²,,,3,5,5 m²,Oui,,,,,,,,Connecté,Oui,76 m²,,631 kWh/m²,G,20200703-0000571086-01-1,236 kg CO₂/m²,Non communiqué,Gaz,Oui,1.090.000 €,Oui,"Rue Belliard 200
+1000 - Bruxelles",4356924,Après la signature de l’acte,5 novembre 2020 - 00:00,,,,,3,Oui,Non,218 m²,,,,1874,2,,,,,,,,,,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,,,,,,Non,Non,Oui,,,,,,Non,,,,,,,,,,,,,,,
+128,À rafraîchir,,375 m²,40 m²,Équipée,,7,,,,,,,2,3,,Oui,,,,,,,,Connecté,Oui,300 m²,55 m²,422 kWh/m²,G,20210428,84 kg CO₂/m²,Non communiqué,Gaz,,1.100.000 €,Non,"Avenue de Tervuren 113
+1040 - Etterbeek",,Après la signature de l’acte,1 août 2021 - 00:00,,1,,,2,Oui,Non,504 m²,,,3.423 €,1929,2,,,,,,,,,,,,,,,480 m²,,,Oui,,,,,,,,Non,Non,Oui,,,,,,Non,,,,4383692,,,,,,,,1,,,
+129,,5 m,Oui,,12 m²,3,22 m²,15 m²,15 m²,2,,,,2,Oui,,,,,,,,,,Oui,17 m²,Non,,F,Non communiqué,66 kg CO₂/m²,Non communiqué,690.000 €,,,2.071 €,"Avenue des Cerisiers, 212
+1200 - Woluwe-St-Lambert",4398211,,Après la signature de l’acte,,Bruxelles (19 communes),,160 m²,,2,Non,76 m²,Connecté,,,Non,,2,Américaine hyper-équipée,,,,,,,,,,,,Oui,,,,,,,,,,,,,Non,Oui,Non,,,,,,331 kWh/m²,,,,,,Urbain,,,,,,,,,
+130,À rénover,10 m,350 m²,,Semi-équipée,,5,,,,,,Oui,3,4,,,80 m²,,Oui,,,,10 m,Connecté,Oui,,5 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,,800.000 €,Oui,"Avenue René Gobert 26
+1180 - Uccle",,À définir,,,,,Oui,,,Non,87 m²,,,1.500 €,1905,2,,,,,,,,Non,Non,Non,,"Zone d'habitat d'intérêt culturel, historique et/ou esthétique",,,,,,,,,,,,Oui,,,,Oui,,,,,,,,,Sud,,,,,Cédric Mathonnet,,,,,,3000,
+131,Bon,,312 m²,,Hyper équipée,,4,20 m²,20 m²,15 m²,15 m²,,,2,3,,,,,,,,,,Connecté,Oui,,,204 kWh/m²,D,20121012-0000121852013,43 kg CO₂/m²,Non communiqué,Gaz,Oui,1.100.000 €,Oui,"Avenue de Tervuren 113
+1040 - Etterbeek",,Selon le locataire,1 janvier 2000 - 00:00,,2,,,1,,,105 m²,,,,1918,2,,,,,,,,,,,,,,,,,,,,,,,,,,Non,Non,Oui,,,,,,Non,,,,4393331,,,,,,,,2,,,
+132,Excellent état,12.52 m,525 m²,,Équipée,,5,20 m²,18 m²,16 m²,15 m²,,,3,5,,Oui,,,,,,,,Connecté,Oui,,,309 kWh/m²,F,20210322-0000585192-01-8,60 kg CO₂/m²,Non communiqué,Mazout,,1.985.000 €,Non,"Avenue Delleur, 8
+1170 - Watermael-Boitsfort",030/27362,Après la signature de l’acte,,,2,,,,Oui,,673 m²,,,3.033 €,1930,2,,,,,,,,,,,,,,Oui,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+133,Excellent état,10 m,50 m²,Oui,8 m²,6,25 m²,26 m²,14 m²,14 m²,12 m²,5,,1,Oui,,,,,,,,,,Non,15 m²,,Oui,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,Zone non inondable,Oui,"Avenue Baron Albert d'Huart 130
+1950 - Kraainem",4455051,,Après la signature de l’acte,1 septembre 2021 - 00:00,,2,420 m²,,6,Oui,,Connecté,,,,1915,2,Hyper équipée,,,,,,,,,,1.850.000 €,,,,,,,180 m²,,,,,,,,Non,Non,,,,,,,Non communiqué,,,,,,,,,,,,2,,,
+134,Excellent état,10 m,50 m²,Oui,8 m²,6,25 m²,26 m²,14 m²,14 m²,12 m²,5,,1,Oui,,,,,,,,,,Non,15 m²,,Oui,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,Zone non inondable,Oui,"Avenue Baron Albert d'Huart 130
+1950 - Kraainem",4360686,,Après la signature de l’acte,1 septembre 2021 - 00:00,,2,420 m²,,6,Oui,,Connecté,,,,1915,2,Hyper équipée,,,,,,,,,,1.850.000 €,,,,,,,180 m²,,,,,,,,Non,Non,,,,,,,Non communiqué,,,,,,,,,,,,2,,,
+135,À rénover,5.2 m,290 m²,40 m²,Pas équipée,9 m²,5,10 m²,14 m²,15 m²,16 m²,23 m²,,1,1,,,,,,,,,,Connecté,Oui,75 m²,10 m²,285 kWh/m²,F,Non communiqué,57 kg CO₂/m²,Non communiqué,Gaz,Oui,599.000 €,Non,"Boulevard du Souverain 105
+1160 - Auderghem",4426817,Après la signature de l’acte,,,,,,,Oui,Non,175 m²,,,,,2,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+136,À rénover,,350 m²,,,,6,,,,,,,1,,,,,,,,,,,Non connecté,Non,,20 m²,Non communiqué,Non communiqué,201610190000358944018,84 kg CO₂/m²,Non communiqué,Gaz,Oui,999.000 €,Non,"Rue Archimède 17
+1000 - Bruxelles ville",,,,,,,,,,Non,230 m²,,,,1918,2,,Non,,Non,Non,Non,Non,Non,Non,Non,Zone non inondable,Autre type de zone,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+137,,8.1 m,50 m²,Oui,12 m²,5,25 m²,25 m²,15 m²,11 m²,9 m²,3,,1,Oui,,,,,,,,,,Non,100 m²,12 m²,Non,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,Zone non inondable,1.765 €,"Avenue Baron Albert d'Huart 130
+1950 - Kraainem",4506524,,À définir,1 juin 2022 - 00:00,,,320 m²,,3,Non,210 m²,Connecté,,,Non,1906,2,Américaine hyper-équipée,,,,,,,,,,1.090.000 €,,,,,,,,,,,,,,,Non,Oui,,Non,,,,,Non communiqué,,,,,,,,,,,,,,,
+138,Bon,6 m,320 m²,38 m²,Équipée,6 m²,5,26 m²,17 m²,16 m²,12 m²,12 m²,,2,3,9 m²,Oui,,,,,,,6 m,Connecté,Oui,,20 m²,272 kWh/m²,E,E,Non communiqué,Non communiqué,Gaz,Oui,1.155.000 €,Non,"Av. du Prince de Ligne, 18
+1180 - Uccle",4516641,Après la signature de l’acte,,,1,,,2,Oui,Non,180 m²,,,884 €,1874,2,Oui,,,,,Oui,,,,,Zone non inondable,,,,380 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16 m²
+139,Excellent état,,409 m²,,Équipée,7 m²,,20 m²,14 m²,12 m²,12 m²,,,,,,,,,,,,,,,Oui,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,1.990.000 €,Oui,"Chaussée de Louvain 521
+1380 - Ohain",,,,,,,,,,Non,190 m²,Nord-est,Non,3.477 €,1912,2,Oui,Oui,,,,,,,,,,"Zone d'habitat d'intérêt culturel, historique et/ou esthétique",,Oui,,,,,,,,,,,,,,Oui,,,,,,,,Oui,,1037228 - 1037225,,,,,,,,,,4475,
+140,,8 m,,,,,,,,,,,Non,,,,Non,,,Non,Non,Non,Non,75 m,,Oui,95 m²,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Gaz,Non,1.240.000 €,Oui,,,,,,,,Oui,,Oui,Non,185 m²,,,2.773 €,1951,2,Oui,Non,,Non,Non,Non,Non,,,,,,Oui,,,,Non,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,Toutes sortes,,,,29568,
+141,,,400 m²,,Équipée,,11,,,,,,,9,9,,Oui,,,,,,,,Connecté,Oui,,,552 kWh/m²,G,20200724013648,Non communiqué,Non communiqué,Gaz,Oui,1.249.000 €,Oui,"Rue de Herve 659
+4030 - Grivegnée",4529066,,,Bruxelles,,,,9,,Non,190 m²,,,,,2,,,,,,,,,,,,,Oui,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
+142,À rénover,,Oui,,3,,14 m²,18 m²,8 m²,2,,,,2,Non,,,,,,,,,,,,20 m²,439 kWh/m²,G,20210624-0000591399-01-0,Non communiqué,Non communiqué,Gaz,459.000 €,,Oui,"Chaussée d'Alsemberg 4
+1420 - Braine-l'Alleud",4492668,,Après la signature de l’acte,,,,120 m²,,2,,145 m²,50 m²,,,,,2,,,,,,,,,,,,,Équipée,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+143,Bon,,280 m²,40 m²,Équipée,,7,,,,,,,2,3,7 m²,Oui,,,,,,,,,Oui,20 m²,,177 kWh/m²,D,20210713-0000592572-01-2,36 kg CO₂/m²,Non communiqué,Gaz,Oui,845.000 €,Non,"Chaussée de Tervuren 149/3
+1410 - Waterloo",876 - 1624,Après la signature de l’acte,,,,,,,Oui,Non,105 m²,,Non,,1910,2,,,177,,,,,,,,,,,,,1,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,
+144,Bon,6 m,420 m²,100 m²,,,5,28 m²,27 m²,16 m²,16 m²,16 m²,Non,4,10,,Non,70 m²,,Non,Non,Non,Non,,Connecté,Non,,16 m²,305 kWh/m²,F,Non communiqué,64 kg CO₂/m²,Non communiqué,Gaz,Oui,1.850.000 €,Non,"Avenue Louise 404a
+1050 - Ixelles",6012122,À définir,,,1,,,1,,Non,,,Non,,1910,2,,Oui,,Non,Non,Non,Non,Non,Non,Non,,,,,600 m²,,,Oui,,,,,,,Non,Oui,Oui,Oui,Non,,Non,,,Non,,,Ouest,,,,Non,,,,,,,,
+145,Bon,7.09 m,500 m²,44 m²,,,6,25 m²,20 m²,15 m²,14 m²,11 m²,,5,7,,,,,,,,,,,,40 m²,,527 kWh/m²,G,Non communiqué,Non communiqué,Non communiqué,Gaz,Oui,875.000 €,Oui,"105 avenue Seghers
+1081 - Bruxelles",360-000000,Immédiatement,,,,,,,Oui,Non,220 m²,,Non,,,2,,,,Non,Non,Non,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,
+146,,12 m,485 m²,70 m²,Hyper équipée,30 m²,7,20 m²,19 m²,18 m²,17 m²,14 m²,,3,4,,,,,,,,,,,Non,365 m²,,603 kWh/m²,G,Non communiqué,155 kg CO₂/m²,Non communiqué,,,1.980.000 €,Non,"Chaussée de Waterloo 1382
+1180 - Uccle",4147485,Après la signature de l’acte,,,1,,,,Oui,Non,565 m²,,,,1890,3,,,,,,,,,,,Zone non inondable,,,Oui,652 m²,,,,,,,,,,,Non,Non,Oui,,,,,,Non,,,,,,,,,,,,1,,,
+147,,,270 m²,40 m²,Équipée,,6,27 m²,16 m²,15 m²,14 m²,,,,3,,,,,,,,,,,,80 m²,10 m²,474 kWh/m²,G,20201214-0000579752-01-7,95 kg CO₂/m²,Non communiqué,Gaz,Non,679.000 €,Non,"Avenue de Busleyden 21
+1020 - Laeken",JUST - V21/129,,,,,,,2,,Non,200 m²,Sud,Non,1.888 €,1914,2,,,,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+148,Bon,,30 m²,Hyper équipée,9 m²,6,23 m²,23 m²,15 m²,14 m²,14 m²,2,,1,,,,Non,,,,,,,,338 kWh/m²,,,F,20200910-0000574578-01-5,67 kg CO₂/m²,Non communiqué,Non,725.000 €,,2.800 €,"Venelle de la réserve 2
+1300 - Wavre",4367 - 2643,,Après la signature de l’acte,,,,250 m²,,63 m²,,80 m²,Oui,,Gaz,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+149,Bon,8 m,366 m²,,,,5,,,,,,,2,,,Oui,,,,,,,,Connecté,Oui,120 m²,24 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Mazout,,1.350.000 €,Non,"avenue Montjoie 156
+1180 - Uccle",,À définir,,,1,,,1,Oui,,265 m²,,,3.145 €,1921,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,215/1616,,,,,,,,,,,
+150,Excellent état,,Oui,,3,,20 m²,20 m²,13 m²,1,,,,1,Oui,,,,,,,,,,Non,35 m²,,Non,F,Non communiqué,67 kg CO₂/m²,Non communiqué,Gaz,595.000 €,,1 €,"Avenue Baron Albert d'Huart 130
+1950 - Kraainem",4512661,,Après la signature de l’acte,1 août 2021 - 00:00,,,150 m²,,2,Non,Connecté,,,,Non,,2,,,,,,,,,,,,,Hyper équipée,,,,,,,,,,,,,Non,Oui,,Non,,,,,336 kWh/m²,,,,,,,,,,,,,,,
+151,À rénover,7 m,,,,,,,,,,,,,,,,,,Non,Non,Non,Non,,,Non,,50 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Non,845.000 €,Oui,,,Immédiatement,,,,,Oui,,,,169 m²,,,2.726 €,,2,,,,Non,Non,Non,Non,Oui,,,,,,,,,,,,,,IMMEUBLE DE RAPPORT + PERMIS PROJET POUR INVESTISSEUR / PROMOTEUR BONNE RENTABILITÉ Un permis d’urbanisme auprès de la commune d’Etterbeek a été octroyé en 2020.,,,,,,,,,,,,,,,,,,,,,,Immeuble à appartements,,,,,
+152,,,280 m²,,,,4,,,,,,,3,,,,,,,,,,,,,,,294 kWh/m²,F,20210715-0000592702-01-0,Non communiqué,Non communiqué,Gaz,Oui,745.000 €,Oui,"Rue des Combattants 98
+1310 - La Hulpe",4501045,,,,,,,,Oui,,85 m²,,,2.736 €,1898,3,,,,,,,,,,,,,Oui,Oui,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,
+153,,,280 m²,,,,4,,,,,,,3,,,,,,,,,,,,,,,294 kWh/m²,F,20210715-0000592702-01-0,Non communiqué,Non communiqué,Gaz,Oui,745.000 €,Oui,"Rue des Combattants 98
+1310 - La Hulpe",4501043,,,,,,,,Oui,,85 m²,,,2.736 €,1898,3,,,,,,,,,,,,,Oui,Oui,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,
