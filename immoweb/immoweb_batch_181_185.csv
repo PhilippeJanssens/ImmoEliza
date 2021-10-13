@@ -1,0 +1,516 @@
+<<<<<<< HEAD
+,À partir de,État du bâtiment,Largeur de la façade à rue,Nombre de façades,Type d’environnement,Surface habitable,Type de cuisine,Chambres,Surface de la chambre 1,Surface de la chambre 2,Surface de la chambre 3,Salles de bains,Toilettes,Surface de la cave,Meublé,"Eau, gaz & électricité",Parlophone,Consommation d'énergie primaire,Classe énergétique,Numéro du rapport PEB,Emission CO₂,Consommation théorique totale d'énergie primaire,Attestation as-built,Type de chauffage,Double vitrage,Autorisation de lotissement,Droit d'achat prioritaire possible,Type de zone inondable,Affectation urbanistique la plus récente sur la base des dénominations utilisées dans le registre des plans,Prix,Immeuble de rapport,Adresse,Site internet,Surface du salon,Année de construction,Cave,Surface du jardin,Revenu cadastral,Surface du terrain,Terrasse,Procédure pour violation de la réglementation urbanistique,Revenu mensuel actuel,Permis de bâtir obtenu,Référence externe,Parkings intérieurs,Surface de la terrasse,Ascenseur,Interphone vidéo,Niveau E (performance énergétique globale),Surface de la chambre 4,Dressing,Buanderie,Bureau,Espace professionnel,Porte blindée,Terrain à front de rue,Terrain boisé,Terrain arrière,Terrain plat,Largeur du terrain à rue,Raccordement à l'égout,Orientation du jardin,Pompe à chaleur,Panneaux photovoltaïques,Panneaux solaires,Chauffe-eau commun,Salles de douche,Orientation de la terrasse,Concierge,Accessible aux personnes avec un handicap,Accès sécurisé / alarme,Climatisation,Jacuzzi,Sauna,Piscine,Internet,Surface constructible totale au sol,Grenier,Type de construction,Surface de la cuisine,Surface de la chambre 5,Surface de bureau,Surface de l'espace professionnel,Quartier ou lieu-dit,Visite virtuelle,Salle à manger,Nom de l'agent,Lieu de la vente,Séance unique,Modalités de visite,Salon,Jardin,Mise à prix,Combien de feux ouverts ?,Parkings extérieurs,Obligation de construire,Attestation de conformité des citernes à mazout,Surface du grenier,Isolé,Pourcentage loué
+0,Après la signature de l’acte,Fraîchement rénové,5 m,2,Urbain,141 m²,Équipée,3,16 m²,10 m²,8 m²,4,4,24 m²,Non,Oui,Oui,247 kWh/m²,C,2437212-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",449.000 €,Oui,"Plantin en Moretuslei 135A
+2140 - Borgerhout",8840 - 1712,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Après la signature de l’acte,Fraîchement rénové,5 m,2,Urbain,141 m²,Équipée,4,16 m²,10 m²,8 m²,4,4,24 m²,Non,Oui,Oui,247 kWh/m²,C,2437212-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",449.000 €,Non,"Plantin en Moretuslei 135A
+2140 - Borgerhout",8839 - 1711,13 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,,Fraîchement rénové,,2,,250 m²,Équipée,4,,,,2,2,,Non,,,290 kWh/m²,C,0002451453-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,,,,,498.000 €,Non,"Britselei 42
+2000 - Antwerpen",10139 - 3596241,38 m²,1935,Oui,55 m²,1.110 €,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,,,,2,,227 m²,Semi-équipée,8,,,,8,8,,Non,Oui,Oui,124 kWh/m²,B,20160525-0001864553-1,Non communiqué,Non communiqué,Non,Gaz,Oui,,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",600.000 €,Oui,"Museumstraat 50
+2000 - Antwerpen",833789 - 93363818,,2016,Oui,16 m²,924 €,98 m²,Oui,Non,3470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,,Bon,,,,150 m²,Semi-équipée,4,,,,4,4,,Non,,,606 kWh/m²,F,0001949978-1,Non communiqué,Non communiqué,Non,Électrique,Oui,,,,,395.000 €,Oui,"Britselei 42
+2000 - Antwerpen",10125 - 3596232,,,Oui,,671 €,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,,Fraîchement rénové,,2,,190 m²,Semi-équipée,3,,,,3,3,,Non,,,101 kWh/m²,A,0002318686,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",369.000 €,Oui,"Britselei 42
+2000 - Antwerpen",9761 - 3595851,,,Oui,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,Immédiatement,Bon,,2,,205 m²,Semi-équipée,5,,,,1,2,,Non,,,228 kWh/m²,C,20201207-0002347968-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,,,Zone non inondable,"Zone d'habitat d'intérêt culturel, historique et/ou esthétique",425.000 €,Non,"Museumstraat 50
+2000 - Antwerpen",834467 - 93364019,,,Oui,20 m²,,83 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,,,,,,1935,2,250 m²,,,,38 m²,Équipée,,2,,,Oui,Non,55 m²,290 kWh/m²,C,0002451453-RES-1,Non communiqué,Non communiqué,,,,,Non,Gaz,Oui,498.000 €,Fraîchement rénové,,4,2,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Après la signature de l’acte,,,2,,88 m²,Équipée,3,,,,1,1,,Non,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,Gaz,Oui,,,,,321.580 €,Non,"Britselei 42
+2000 - Antwerpen",9689 - 3594616,29 m²,2017,Oui,,,,,,,,,1,42 m²,Oui,Oui,70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,,,,,Après la signature de l’acte,À rénover,4 m,2,Oui,Oui,,15 m²,Non,,Non,Non,Non,4 m,Connecté,,,Non communiqué,,Non communiqué,Non communiqué,,Non,Non,,,,,12 m²,90 m²,Non,1,,Non communiqué,,,,,,,,,Urbain,160 m²,4,12 m²,15 m²,Non,2,Oui,Oui,Oui,Oui,Non,Oui,Oui,32 m²,Nord,Non communiqué,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,,,,,,,,,,,,,,,,,,,,Immédiatement,1981,,À rénover,,Urbain,,64 m²,,15 m²,2,12 m²,15 m²,,,,,8 m²,,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,À rénover,,2,Rue commerçante,,,,,,,,3,,Non,,,236 kWh/m²,C,2441232,Non communiqué,Non communiqué,Non,Gaz,Oui,,,,,299.000 €,Oui,"Pyckestraat 72
+2018 - Antwerpen",,,,Oui,,,69 m²,,,,,639 - 1707,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,,,,,,,,,,,,Après la signature de l’acte,5 m,,150 m²,,,1,Oui,Non,67 m²,5 m,705 kWh/m²,F,,,Non communiqué,Non communiqué,,Non,Oui,Non,Zone non inondable,,,2,,Gaz,2,,Non communiqué,,,190.000 €,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,,,,,,,,,,,,,,,,,,,,Après la signature de l’acte,2,80,47 m²,Équipée,1,,1,9 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,Non,,1,Non,,,,,28 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,,,,,,,,,,,,,,,,,,,,,,,,Après la signature de l’acte,Cityfy!,,80,26 m²,Équipée,1,1,1,Non,,,,,,,,62 m²,,2,6 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+17,,,,,,,,,,,,,,,Immédiatement,7 m²,Oui,Non,93 m²,Oui,Non,Non,,Non,Non,,,Non,Non,Non,Non,,,,,,,Non,5 m,,,,,,,4,17 m²,Non,,,,,,,1,2,Urbain,123 m²,28 m²,,Hyper équipée,,Connecté,Oui,1 m²,Nord,,20 m²,19 m²,15 m²,1,1,Non,40 m²,35 m²,Non,Non,,,,,,,,,,,,,,,,,,,,,,,
+18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+20,,,,,,,,,,,,,Après la signature de l’acte,,,,,2,1,"Zone d'habitat (résidentiel, urbain ou rural)",160 m²,25 m²,,Américaine équipée,8 m²,14 m²,8 m²,3,Oui,7 m²,C,20200702-0002289139-RES-1,Non communiqué,,,,,255 kWh/m²,,,2,,3,Non communiqué,,4.75 m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14 m²,À rafraîchir,,,,,,,,,,,,,,,,,,,,,,
+21,,,,,,,,,,,,,,,,Antwerpen centrum 2060,Urbain,Équipée,6,6,6,Oui,Oui,Non,140 m²,Connecté,Oui,Non,Oui,Non,Non communiqué,Non communiqué,Non communiqué,,,,,,,,Non,,17 m,Non communiqué,,,Bon,,,,,,,,,,,,,,Après la signature de l’acte,,,,,,,,,3,,,,,367 m²,,,,,,,,,,,,,,,,,,,,,,,,,
+22,,,,,,,,,,,,,,,,Hyper équipée,12 m²,Non,Non,175 m²,Oui,Non,,Non,Non,,,Non,,Oui,Non,,,,,,,,,,,,,,,4,12 m²,Non,,,,,,,1,,Immédiatement,Excellent état,1,,Urbain,,Non,Connecté,Oui,4 m²,,,16 m²,16 m²,Non,2,Non,Oui,Oui,Oui,,,Non,,,,,,,,,,,,,,,,,,,,,
+23,,,,,,,2,227 m²,32 m²,Équipée,6 m²,18 m²,13 m²,3,,10 m²,,Oui,9 m²,Non,Oui,436 kWh/m²,,Non communiqué,Non communiqué,,Non communiqué,Gaz,Oui,Oui,Non,Zone non inondable,Zone d'habitat mixte (habitat & activité économique),,,,,,25 m²,,1973487,,,489.500 €,,55 m²,5 m,Connecté,E,5,,,12 m²,,,,,,,Oui,25 m²,,,,,,,,,,,,,,,,,,,Urbain,18 m²,13 m²,3,,,,,,,,,,,,,,,,,
+24,Après la signature de l’acte,À rénover,,2,,46 m²,,26 m²,1,,,1,48 m²,,,Oui,,E,Non communiqué,Non communiqué,Non communiqué,Gaz,,Oui,Oui,Oui,Non,,190.000 €,Non,"Frederik Van Eedenplein 8
+2000 - Antwerpen",4531250,,1,,,,,Connecté,Oui,"Zone d'habitat (résidentiel, urbain ou rural)",,Non,,1,,,,,,,,,,,,,,,,Oui,,,,,,1,,,463 kWh/m²,,,,,,,,,,,,,,2060 Noord-Station-St Janspl,144 m²,,,,,,,,,,,,,,,
+25,,,,,,,,,,,,,,,,,,,,,,,,,,,182 m²,Oui,Équipée,10 m²,20 m²,14 m²,,,,,,6,,,,,,14 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,,,,,,,,,,,,,,,,,,,À rénover,2,161 m²,24 m²,,3,74 m²,Non connecté,Oui,F,20181203-0002107596-1,Non communiqué,690,Mazout,,,,,,Non communiqué,,,690 kWh/m²,,,Non,,,,,18 m²,,,,,,,,,,,,,,1,21 m²,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,,Bon,5.3 m,,,173 m²,,4,,,,1,,40 m²,Non,Oui,,495 kWh/m²,E,2375243,Non communiqué,Non communiqué,,,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",278.000 €,Non,"Vanderpoortenlaan, 15
+2500 - Lier",,30 m²,,,15 m²,689 €,67 m²,,Non,,Oui,TK/0540,,,,,,,,,Non,,Non,,,,,5.3 m,Connecté,Sud-est,,,,,,,,,,,,,,,,,,12 m²,,,,,,,,,,,,,,,,,,,,
+28,,,,,,,,,,,,,,,,,,,,,,À définir,,,,,,,,Hyper équipée,12,Non,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+29,,,,,,,,,,,,,,,,6 m,,2,"Zone d'habitat (résidentiel, urbain ou rural)",185 m²,36 m²,Pas équipée,,15 m²,,,,16 m²,13 m²,16 m²,,24 m²,2,,,,,13 m²,,,,,6,,,,,,,,,,,,,,,,,Après la signature de l’acte,Park Spoor Noord,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+31,,,,,,,,,À définir,2,268 m²,25 m²,17 m²,,,2,,Oui,Oui,154 m²,Oui,60 m²,,348 kWh/m²,,,,D,,Non communiqué,Non communiqué,Mazout,Zone non inondable,,,17 m²,3,Non communiqué,16 m²,,,,,385.000 €,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,17 m²,,,5,,,,,,,,,,,,,,,,,,,
+32,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+34,,,,Après la signature de l’acte,,100 m²,,2,,,,2,,,Non,Oui,,610 kWh/m²,F,Non communiqué,Non communiqué,Non communiqué,,Gaz,Oui,Non,Oui,,"Zone d'habitat (résidentiel, urbain ou rural)",239.000 €,Non,"Goedehoopstraat 21
+2000 - Anvers",4519806,,,Oui,,327 €,42 m²,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,
+35,,,,,,,Regio Centrum Antwerpen,Urbain,187 m²,28 m²,Oui,12 m²,,,13 m²,19 m²,1,Oui,Non,90 m²,Oui,Oui,,Oui,490 kWh/m²,E,1896361,Non communiqué,Gaz,Oui,Non,Non,,,,4,,,19 m²,13 m²,Non communiqué,,,Non,,,,,,Américaine semi-équipée,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,Après la signature de l’acte,,,,,,,,,,,,,,
+36,,,,,,,,,,,,,,,,,,,,,Après la signature de l’acte,Bon,,,2,,,,,376 m²,4,4,4,,,,,,,,,,,Connecté,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+38,,,,,,,,,,,,,,,,,,Excellent état,Urbain,170 m²,Équipée,3,,1,60 m²,Non communiqué,20210915-0002464596-RES-1,,,Non communiqué,Gaz,Non,,,,,,Non communiqué,À définir,,,,Non communiqué,,,,,,,,,,,,,,,,,,,,30 m²,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,
+39,,,,,,,,,,,,,,,,,,20 m,4,1,4,400 m²,,1,Oui,,,,,Non,1200 m²,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,4,Non,1,2,,,,,,,,Immédiatement,1960,Fraîchement rénové,,,Non,,,,,,,,,,,,,,,,,,,,,
+40,,,,,,,5 m,130 m²,15 m²,Oui,Équipée,18 m²,11 m²,1,1,Non,,Oui,1 m²,Nord-est,1 m²,Nord-est,,239 kWh/m²,Gaz,,,,,Non,Non,,,Après la signature de l’acte,,,Non,,Non,,,,,,,5 m,,,,16 m²,4,106 m²,9 m²,Non,Oui,Non,8 m²,Non,Non,110 m²,Oui,Non,C,20210831-0002450496-RES-2,Non communiqué,Non communiqué,,Connecté,,,,,,,,,,,Non,2,,,,,,Fraîchement rénové,,,,,,,,,,,,,,
+41,,,,,,,Bon,2,,,,Équipée,,,1,,,Oui,Oui,421 kWh/m²,E,20180521-0002060161-1,Non communiqué,Non communiqué,Non,,,Gaz,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",715.000 €,Non,,,2,,,Oui,Non,,,,"Valkebeekstraat 24
+1861 - Wolvertem",,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,763 m²,,,,,,,,,,,,,,,,,,,,,,,,,
+42,,,,,,,,,,,,,,,,,,,,,,Après la signature de l’acte,,À rafraîchir,7 m,,,,,2,25 m²,Équipée,,,,,,147 m²,,,,,,25 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,,,,,,,,,,,,,,,,,,Fraîchement rénové,20 m,4,1,6,,"Zone d'habitat (résidentiel, urbain ou rural)",4,,,,,2,Oui,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,1200 m²,Oui,Oui,1,,,,,,,,,Après la signature de l’acte,1960,,,1,,,,,,,,,,,,,,,,,,,,,
+44,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,"nl :
+elke woe. van 14u-16u - elke zat. van 14u-16u - eerste bezoek 14/8 - laatste bezoek 25/9",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Après la signature de l’acte,,,,,,,,,,,,,
+45,1956,3,,1,,,,1,,,,Oui,Oui,,,,,20200610-0002279734-RES-1,Non communiqué,Non communiqué,Zone non inondable,190.000 €,,,,,,730 €,,,Ann-Sophie ICKROTH,,,,À rénover,781 m²,,"Amerikalei, 163
+2000 - ANTWERPEN",Sud-ouest,,,,,,Oui,,,,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,Oui,,,,,,,4,,,Non,"nl :
+elke woensdag van 16u-18u; elke zaterdag van 11u-13u. Voor een 1e maal op 8 september. De ondergetekende notaris houdt zich het recht voor bijkomende bezoeken in te lassen en/of de bezoekuren te wijzigen in het belang van de verkoop.",Après la signature de l’acte,1,891 kWh/m²,Non,,,,,,,
+46,,,,,,,,,,,,,,,,,,,,,,Non,,,,Après la signature de l’acte,1986,3,,,2,1,,,,,,195 m²,,,,,"nl :
+elke woe. en zat. van 14u-16u, vanaf woe. 13/10 tem zat. 30/10",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,480 m²,,,,,,1,,,,,,,
+47,,,,,1966,À rafraîchir,2,Urbain,,,,178 m²,,,Semi-équipée,,,Non,171 m²,11 m²,466 kWh/m²,E,,1844610,,Non communiqué,Gaz,Oui,Non,Non,"Zone d'habitat (résidentiel, urbain ou rural)",269.000 €,733 €,,,,,Zone non inondable,6,,Oui,,Non communiqué,Non,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+48,,,,,Après la signature de l’acte,1974,,Excellent état,6 m,1,"Zone d'habitat (résidentiel, urbain ou rural)",3,16 m²,,Non,180 m²,8 m²,Non,Non,Non,Non,Non,,359 kWh/m²,Gaz,,,,,Non,Non,,,,,,Non,Non,2,,,,,,,Non,30 m²,Non,,,150 m²,,12 m²,8 m²,Non,Non,Non,Non,Non,,,Non,D,20160072300018818421,12056 kg CO₂/m²,Non communiqué,,Non,Oui,Sud,Sud,Non,Oui,Non,Non,Non,,,Non,,,,,,,,,,,,,,,,,,,,,
+49,,1995,Bon,12 m,3,"Zone d'habitat (résidentiel, urbain ou rural)",1,17 m²,5,25 m²,18 m²,Non,1,,Non,Connecté,,100 m²,219 kWh/m²,C,20120204-0001030939-00000002-6,Non communiqué,,Non communiqué,Non,,Toutes sortes,Non,,Zone non inondable,1.105 €,,,,Après la signature de l’acte,,Oui,480.000 €,Non,,Non,,,,,,,,,16 m²,12 m²,2,Oui,Non,Non,356 m²,Non,Non,Non,,Non,,Gaz,Non,Non,Non,,,,,,,,,,,,,Oui,Équipée,14 m²,,,,,186 m²,,,,,,,,Oui,,,,,,
+50,À définir,Bon,,,,234 m²,Équipée,4,,,,,1,,Non,Oui,,203 kWh/m²,C,20210707-0002438958-RES-2,Non communiqué,Non communiqué,,Gaz,Oui,,,,,299.000 €,Non,"Blancefloerlaan 50
+2050 - Antwerpen",,,,Oui,,245 €,113 m²,,,,,,,,,,,,Non,,,,,,,,,,Connecté,Sud,Non,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,Oui,,,,,,,,
+51,Immédiatement,À rafraîchir,6 m,2,,128 m²,Semi-équipée,3,15 m²,15 m²,5 m²,1,1,11 m²,Non,Oui,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,Oui,,,Zone non inondable,,265.000 €,Non,,,15 m²,1950,,155 m²,,264 m²,,Non,,Oui,,,22 m²,,,412,,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,,,Est,Non,Non,Non,Non,,Est,,,,,,,,,,,Toutes sortes,11 m²,,,,,,Oui,,,,,,,,,1,,,,,
+52,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+53,,,,,,,,,,,,,,,,,Aménagé,1,2,Non,Non,Non,,Non,Non,,Connecté,80 m²,Non,Non,Non,,,,,,,Non,,,Oui,,,,,Après la signature de l’acte,À rafraîchir,16 m²,,,,,,,10 m²,,,,,,,,200 m²,Oui,Non,Non,,,1962,3,180 m²,4,18 m²,9 m²,26 m²,Non,7 m,,,,,,,,,,,,,,,,,,,,,,,
+54,,,,,,,,,,,,,,,,,,,,,,,,,,1,178 m²,Oui,Équipée,2,1,2,Oui,,,,,Oui,,,Oui,,1996,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Excellent état,,,,
+55,,,,,,,,,,,,,,,,,,,,Après la signature de l’acte,1956,Bon,,,,,2,Isolé,,145 m²,Hyper équipée,4,14 m²,,,,,,,,,,,7 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,,,,,,,,,,,,,,,3,Non,Non,Non,Connecté,Oui,1 m²,Non,,Non,Non,,,Non,Non,Oui,Non communiqué,,,,,Après la signature de l’acte,1,,2,,,,,,,,Oui,Non,,,,,,,Oui,"Zone d'habitat (résidentiel, urbain ou rural)",Oui,Oui,Équipée,,3,,Non,Non,Non,Non,,,2,Non,Oui,Non,779 m²,Non,Non,Non,,1963,Non,,,,,,,,,,,,,,,,,,Non,,,
+57,,,,,,,,,,,,,,,,,,,,,,Après la signature de l’acte,Unieke lichtrijke woning met tuin.,,1988,,Bon,4,4,3,48 m²,Équipée,30 m²,,,,,175 m²,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,,,,,,,,,,,,,,,Après la signature de l’acte,150 m²,,Oui,Oui,Non,Oui,128 m²,,Non connecté,Non,385 kWh/m²,D,Non communiqué,Non communiqué,385,Non,Non,Non,,,,Équipée,Électrique,Bon,,20120710-0001165035-00000011-4,,Oui,Non,,,12 m²,,6 m,,,,,,8 m²,,,,,6 m,2,,Oui,57 m²,Non,Non,,,,2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,,,,,,,,,,,,,,,,,,,Après la signature de l’acte,1918,Bon,4 m,,121 m²,10 m²,Non,Non,4 m,Non connecté,Oui,467 kWh/m²,E,2451758-RES-1,,,,,40 m²,,,108 m²,,,Non communiqué,,,,,2,,,,,,,,,,,,,,Hyper équipée,12 m²,3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,Immédiatement,À rafraîchir,6 m,2,,182 m²,Équipée,2,,,,1,,,Non,Oui,,480 kWh/m²,E,20181218-0002117451-1,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,Autre type de zone,265.000 €,Non,"Gentse Baan 45A
+9100 - Sint-Niklaas",2021/329,,1936,,,1.584 €,90 m²,,Non,,,,,15 m²,,,480,,,,,,Non,,,,,6 m,Non connecté,,Non,Non,Non,Non,,,,,,,,,,,,,,13 m²,,,,,,Oui,,,,,,,,,,,,,,
+61,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,,,,,,Après la signature de l’acte,1956,2,,,,153 m²,,,Équipée,Non,,Non connecté,Oui,83 m²,16 m²,475 kWh/m²,,Non communiqué,Non,Non,Non,,Oui,Non,Non,Autre type de zone,285.000 €,,,,155 m²,Non,3,,Non,,,659 €,,5 m,,,E,,,,,,22 m²,,,,,2,Non,,Non communiqué,475,"Oui, conforme",Gaz,,,,,,,,,,,,,,5 m,,,,,,,,,,,,,,,,,20191004-0002202758-RES-2,,,
+63,,,,,,,,,,,,,,,,,,,Après la signature de l’acte,Beveren,Fraîchement rénové,5.5 m,,3,1,105 m²,52 m²,2,20 m²,12 m²,2,9 m²,22 m²,,,,,1,,,Hyper équipée,,2,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Isolé,,,,,,,,,,,,,,,,,,,,,,,
+64,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,,,,,,,,,,,,,,,,2,,13 m²,2,1,Non,Non,,4 m,E,Non communiqué,Non communiqué,Électrique,Non,Non,Non,Non,Oui,,,,100 m²,Non,1918,,444,,20120627-0001154935-00000015-4,Non,,,,,222 m²,,,,,,Après la signature de l’acte,,,,,Bon,4 m,,Connecté,Oui,148 m²,444 kWh/m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+67,Après la signature de l’acte,À rafraîchir,6 m,3,"Zone d'habitat (résidentiel, urbain ou rural)",172 m²,Équipée,3,18 m²,9 m²,22 m²,1,2,,,Oui,,156 kWh/m²,B,20210623-0002432895-RES-1,Non communiqué,Non communiqué,,Gaz,,,,,,349.000 €,,"Blauwesteenstraat 67
+2550 - Kontich",Peter Stroobant,19 m²,1986,,150 m²,,199 m²,,,,,,2,15 m²,,,,,Oui,Oui,,,,,,,,,Connecté,Nord,,,,,2,,,,,,,,Oui,,,,,9 m²,,,,,,Oui,,,,,,,,,,,,22 m²,,
+68,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+69,,,,,,,,,,,,,,,,,,1976,Bon,6 m,3,1,,,Urbain,11 m²,3,13 m²,6 m²,1,Non,Non,,,,,,2,,,15 m²,,154 m²,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Équipée,,42 m²,,,,,,,,,,,,,,,,,,,,,
+70,,,,,,,,,,,,,,,,,,,,,,1938,,8 m,1,Non,261 m²,Oui,504 kWh/m²,F,Non communiqué,Non communiqué,504,,,,,20200727-0002296813-RES-1,,,Non connecté,,,Gaz,,,,,À rafraîchir,,,,,,,,,,,,,,2,82 m²,16 m²,2,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,
+71,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,,,,,,,,Après la signature de l’acte,1915,Bon,2,289 m²,,,,12 m²,,36 m²,1,Oui,Oui,Oui,,450 m²,Oui,F,2396437,Non communiqué,Gaz,Oui,Non,Non,Non,,,32 m²,,Oui,15 m²,,Non communiqué,,527 kWh/m²,Zone non inondable,,,,,,1,,,5,,,,,,,,,,,,,,,,,,,,,,,,,16 m²,,,Urbain,,,,,,,,,,,,,,,,,,,
+73,,,,,,,1933,2,,,,1,1,,,Oui,,Américaine semi-équipée,4,1,1,209 m²,,,,893 kWh/m²,F,Non communiqué,,Non communiqué,Oui,Non,Non,,,,,,145 m²,,2422784,,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74,,,,,,,,,,,,,,,,,,,,,,,,,,4 m,95 m²,Équipée,2,Non,1,1,,,,,,,,,Oui,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1945,,,,
+75,,,,,,,,,,,,,,,,,5.8 m,Équipée,2,Non,1,2,,Non,Oui,Non,Non,Connecté,Oui,Oui,Nord-ouest,Oui,,,,,,,,,5.8 m,,163 m²,Non,,,,Oui,,,,,,,,,,,,,,,,,,,,,,1971,175 m²,,,,Oui,,Non,,,,,,,,,,,,,,,,,,,Non,,,,
+76,Après la signature de l’acte,,,2,"Zone d'habitat (résidentiel, urbain ou rural)",,,3,20 m²,15 m²,6 m²,1,2,,Non,Oui,,425 kWh/m²,E,20210705-002437903-RES-1,Non communiqué,Non communiqué,Non,Gaz,,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",265.000 €,,"Melselestraat, 25
+2070 - ZWIJNDRECHT",,48 m²,1931,Oui,,404 €,127 m²,,Non,,Oui,,1,12 m²,,,,,,,,,,,,,,,Connecté,,,,,,1,,,,,,,,,,,Oui,,12 m²,,,,,,Oui,,,,,,,,,,,,,,
+77,,,,,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Non,Non,Zone non inondable,,,Non,"Parklaan 25
+9100 - Sint-Niklaas",residentie Swyndrech,,,,,,,,Non,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Toutes sortes,,,,,,,,,,,,,,,,,Non,,,,
+78,,,,,,,,,,,,,,,,Non,,Non,Non,Connecté,Non,148 kWh/m²,,,B,Non communiqué,Non,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,Non,162 m²,,Oui,,20210417-0002402773-RES-1,345.000 €,,,,,,,1976,,Excellent état,,,3,Non,Non,206 m²,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non communiqué,,,,
+79,,,,,,6 m,Oui,Oui,,,,2,Non,,,6 m,,Oui,Sud-ouest,293 kWh/m²,C,20210617-0002430370-RES-1,,Non communiqué,Non communiqué,,,,,108 m²,Non,425.000 €,,,,2,,,Non,,,,,Non,1957,,,,,,Équipée,,1,,,Oui,269 m²,Non,Non,Non,Non,Non,,,,,,,,,,,,,,,Gaz,,,,,,,,,250 m²,,,,,1,Connecté,,,,Oui,,,,
+80,,,woonerf Swyndrecht,,,2021,,Oui,,,,3,Non,,,Non,,Sud-est,Oui,Non communiqué,Non communiqué,Non communiqué,,Non communiqué,30,66 m²,Non,Oui,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",335.900 €,Non,,,,,,1,Oui,Non,,Électrique,"Parklaan 25
+9100 - Sint-Niklaas",,,,,Non communiqué,,Oui,,1,,,Non,190 m²,Non,Non,,Non,Non,,,,,,,,,,,,,,,Oui,,,,,,,,,134 m²,,,,,6 m,Connecté,,,,Oui,,,,
+81,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+82,,,,,,208 m²,Semi-équipée,3,,,,1,2,,,Oui,,439 kWh/m²,E,20210728-0002445785-RES-1,Non communiqué,Non communiqué,,,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",298.000 €,Non,"Dorp West 13 b1
+2070 - Zwijndrecht",,,1954,Oui,,,190 m²,,,,Oui,Lindenstraat145,,,,,,,Non,,Non,,,Non,Non,Non,Non,,Connecté,Ouest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,Oui,,,,Non,,,,
+83,,Excellent état,,,,278 m²,,4,,,,,,,,Non,,454 kWh/m²,E,20201106-0002336862-RES-1,Non communiqué,Non communiqué,,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",525.000 €,Non,"Lokerse Baan 22
+9111 - Belsele",,,,,,1.276 €,175 m²,,Non,,Oui,db708,,,,,,,Non,,Non,,,Non,Non,Non,Non,,Connecté,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,
+84,,,,,,1966,,À rafraîchir,,,,123 m²,,,,Non,,Non,Oui,Sud,750 kWh/m²,F,,20210920-0002440818-RES-3,Non communiqué,,Oui,Oui,Non,Non,"Zone d'habitat (résidentiel, urbain ou rural)",335.000 €,808 €,,,Non,,Zone non inondable,1,,,,Non communiqué,Non,,,,,,,1,,3,,,Non,Oui,473 m²,Non,,Non,Non connecté,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,Électrique,,,,
+85,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,,,,,,,,,,,,,,,,,,Handelshuis met te renoveren appartement,1950,277 m²,3,Non,,,1,Non,203 m²,,Non,Non,Non,Non connecté,,,,,,,,,Non,,2,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,
+87,,,,,,,,,,,,,,,,Non,,1,Non,302 m²,Non,Non,,Non,Non,359 kWh/m²,D,Non communiqué,Non communiqué,Gaz,Oui,Non,Non,,,,,Oui,,,20200919-000231353-RES-1,,Non connecté,Oui,,,,,,,,,,,,1968,1,163 m²,Oui,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,
+88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,109 m²,Oui,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+89,,,,,,,,,,,,,,,,2,,Non,Non,Non,Non,Non,,,Non,,,500 kWh/m²,E,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,Non connecté,Non,,,,,,,,,,,,,,,,,À rénover,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,
+90,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,À définir,,,,,,,,,,,,,
+91,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+92,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Après la signature de l’acte,594 kWh/m²,F,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20130820-0001426546-00000005-6,,,,,,,,,,,,,
+94,,,,,,,,,,,,,,,,,,,,,,,,,100 m²,3,Non,1,Non,Oui,Non,Non,Non,,,,,118 m²,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,
+95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+96,,Après la signature de l’acte,1976,À rénover,1,2,156 m²,Équipée,7 m²,3,18 m²,9 m²,1,,2,,,Nord-est,10 m²,229 kWh/m²,C,20210930-0002470800-RES-1,Non communiqué,Non,Gaz,Oui,Non,Non,Non,Zone non inondable,279.000 €,927 €,Non,"Zone d'habitat (résidentiel, urbain ou rural)",,,157 m²,"Zone d'habitat (résidentiel, urbain ou rural)",Non,,Non,,Non,"Mortselsesteenweg 161
+2100 - Deurne",5.5 m,105 m²,,,,,10 m²,,1,,,,,,,Non,,5.5 m,Non,,,,Non,,,,,,,,,,,,,40 m²,,,,,,,,,,,,,,,2,Oui,Non communiqué,,,
+97,,,,,,,1954,5 m,2,175 m²,,Oui,1,,17 m²,Non,,Non,35 m,Connecté,Oui,85 m²,,Nord-est,20180814-0002082475-1,,,Non communiqué,,Gaz,Non,,,,,17 m²,175 m²,Oui,1,,,,Non communiqué,,,Non,,,,,22 m²,Semi-équipée,11 m²,2,Non,2,Oui,Non,Non,Oui,Non,Oui,15 m²,Nord-est,374 kWh/m²,D,,Non,,,,,,,,,,,,Bon,,,,,,,,,,,,,,,,,,,,
+98,,,,,,Après la signature de l’acte,À rénover,3,2,"Zone d'habitat (résidentiel, urbain ou rural)",216 m²,9 m²,4,18 m²,17 m²,,,Non,41 m²,Non,240 m²,Oui,Ouest,990 kWh/m²,20210305-0002382476-RES-2,Non communiqué,Non,Gaz,Non,Oui,Non,Non,Non,1935,,,,Non,17 m²,,Non,,,Zone non inondable,,2,,,,29 m²,Semi-équipée,,16 m²,,,,,,,,,2,F,,,,,,,,,,,,,,,,,6 m,,,,,,,,,,,,Non,,,,Non communiqué,90 m²,,,
+99,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+100,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,À définir,Bon,,,,109 m²,Équipée,2,,,,,1,,Non,Oui,,148 kWh/m²,B,Non communiqué,Non communiqué,Non communiqué,"Oui, conforme",Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",249.000 €,Non,"Orteliuskaai, 8
+2000 - Antwerpen",,,,,28 m²,,95 m²,Oui,Non,,Oui,,,,,,,,Non,,,,,,,,,,Connecté,Ouest,Non,,,,,Ouest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,À définir,Bon,,,,28 m²,20 m²,18 m²,9 m²,Non,,,Non,,180 m²,Oui,,C,20210604-0002424640-RES-1,Non communiqué,Non communiqué,Non,,,,,,,339.000 €,Non,"Leopoldstraat 37
+2800 - Mechelen",,,Équipée,,,,,Connecté,,,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,1,,,,,,,,,,Oui,245 kWh/m²,Oui,,,,,,,,,,,,,,,,,3,,,,,160 m²,,,,,,,Ouest,,,,,,,,
+105,,,,,,À définir,Bon,562 m²,,,,,5,,3,600 m²,,Oui,Oui,166 kWh/m²,B,Non communiqué,Non communiqué,,,Non,Oui,,,Non,Non,849.000 €,Non,,,Non,,,Oui,Connecté,Oui,,Non,,,,,,,,Équipée,,,,,,,,,,Non,,Non communiqué,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+106,,Bon,,2,Urbain,114 m²,Équipée,2,,,,1,2,,Non,,,262 kWh/m²,C,20210915-0002464294-RES-1,Non communiqué,Non communiqué,,Gaz,,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",269.900 €,Non,"Turnhoutsebaan 98
+2100 - Deurne",D2100-21038,,1950,,,681 €,94 m²,,Non,,Oui,,,7 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+107,,,,1930,2,1,Urbain,130 m²,,,,Équipée,3,,1,,,114 m²,18 m²,413 kWh/m²,E,20210910-0002462622-RES-1,,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,329.900 €,701 €,Non,,,,Non,"Zone d'habitat (résidentiel, urbain ou rural)",2,,Oui,,Non communiqué,"Turnhoutsebaan 98
+2100 - Deurne",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Excellent état,,,,,
+108,À définir,Bon,5 m,2,Aménagé,200 m²,Équipée,5,10 m²,14 m²,20 m²,1,2,35 m²,Non,Oui,Oui,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,Oui,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",370.000 €,Non,,,25 m²,,,55 m²,743 €,155 m²,,Non,,Oui,,,,Non,Oui,,20 m²,Non,,Non,Non,Non,Non,Non,Non,Non,,Connecté,Sud-est,Non,Non,Non,Non,,,Non,Non,Non,Oui,Non,Non,Non,Oui,,,,27 m²,12 m²,,,,,,,,,,,,,,,,,,,
+109,À définir,,,2,,252 m²,,6,,,,2,2,,,,,110 kWh/m²,B,20210429-0002408596-RES-1,Non communiqué,Non communiqué,Non,Gaz,,Oui,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",449.000 €,Non,"Liersesteenweg 2
+2640 - Mortsel",,,1957,,,1.360 €,247 m²,Oui,Non,,Oui,4488743,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,
+110,Bon,2,,25 m²,,,2,20 m²,9 m²,1,,1,9 m²,Oui,,,,C,20160215-0001833695-1,Non communiqué,Non communiqué,Gaz,,Non,Non,Non,Zone non inondable,249.000 €,,,"Sint-Rochusstraat, 62
+2100 - Deurne",Lynn KOCKX,,Oui,,,Nord-ouest,Non,Connecté,283 kWh/m²,,,,,,,,,,,,,,,,,,,,,50 m²,Oui,Non,,Oui,,,,,,,,,,,,,Oui,,,,,,,,Équipée,,Non,"nl :
+Bezoeken: vrije bezichtiging op zaterdag 25/9, 2/10, 9/10 en 16/10 telkens van 10 uur tot 12 uur en op woensdag 29/9, 6/10, 13/10 en 20/10 telkens van 14 uur tot 16 uur.",Après la signature de l’acte,,,260 €,,,,,,130 m²,
+111,Après la signature de l’acte,À rafraîchir,,3,,170 m²,,3,,,,1,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",410.000 €,Non,"Sint-Katelijnevest 24
+2000 - Antwerpen",4491227,,1963,,,,244 m²,Oui,Non,,Oui,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Randgemeenten,,,,,,,,,,,1,,,,,
+112,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+113,Après la signature de l’acte,,,2,Urbain,30 m²,2,11 m²,7 m²,1,,1,143 m²,,,Oui,,B,0002434839,Non communiqué,Non communiqué,Gaz,,Oui,Zone non inondable,,,"Zone d'habitat (résidentiel, urbain ou rural)",199.000 €,361 €,"Nerviërslei 6
+2900 - Schoten",4522259,,Hyper équipée,,,,Non,Connecté,Oui,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,199 kWh/m²,,,,,,,,,,,,,,96 m²,,,,,,,,,,,,,,,
+114,1965,,,,,1,,198 m²,,,,312 kWh/m²,,,,,,20210901-0002458867-RES-1,Non communiqué,Non communiqué,Oui,Non,,,,Zone non inondable,250.000 €,1.088 €,,,Filip VAN de STRAETE,,,,157 m²,,,"Cruyslei, 88
+2100 - DEURNE",D,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,Non,"nl :
+op zondagen van 15u-17u en op woensdagen van 17u-19u vanaf zo. 17/10/2021 tem woe. 17/11/2021",Après la signature de l’acte,,,Non,,,,,,,
+115,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+116,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+117,,1964,,Bon,1,Urbain,,Oui,,,,Non,,,Non,Non,Non,Oui,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Non communiqué,Non,Non,Oui,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",485.000 €,,,,Après la signature de l’acte,,,,Non,,Non,,Oui,,,,Non,Non,,,6,3,Oui,Non,Non,228 m²,Oui,Non,Non,,,,Gaz,Non,Non,Non,,,Oui,Non,Oui,Non,Oui,Non,Non,Non,Immeuble à appartements,,Oui,,,,,,,,,,,,120 m²,,,,2,120 m²,,,,Oui
+118,1946,,,122 m²,,Oui,,421 kWh/m²,,,,,,,,,,20210825-0002455327-RES-1,Non communiqué,Non communiqué,Oui,Oui,,,,,95.000 €,322 €,,,Jordy AUBRY,,,,2,,,"Jules Moretuslei, 342
+2610 - Wilrijk",E,,,,Zone non inondable,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,76 m²,,Non,"nl :
+dinsdag en zaterdag telkens van 11u-12u en dit met ingang vanaf dinsdag 12 oktober 2021",Après la signature de l’acte,3,,Non,,,,,,,
+119,1954,,,,,1,,216 m²,,,,767 kWh/m²,,,,,,20170508-0001958886-1,Non communiqué,Non communiqué,Non,Non,,,,Zone non inondable,175.000 €,899 €,,,Filip VAN de STRAETE,,,,111 m²,,,"Cruyslei, 88
+2100 - DEURNE",F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,Non,"nl :
+op woe. 29/09 + 6/10 + 13/10 + 20/10 + 27/10 van 17u-19u / op zo. 26/09 + 3/10 + 17/10 + 24/10 en op zat. 9/10 van 15u-17u",Immédiatement,,,Non,,,,,,,
+120,1931,,,,,2,,144 m²,,,,604 kWh/m²,,,,,,20170802-000198229-1,Non communiqué,Non communiqué,Non,Oui,,,,Zone non inondable,239.000 €,1.034 €,,,Elissa SUREDA-CASTELLO,,,,150 m²,,,"Van Breestraat, 33
+2018 - ANTWERPEN",F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,Non,"nl :
+elke ma. en woe. van 17u-19u vanaf 6/09/2021",Après la signature de l’acte,,,Non,,,,,,,
+121,,,,,,,,,,,,,À rénover,,2,,,3,3,5,Non,177 m²,5.5 m,,Non communiqué,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,300 m²,,,,,Non,,,,,,,,,,,,,,,,Semi-équipée,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+122,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+123,À la livraison,,,,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Non,Oui,,,,Oui,"Bischoppenhoflaan 284
+2100 - Deurne",,,,,,,,,Non,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+124,2,,,1,,,1,Oui,,,,204 kWh/m²,,,,,,20210531-0002422823-RES-1,Non communiqué,Non communiqué,Non,Non,,,,Zone non inondable,209.500 €,964 €,,,Koen DE RAEYMAECKER,,,,,,,"Quinten Matsyslei, 28
+2018 - ANTWERPEN",,C,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Équipée,,,Non,"nl :
+sleutel af te halen op het notariskantoor na tel. afspraak en mits het betalen v/e borgsom",Après la signature de l’acte,3,,Non,,,,,,,
+125,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+126,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+127,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+128,,Bon,,2,Urbain,150 m²,Semi-équipée,4,,,,1,2,,Non,,,339 kWh/m²,D,20210526-0002420596-RES-1,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",289.900 €,Non,"Turnhoutsebaan 98
+2100 - Deurne",D2100-21019,,1935,,12 m²,728 €,82 m²,,Non,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+129,Après la signature de l’acte,Fraîchement rénové,,2,,39 m²,23 m²,23 m²,19 m²,18 m²,16 m²,4,Oui,,195 m²,,,D,20210424-0002406045-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",779.000 €,1.080 €,"Turnhoutsebaan 121
+2100 - Deurne",8275 - 18304,,Équipée,1923,Non,27 m²,Non,7.15 m,,,,,,,319 kWh/m²,,,,10 m²,,,,,,,,,,60 m²,,,,,,,,,,,,,,,,,,,,5,2,,,,307 m²,,,,,,,,,,,,,,,
+130,,1 avril 2022 - 00:00,,1927,,2,239 m²,Semi-équipée,24 m²,4,31 m²,17 m²,8 m²,,2,210 m²,,36 m²,Est,192 kWh/m²,B,2016122700019218581,Non communiqué,Non communiqué,Non,Oui,Oui,Oui,Oui,Zone non inondable,499.000 €,651 €,Non,1,À définir,1,7 m,"Zone d'habitat (résidentiel, urbain ou rural)",Oui,,Non,,Gaz,"Bischoppenhoflaan 284
+2100 - Deurne",Excellent état,,,,,17 m²,,,,,,,,,,Non,,Oui,,,,,,,,,,,,,,,,,,20 m²,,,,,,,,,,,,,,,,,,,,
+131,,,,,,,,,,,,,,,,,,,Bosuil,1974,2,2,2,392 m²,Semi-équipée,7,7,250 m²,9.1 m,Oui,Sud,2 m²,140 kWh/m²,,,,,57 m²,,,Non,,7,B,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+132,,,,,,,,,,,,,,,,,,,,,,,Bosuil,1972,2,2,392 m²,7,7,7,250 m²,9.1 m,Oui,,,,,Non,,,Semi-équipée,,2,53 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+133,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+134,Après la signature de l’acte,Bon,5 m,2,"Zone d'habitat (résidentiel, urbain ou rural)",156 m²,Semi-équipée,4,20 m²,18 m²,9 m²,1,2,,Non,Oui,,256 kWh/m²,C,20111206000098917000000061,Non communiqué,Non communiqué,Non,Gaz,,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",355.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",38518 - DEU-21-LDD-0,36 m²,1930,,40 m²,820 €,135 m²,,Oui,,Oui,,,,,,,7 m²,,,,,,,,,,5 m,,Sud-est,,,,,,,,,,,,,,,,,,11 m²,,,,,,,,,,,,,,,,,,,,
+135,Après la signature de l’acte,À rénover,,2,,173 m²,Pas équipée,3,,,,2,1,,Non,,,848 kWh/m²,F,202109300002470905RES1,Non communiqué,Non communiqué,Non,Électrique,,Non,Oui,Zone non inondable,,235.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",38802 - DEU-21-LDD-0,34 m²,1934,Oui,,741 €,144 m²,,Non,,Oui,,1,17 m²,,,,,,,,,,,,,,5 m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+136,Après la signature de l’acte,Bon,,2,,149 m²,Semi-équipée,3,,,,2,2,,Non,,,337 kWh/m²,D,20211008-0002474475-RES-1,Non communiqué,Non communiqué,Non,Gaz,,,,Zone non inondable,,350.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",36694 - DEU-21-NST-0,,1955,,,,257 m²,,,,,,1,,,,,,,,,,,,,,,6 m,,Sud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,,
+137,À définir,Bon,,2,,114 m²,Américaine semi-équipée,2,,,,1,1,,Non,,,822 kWh/m²,F,202111012-0002470937-RES-1,Non communiqué,Non communiqué,Non,Gaz,,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",199.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",39203 - DEU-21-NST-0,,1937,,,379 €,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+138,,1938,À rafraîchir,5 m,,2,30 m²,15 m²,2,16 m²,,12 m²,1,,Oui,86 m²,,16 m²,686 kWh/m²,F,2364073,Non communiqué,Non communiqué,Non,,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",215.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",120 m²,Après la signature de l’acte,2,,,Non,,Oui,,Électrique,38529 - DEU-21-LDD-0,,Sud,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,Semi-équipée,,,,,,,,,,,,Oui,,,,,,,,
+139,À définir,Excellent état,,2,,120 m²,Semi-équipée,2,14 m²,13 m²,,2,2,,Non,Oui,,392 kWh/m²,D,20160725-0001876515-1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",375.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",35415 - DEU-21-LDD-0,,1938,Oui,94 m²,639 €,200 m²,,Non,,Oui,,,16 m²,,,,,,,,,,,,,,6 m,,Nord,,,,,,,,,,,,,,,,,,12 m²,,,,,,,,,,,,,,,,,,,,
+140,Après la signature de l’acte,Bon,,2,,182 m²,Semi-équipée,5,13 m²,13 m²,9 m²,2,3,,Non,Oui,,156 kWh/m²,B,20210318-0002389039-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",385.000 €,Oui,"Bischoppenhoflaan 284
+2100 - Deurne",34231 - DEU-21-LDD-0,22 m²,1965,,44 m²,1.698 €,116 m²,,Non,,Oui,,1,,,,,8 m²,,,,,,,,,,5.5 m,,Sud-est,,,,,,,,,,,,,,,,,,7 m²,8 m²,,,,,,,,,,,,,,,,,,,
+141,Selon le locataire,Bon,,2,,231 m²,Semi-équipée,4,,,,1,2,,Non,,,414 kWh/m²,E,0002448331,Non communiqué,Non communiqué,Non,Gaz,,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",399.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",39647 - DEU-21-NST-0,,1954,,,1.271 €,174 m²,Oui,,,Oui,,,,,,,,,,,,,,,,,,,Sud-ouest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,1,,,,,
+142,Après la signature de l’acte,Excellent état,,2,,234 m²,Semi-équipée,2,16 m²,16 m²,,1,1,,Non,Oui,,263 kWh/m²,C,202110060002473330RES1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",249.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",34187 - DEU-21-LDD-1,20 m²,,,30 m²,612 €,110 m²,,Non,,Oui,,,13 m²,,,,,,,,,,,,,,,,Sud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+143,,,,,,,,,,,,,,,,,,,,Après la signature de l’acte,1930,Bon,2,150 m²,30 m²,5 m²,3,13 m²,,11 m²,8 m²,2,2,,,,,,,,,,Semi-équipée,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+144,,,,,,,,,,,,,,,,,,,,,Fraîchement rénové,2,179 m²,,,,,,,25 m²,5,1,,,,,,Semi-équipée,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145,,,,,,,,,,,,,,,À rafraîchir,2,,35 m²,Oui,Semi-équipée,10 m²,1,26 m²,15 m²,,3,Oui,135 m²,5 m,Oui,12 m²,470 kWh/m²,E,,,Après la signature de l’acte,"Zone d'habitat (résidentiel, urbain ou rural)",55 m²,5 m,,Non,,1,Certificaat-20210901-0002458695-RES-1.pdf,,304 m²,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Selon le locataire,1936,À rafraîchir,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+147,,,,,,,,,,,,,,,,,,5 m,126 m²,35 m²,Équipée,15 m²,4,20 m²,18 m²,,,,,17 m²,2,2,Oui,,,,,14 m²,Bon,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+148,Après la signature de l’acte,Excellent état,5 m,2,"Zone d'habitat (résidentiel, urbain ou rural)",190 m²,Semi-équipée,4,18 m²,18 m²,13 m²,1,2,,Non,Oui,,259 kWh/m²,C,Certificaat-20210916-0002465040-RES-1.pdf,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",347.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",38540 - DEU-21-LDD-0,26 m²,,Oui,38 m²,,110 m²,,Non,,Oui,,,,,,,12 m²,,,,,,,,,,,,Sud,,,,,,,,,,,,,,,,,,31 m²,,,,,,,,,,,,,,,,,,,,
+149,,,,,,,Excellent état,187 m²,28 m²,Oui,Semi-équipée,4,20 m²,,13 m²,,,13 m²,2,2,Oui,Non,443 kWh/m²,E,20120812-00011838470000001-9,Non communiqué,Non,Oui,Oui,Non,Oui,Non,Zone non inondable,Après la signature de l’acte,,20 m²,,,,,Gaz,,Non communiqué,Zone d'extension d'habitat,,,,,,10 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,1997,,,,,,,,,,,,,,
+150,,,,,,,,,,,,,,,,,,,,,,À définir,1 mars 2022 - 00:00,Excellent état,,3,1,40 m²,Oui,Équipée,11 m²,2,24 m²,,,,,,,,208 m²,,2,21 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+151,Après la signature de l’acte,Fraîchement rénové,4 m,2,,94 m²,Équipée,2,12 m²,9 m²,,1,2,17 m²,Non,Oui,Oui,199 kWh/m²,B,20210304-0002382036-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",259.000 €,Non,,,30 m²,1919,,,498 €,60 m²,,Non,,Oui,,,10 m²,Non,Non,,,Non,Oui,Non,Non,Non,Oui,Non,Non,Oui,,Connecté,,Non,Non,Non,Non,,,Non,Non,Non,Non,Non,Non,Non,Non,,,Toutes sortes,8 m²,,,,,,Oui,,,,,,,,,,,,,,
+152,,,,,,,,,,,,,,,,,,,,À définir,1925,Excellent état,,5 m,3,,Non,1,2,Non,Oui,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,2,Urbain,111 m²,Équipée,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+=======
+,À partir de,État du bâtiment,Largeur de la façade à rue,Nombre de façades,Type d’environnement,Surface habitable,Surface du salon,Type de cuisine,Chambres,Surface de la chambre 1,Surface de la chambre 2,Surface de la chambre 3,Salles de bains,Toilettes,Surface de la cave,Meublé,"Eau, gaz & électricité",Parlophone,Consommation d'énergie primaire,Classe énergétique,Numéro du rapport PEB,Emission CO₂,Consommation théorique totale d'énergie primaire,Attestation as-built,Type de chauffage,Double vitrage,Autorisation de lotissement,Droit d'achat prioritaire possible,Type de zone inondable,Affectation urbanistique la plus récente sur la base des dénominations utilisées dans le registre des plans,Prix,Immeuble de rapport,Adresse,Site internet,Année de construction,Cave,Surface du jardin,Revenu cadastral,Surface du terrain,Terrasse,Procédure pour violation de la réglementation urbanistique,Revenu mensuel actuel,Permis de bâtir obtenu,Parkings intérieurs,Surface de la terrasse,Ascenseur,Interphone vidéo,Niveau E (performance énergétique globale),Salon,Salle à manger,Surface de la chambre 4,Dressing,Buanderie,Bureau,Espace professionnel,Porte blindée,Terrain à front de rue,Terrain boisé,Terrain arrière,Terrain plat,Largeur du terrain à rue,Raccordement à l'égout,Orientation du jardin,Pompe à chaleur,Panneaux photovoltaïques,Panneaux solaires,Chauffe-eau commun,Surface de la cuisine,Salles de douche,Référence externe,Nom du bien,Surface du grenier,Orientation de la terrasse,Concierge,Accessible aux personnes avec un handicap,Accès sécurisé / alarme,Climatisation,Jacuzzi,Sauna,Piscine,Internet,Surface constructible totale au sol,Pourcentage loué,Nom de l'agent,Grenier,Quartier ou lieu-dit,Isolé,Type de construction,Surface de la chambre 5,Surface de bureau,Surface de l'espace professionnel,Visite virtuelle,Obligation de construire,Parkings extérieurs,Combien de feux ouverts ?,Nombre d'annexes,Lieu de la vente,Séance unique,Modalités de visite,Mise à prix,Jardin,Attestation de conformité des citernes à mazout,Disponible le
+0,Après la signature de l’acte,Fraîchement rénové,5 m,2,Urbain,141 m²,13 m²,Équipée,4,16 m²,10 m²,8 m²,4,4,24 m²,Non,Oui,Oui,247 kWh/m²,C,2437212-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",449.000 €,Non,"Plantin en Moretuslei 135A
+2140 - Borgerhout",8839 - 1711,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Après la signature de l’acte,Fraîchement rénové,5 m,2,Urbain,141 m²,,Équipée,3,16 m²,10 m²,8 m²,4,4,24 m²,Non,Oui,Oui,247 kWh/m²,C,2437212-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",449.000 €,Non,"Plantin en Moretuslei 135A
+2140 - Borgerhout",8838 - 1710,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,,Fraîchement rénové,,2,,250 m²,38 m²,Équipée,4,,,,2,2,,Non,,,290 kWh/m²,C,0002451453-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,,,,,498.000 €,Non,"Britselei 42
+2000 - Antwerpen",10139 - 3596241,1935,Oui,55 m²,1.110 €,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,,,,2,,227 m²,,Semi-équipée,8,,,,8,8,,Non,Oui,Oui,124 kWh/m²,B,20160525-0001864553-1,Non communiqué,Non communiqué,Non,Gaz,Oui,,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",600.000 €,Oui,"Museumstraat 50
+2000 - Antwerpen",833789 - 93363818,2016,Oui,16 m²,924 €,98 m²,Oui,Non,3470,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,,Bon,,,,150 m²,,Semi-équipée,4,,,,4,4,,Non,,,606 kWh/m²,F,0001949978-1,Non communiqué,Non communiqué,Non,Électrique,Oui,,,,,395.000 €,Oui,"Britselei 42
+2000 - Antwerpen",10125 - 3596232,,Oui,,671 €,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,,Fraîchement rénové,,2,,190 m²,,Semi-équipée,3,,,,3,3,,Non,,,101 kWh/m²,A,0002318686,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",369.000 €,Oui,"Britselei 42
+2000 - Antwerpen",9761 - 3595851,,Oui,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,Immédiatement,Bon,,2,,205 m²,,Semi-équipée,5,,,,1,2,,Non,,,228 kWh/m²,C,20201207-0002347968-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,,,Zone non inondable,"Zone d'habitat d'intérêt culturel, historique et/ou esthétique",425.000 €,Non,"Museumstraat 50
+2000 - Antwerpen",834467 - 93364019,,Oui,20 m²,,83 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,,Fraîchement rénové,,2,,250 m²,38 m²,Équipée,4,,,,2,2,,Non,,,290 kWh/m²,C,0002451453-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,,,,,498.000 €,Non,"Britselei 42
+2000 - Antwerpen",10168 - 3596241,1935,Oui,55 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,Après la signature de l’acte,,,2,,88 m²,29 m²,Équipée,3,,,,1,1,,Non,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,Gaz,Oui,,,,,321.580 €,Non,"Britselei 42
+2000 - Antwerpen",9689 - 3594616,2017,Oui,,,,,,,,1,42 m²,Oui,Oui,70,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+9,Après la signature de l’acte,À rénover,4 m,2,Urbain,160 m²,,,4,12 m²,15 m²,12 m²,1,2,,Non,Oui,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,Non,,Oui,Zone non inondable,,195.000 €,Non,,,,Oui,32 m²,984 €,90 m²,,Non,,,,,,,,Oui,Oui,15 m²,Non,Oui,Oui,Oui,Non,Oui,Non,Non,Non,4 m,Connecté,Nord,Non,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,,,,2,Urbain,315 m²,,Semi-équipée,4,,,,2,3,,Non,Oui,,262 kWh/m²,C,20210601-0002423149-res-1,Non communiqué,Non communiqué,Non,Gaz,Oui,,,,,598.000 €,Oui,"Paalstraat 70
+2900 - Schoten",20251 - 449,,Oui,,3.463 €,138 m²,,,,,,73 m²,,,,,,,,,,,,,,,,4.5 m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Immédiatement,À rénover,,2,Urbain,64 m²,15 m²,,2,12 m²,15 m²,,1,1,,Non,,,1021 kWh/m²,F,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,,Zone non inondable,,129.500 €,Non,"Korte Nieuwstraat 16
+2000 - Antwerpen",4496995,1981,Oui,,223 €,37 m²,,,,Oui,,8 m²,,,,,,,,,,,,,,,,,,,,,,,8 m²,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,,À rénover,,2,Rue commerçante,,,,,,,,,3,,Non,,,236 kWh/m²,C,2441232,Non communiqué,Non communiqué,Non,Gaz,Oui,,,,,299.000 €,Oui,"Pyckestraat 72
+2018 - Antwerpen",,,Oui,,,69 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,639 - 1707,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,Après la signature de l’acte,,5 m,2,,150 m²,,,2,,,,1,1,,Non,,,705 kWh/m²,F,Non communiqué,Non communiqué,Non communiqué,Non,Gaz,,,Oui,Zone non inondable,,190.000 €,Non,"Grote Markt 21
+2850 - Boom",358 - 1594,,Oui,,640 €,67 m²,,Non,,,,,,,,,,,,,,,,,,,,5 m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+14,Après la signature de l’acte,,,2,,47 m²,28 m²,Équipée,1,,,,1,1,,Non,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,Gaz,Oui,,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",180.000 €,Oui,"Plantin en Moretuslei 135A
+2140 - Borgerhout",8861 - 1732,,,,,,,Non,,Oui,80,9 m²,,,54,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,Après la signature de l’acte,,,2,,62 m²,26 m²,Équipée,1,,,,1,1,,Non,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,Gaz,Oui,,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",185.000 €,Oui,"Plantin en Moretuslei 135A
+2140 - Borgerhout",8864 - 1733,,,,,,,Non,,Oui,80,6 m²,Oui,,54,,,,,,,,,,,,,,,,,,,,,,,Cityfy!,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+16,Immédiatement,Excellent état,5 m,2,Urbain,123 m²,28 m²,Hyper équipée,4,20 m²,19 m²,17 m²,1,1,40 m²,Non,Oui,Non,197 kWh/m²,B,Ep11824,5081 kg CO₂/m²,Non communiqué,,Gaz,Oui,,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",255.000 €,Non,,,,,,394 €,93 m²,,,,,,1 m²,Non,Non,,,,15 m²,Oui,,Non,Non,Non,Oui,Non,Non,Non,,Connecté,,Non,Non,Non,Oui,7 m²,1,,,35 m²,Nord,Non,Non,Non,Non,Non,Non,Non,Oui,93 m²,,,,,,,,,,,,,,,,,,,,,
+17,Après la signature de l’acte,Bon,,2,Urbain,155 m²,,,6,,,,2,3,19 m²,Non,Oui,Oui,491 kWh/m²,E,Non communiqué,Non communiqué,Non communiqué,,Solaire,Oui,,,,,335.000 €,Oui,"De Coninckplein 30
+2060 - Antwerpen",,1900,,,1.301 €,54 m²,,Non,2000,Oui,,,,,,,,,,Oui,,,,,,,,4 m,Connecté,,,,,,,2,,,,,,,,,,,,,,7,Angel YU,,,,,,,,,,,,,,,,,,,
+18,,Bon,,2,,129 m²,28 m²,,4,,,,1,,40 m²,Non,Oui,,350 kWh/m²,D,20210929-0002275318-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",249.800 €,Non,"Vrijheid 147
+2320 - Hoogstraten",,,,,394 €,54 m²,,Non,,,,,,,350,,,,,,,,Non,,,,,,Non connecté,,Non,Non,Non,Non,7 m²,,21/195,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+19,Après la signature de l’acte,À rafraîchir,4.75 m,2,"Zone d'habitat (résidentiel, urbain ou rural)",160 m²,25 m²,Américaine équipée,3,14 m²,14 m²,8 m²,2,3,,,,,255 kWh/m²,C,20200702-0002289139-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,Zone d'activité économique,315.000 €,Non,"Asterlaan 5
+2950 - Kapellen",4416668,,,,498 €,,,Non,,Oui,1,7 m²,,,,,,,,,,,,,,,,,,,,,,,8 m²,,,,,,,,,,,,,,61 m²,,,Oui,,,,,,,,,,,,,,,,,,
+20,Après la signature de l’acte,Bon,,3,Urbain,367 m²,,Équipée,6,,,,6,6,,Non,Oui,Oui,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Oui,Zone non inondable,Zone d'habitat mixte (habitat & activité économique),649.000 €,Oui,"Korte Nieuwstraat 16
+2000 - Antwerpen",4323702,,Oui,,,140 m²,,Non,,Oui,,,Non,,,,,,,,Oui,,,,,,,17 m,Connecté,,,,,,,,,,,,,Non,,,,,Non,,,,,,Antwerpen centrum 2060,,,,,,,,,,,,,,,,,
+21,Immédiatement,Excellent état,,1,Urbain,,,Hyper équipée,4,16 m²,12 m²,16 m²,1,2,,Non,Oui,Oui,348 kWh/m²,D,348,Non communiqué,Non communiqué,,Gaz,Oui,,,Zone non inondable,,405.000 €,Non,,,,Oui,,,175 m²,,,,,,4 m²,Non,Oui,,,,12 m²,Non,,Non,Non,Non,Oui,Non,Non,Non,,Connecté,,Non,Non,Non,Non,,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,,,,Oui,,Oui,Maison bel-étage,,,,,,,,,,,,,,,
+22,,,,2,Urbain,227 m²,32 m²,Équipée,5,18 m²,18 m²,13 m²,3,3,10 m²,,Oui,,436 kWh/m²,E,Non communiqué,Non communiqué,Non communiqué,,Gaz,Oui,,Oui,Zone non inondable,Zone d'habitat mixte (habitat & activité économique),489.500 €,Non,"Leopoldstraat 77
+2000 - Anvers",4431111,,,,,55 m²,,Non,,,,9 m²,Non,Oui,1973487,,,13 m²,,,Oui,,,,,,,5 m,Connecté,,,,,,6 m²,,,,,,,,,,,,,,,,,,,,,12 m²,25 m²,25 m²,,,,,,,,,,,,
+23,Après la signature de l’acte,À rénover,,2,,46 m²,1,,26 m²,1,,,1,48 m²,,,Oui,,E,Non communiqué,Non communiqué,Non communiqué,Gaz,,Oui,Oui,Oui,Non,,190.000 €,Non,"Frederik Van Eedenplein 8
+2000 - Antwerpen",4531250,,,,,,Connecté,Oui,"Zone d'habitat (résidentiel, urbain ou rural)",,Non,1,,,,,,,,,,,,,,,,,,Oui,,,,,,,1,,,,,,463 kWh/m²,,,,,,,,,,,2060 Noord-Station-St Janspl,,,,,,144 m²,,,,,,,,,,,
+24,,,,,,182 m²,,Équipée,6,20 m²,14 m²,14 m²,4,,,,Oui,,253 kWh/m²,C,2333682,Non communiqué,Non communiqué,,Gaz,Oui,,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",325.000 €,Non,"Turnhoutsebaan 175
+2110 - Wijnegem",,,,,780 €,62 m²,,,,Oui,,,,,,,Oui,10 m²,Non,,Non,,,Non,Non,Non,Non,,Connecté,,,,,,10 m²,,VKW0875,,,,,,,,,,,,63 m²,,,,,,,16 m²,,,,Non,,,,,,,,,,
+25,,À rénover,,2,,161 m²,24 m²,,3,,,,1,,21 m²,Non,Oui,,690 kWh/m²,F,20181203-0002107596-1,Non communiqué,Non communiqué,,Mazout,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",270.000 €,Non,"Vrijheid 147
+2320 - Hoogstraten",,,,,562 €,74 m²,,Non,,,,,,,690,,,,,,,,Non,,,,,,Non connecté,,Non,Non,Non,Non,18 m²,,2021/134,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,,Bon,5.3 m,,,173 m²,30 m²,,4,,,,1,,40 m²,Non,Oui,,495 kWh/m²,E,2375243,Non communiqué,Non communiqué,,,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",278.000 €,Non,"Vanderpoortenlaan, 15
+2500 - Lier",,,,15 m²,689 €,67 m²,,Non,,Oui,,,,,,,,,,,Non,,Non,,,,,5.3 m,Connecté,Sud-est,,,,,12 m²,,TK/0540,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+27,À définir,Bon,,,,,,Hyper équipée,12,,,,,1,,Non,Oui,,227 kWh/m²,C,20210407-0002398398-RES-,Non communiqué,Non communiqué,,,,,,,,1.250.000 €,Oui,"Bordeauxstraat 10 bus 202
+2000 - Antwerpen",,,,,,,Oui,,,,,,,,,,,,Non,,,,,,,,,,Connecté,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,Après la signature de l’acte,,6 m,2,"Zone d'habitat (résidentiel, urbain ou rural)",185 m²,36 m²,Pas équipée,6,16 m²,13 m²,16 m²,2,3,45 m²,Non,Oui,,574 kWh/m²,F,20210319-0002390175-RES-1,Non communiqué,Non communiqué,,Gaz,,,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",325.000 €,,"Herentalsebaan, 2
+2140 - Borgerhout",,,,,758 €,66 m²,,,,Oui,,,,,,,,13 m²,,,,,,,,,,6 m,Connecté,,,,,,15 m²,1,,,,,,,,,,,,,,,,,Park Spoor Noord,,,24 m²,,,,,,,,,,,,,,
+29,Après la signature de l’acte,Bon,,2,,207 m²,,Équipée,4,,,,1,2,,Non,Oui,,228 kWh/m²,C,2347968,Non communiqué,Non communiqué,,Gaz,Oui,,,,,425.000 €,Non,"Korte Nieuwstraat 16
+2000 - Antwerpen",4407408,,Oui,,,84 m²,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,Antwerpen centrum 2060,,,,,,,,,,,,,,,,,
+30,À définir,,,2,,Oui,,,25 m²,17 m²,17 m²,17 m²,3,Oui,,,60 m²,,D,Non communiqué,Non communiqué,Non communiqué,Mazout,,Zone non inondable,,,,385.000 €,,927 €,"Goedehoopstraat 21
+2000 - Anvers",4520724,,,Oui,348 kWh/m²,Non,Oui,,,,,,,,,,5,,16 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,154 m²,,,,2,,,268 m²,,,,,,,,,,,
+31,,,,,,132 m²,,Équipée,2,,,,1,3,,,Oui,,264 kWh/m²,C,20190926-0002199477-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,Non,Oui,,"Zone d'habitat (résidentiel, urbain ou rural)",209.500 €,Non,"Broechemlei 24
+2520 - Ranst",21920,,,,,59 m²,,Non,,Oui,,,,,,Oui,,,Non,,Non,,,Non,Non,Non,Non,,Connecté,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,
+32,,À rafraîchir,,2,,190 m²,,,3,,,,3,,,,,,318 kWh/m²,D,Non communiqué,Non communiqué,Non communiqué,,,,Non,Non,,"Zone d'habitat (résidentiel, urbain ou rural)",290.000 €,Non,"Verbondstraat 116
+2000 - Antwerpen",4519045,,,,743 €,55 m²,,Non,,,,20 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Antwerpen stad,,,,,,,,,,,,,,,,,
+33,Après la signature de l’acte,,,2,,2,,,2,,,,Oui,,,42 m²,610 kWh/m²,,F,Non communiqué,Non communiqué,Non communiqué,Gaz,,Oui,Non,Oui,Non,,239.000 €,327 €,"Goedehoopstraat 21
+2000 - Anvers",4519806,,,Non,,Non,Oui,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100 m²,,,,,,,,,,,
+34,Après la signature de l’acte,,,2,Urbain,187 m²,28 m²,Américaine semi-équipée,4,13 m²,19 m²,19 m²,1,,,Non,Oui,Oui,490 kWh/m²,E,1896361,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",370.000 €,Non,"Grote steenweg, 511
+2600 - Berchem",,,Oui,,,90 m²,Oui,Non,,,,,,,,,Oui,13 m²,,,,,,,,,,,,,,,,,12 m²,,4418095,,,,,,,,,,,,,,,,Regio Centrum Antwerpen,,,,,,,,,,,,,,,,,
+35,Après la signature de l’acte,Bon,,2,,376 m²,,,4,,,,4,4,,,Non,Oui,195 kWh/m²,B,Non communiqué,Non communiqué,Non communiqué,,,Oui,,,,,660.000 €,Oui,"Fehrenbachstraat, 53
+2440 - Geel",4343025,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,Connecté,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+36,Après la signature de l’acte,,,2,,27 m²,,,,,,,1,,,Non,,,70.94 kWh/m²,A,Non communiqué,Non communiqué,Non communiqué,,,,,,Zone non inondable,,139.750 €,Oui,"Gitschotellei 153-157
+2600 - Berchem",4517333,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,À définir,Excellent état,,,Urbain,170 m²,,Équipée,3,,,,1,,30 m²,,,,Non communiqué,Non communiqué,20210915-0002464596-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,Non,Oui,,,229.000 €,Non,"Van de Wervestraat, 63
+2060 - ANTWERPEN",,,,,443 €,60 m²,,,,Oui,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,Astrid STORMS,,,,,,,,,,,,,,,,,,,
+38,Immédiatement,Fraîchement rénové,20 m,4,,400 m²,,,4,,,,1,2,,Non,Non,Non,479 kWh/m²,E,202010060002294820res2,Non communiqué,Non communiqué,,Gaz,Oui,,,,,698.000 €,Non,,,1960,,800 m²,,1200 m²,,,,Oui,1,20 m²,Non,Non,,,,,Non,,Oui,Oui,Non,Oui,Non,Oui,Oui,,Connecté,,Non,Non,Non,Non,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,,,,,,,Toutes sortes,,,,,,4,1,1,,,,,,,
+39,Après la signature de l’acte,Fraîchement rénové,5 m,2,,130 m²,15 m²,Équipée,4,18 m²,11 m²,106 m²,1,1,8 m²,Non,Oui,,239 kWh/m²,C,20210831-0002450496-RES-2,Non communiqué,Non communiqué,,Gaz,Oui,,,,,299.000 €,Non,,,,,1 m²,,110 m²,,,,,,1 m²,,,,,Oui,9 m²,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,5 m,Connecté,Nord-est,Non,Non,Non,Non,16 m²,,,,,Nord-est,,,,,,,,,,,,,,,Toutes sortes,,,,,,,,,,,,,,,
+40,,Bon,,2,,,,Équipée,5,,,,2,,,Non,,,421 kWh/m²,E,20180521-0002060161-1,Non communiqué,Non communiqué,Non,Gaz,Oui,,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",715.000 €,Non,"Valkebeekstraat 24
+1861 - Wolvertem",258 - V20WOL/068 kop,,Oui,,,763 m²,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,
+41,Après la signature de l’acte,À rafraîchir,7 m,2,,147 m²,25 m²,Équipée,4,17 m²,26 m²,13 m²,2,2,,,Oui,,221 kWh/m²,C,Non communiqué,Non communiqué,Non communiqué,,Gaz,Oui,,,,,224.900 €,Non,"Mechelsesteenweg,157
+2018 - Antwerpen",,,Oui,15 m²,552 €,90 m²,,,,,,,,,,,,13 m²,,,,,,,,,,7 m,Connecté,,,,,,25 m²,2,4500538,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,Après la signature de l’acte,Fraîchement rénové,20 m,4,"Zone d'habitat (résidentiel, urbain ou rural)",1200 m²,,,4,,,,1,2,,Non,Oui,Non,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,Oui,,,,,698.000 €,Non,,,1960,,1000 m²,,1200 m²,,,,Oui,1,230 m²,Non,Non,,Oui,Oui,,Non,Oui,Oui,Oui,Non,Oui,Non,Non,Oui,,Connecté,,Non,Non,Non,Non,,,,,,Sud,Non,Non,Non,Non,Non,Non,Non,Oui,,,,,,,Toutes sortes,,,,,,6,1,1,,,,,,,
+43,1900,,,90 m²,,Oui,,1,Oui,,,,Oui,,,,,,20210629-0002435679-RES-1,Non communiqué,Non communiqué,Oui,Non,,,,Zone non inondable,90.000 €,356 €,,,Charlotte LIPPENS,,,2,135 m²,,"Amerikalei, 163
+2000 - ANTWERPEN",F,,,,Non,,,,,,Équipée,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,825 kWh/m²,,,,,,,Oui,,,,,Non,"nl :
+elke woe. van 14u-16u - elke zat. van 14u-16u - eerste bezoek 14/8 - laatste bezoek 25/9",Après la signature de l’acte,Non,,,
+44,1956,3,,1,,,,,1,,,,Oui,Oui,,,,,20200610-0002279734-RES-1,Non communiqué,Non communiqué,Zone non inondable,190.000 €,,,,,,730 €,,,Ann-Sophie ICKROTH,,,À rénover,781 m²,,"Amerikalei, 163
+2000 - ANTWERPEN",Sud-ouest,,,,,Oui,,,,,1,,,,,,,,,,,,,,F,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,4,,,,,Non,"nl :
+elke woensdag van 16u-18u; elke zaterdag van 11u-13u. Voor een 1e maal op 8 september. De ondergetekende notaris houdt zich het recht voor bijkomende bezoeken in te lassen en/of de bezoekuren te wijzigen in het belang van de verkoop.",Après la signature de l’acte,Non,891 kWh/m²,,
+45,1986,,,1,,1,,,480 m²,,,,283 kWh/m²,,,,,,20140413-0001573609-00000039-3,Non communiqué,Non communiqué,Oui,Oui,,,,Zone non inondable,200.000 €,1.465 €,,,Michiel VAN WEZENBEECK,,,3,,,"Kapelsesteenweg, 338-340
+2930 - Brasschaat",C,,,,Non,195 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,Non,"nl :
+elke woe. en zat. van 14u-16u, vanaf woe. 13/10 tem zat. 30/10",Après la signature de l’acte,Non,,,
+46,,À rafraîchir,,2,Urbain,178 m²,,Semi-équipée,6,,,,1,,,Non,,,466 kWh/m²,E,1844610,Non communiqué,Non communiqué,,Gaz,,Oui,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",269.000 €,Non,"Bazelstraat 32
+9150 - Kruibeke",D9150-21049,1966,,,733 €,171 m²,,Non,,Oui,,11 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,Après la signature de l’acte,Excellent état,6 m,1,"Zone d'habitat (résidentiel, urbain ou rural)",150 m²,,,3,16 m²,12 m²,8 m²,1,2,,Non,Oui,Oui,359 kWh/m²,D,20160072300018818421,12056 kg CO₂/m²,Non communiqué,,Gaz,Oui,,,,,325.000 €,Non,,,1974,,30 m²,775 €,180 m²,,,,,,8 m²,Non,Non,,,,,Non,,Non,Non,Non,Non,Non,Non,Non,,,Sud,Non,Non,Non,Non,,,,,,Sud,Non,Non,Non,Non,Non,Non,Non,Non,,,,,,,Toutes sortes,,,,,,,,,,,,,,,
+48,Après la signature de l’acte,Bon,12 m,3,"Zone d'habitat (résidentiel, urbain ou rural)",186 m²,,Équipée,5,25 m²,18 m²,16 m²,1,2,,Non,Oui,,219 kWh/m²,C,20120204-0001030939-00000002-6,Non communiqué,Non communiqué,,Gaz,Oui,,Non,Zone non inondable,,480.000 €,Non,,,1995,,100 m²,1.105 €,356 m²,,Non,,,,,,,,,Oui,14 m²,Non,Oui,Non,Non,Non,Non,Non,Non,Non,,Connecté,,Non,Non,Non,Non,17 m²,,,,,,,,,,,,,,,,,,,,Toutes sortes,12 m²,,,,,,1,,,,,,,,
+49,À définir,Bon,,,,234 m²,,Équipée,4,,,,,1,,Non,Oui,,203 kWh/m²,C,20210707-0002438958-RES-2,Non communiqué,Non communiqué,,Gaz,Oui,,,,,299.000 €,Non,"Blancefloerlaan 50
+2050 - Antwerpen",,,Oui,,245 €,113 m²,,,,,,,,,,,,,Non,,,,,,,,,,Connecté,Sud,Non,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,Oui,,
+50,Immédiatement,À rafraîchir,6 m,2,,128 m²,15 m²,Semi-équipée,3,15 m²,15 m²,5 m²,1,1,11 m²,Non,Oui,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,Oui,,,Zone non inondable,,265.000 €,Non,,,1950,,155 m²,,264 m²,,Non,,Oui,,22 m²,,,412,,Oui,,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,,,Est,Non,Non,Non,Non,11 m²,,,,,Est,,,,,,,,,,,,,,,Toutes sortes,,,,,,1,,,,,,,,,
+51,Après la signature de l’acte,Bon,,2,,138 m²,,Équipée,3,,,,1,1,,Non,Oui,,331 kWh/m²,D,20210719-0002443453-RES-1,Non communiqué,Non communiqué,Non,Gaz,,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",249.000 €,Non,"Prinses Josephine Charlottelaan 72
+9100 - Sint-Niklaas",39101 - WAA-21-DHO-0,,,,,,,Non,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+52,Après la signature de l’acte,À rafraîchir,,3,Aménagé,180 m²,,,4,16 m²,18 m²,9 m²,1,2,,Non,Oui,Non,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,Oui,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",285.000 €,Non,,,1962,,,761 €,200 m²,,Non,,,,80 m²,Non,Non,,,,26 m²,Non,,Non,Non,Non,Oui,Non,Non,Non,7 m,Connecté,,Non,Non,Non,Non,10 m²,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,119 m²,,,,,,,,,,,,,,,,,,,,,
+53,,Excellent état,,,,178 m²,,Équipée,2,,,,1,2,,Non,Oui,,224 kWh/m²,C,20210211-0002372707-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,Oui,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",375.000 €,Non,"Parklaan 25
+9100 - Sint-Niklaas",Sparrenlaan 39,1996,Oui,,1.175 €,287 m²,Oui,Non,,Oui,1,,,,,Oui,Oui,,Oui,,Oui,,,Non,Non,Non,Non,,Connecté,Sud-ouest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,Oui,,
+54,Après la signature de l’acte,Bon,,2,Isolé,Hyper équipée,,4,14 m²,7 m²,5 m²,20 m²,Oui,,,135 m²,Oui,,F,20210921-0002466575-RES-1,Non communiqué,Non communiqué,Non,,,,,Zone non inondable,235.000 €,,Non,"Nerviërslei 6
+2900 - Schoten",4506076,,1956,Oui,,,Connecté,834 kWh/m²,,,,,,,,,,,1,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,145 m²,,,,,,,,,,,
+55,Après la signature de l’acte,,,3,"Zone d'habitat (résidentiel, urbain ou rural)",,,Équipée,3,,,,1,2,,Non,Oui,Non,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,Oui,,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",450.000 €,Non,,,1963,Oui,1 m²,,779 m²,,,,,1,,Non,Non,,Oui,Oui,,Non,Oui,Non,Non,Non,Non,Non,Non,Non,,Connecté,,Non,Non,Non,Non,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,,,,Oui,,,Toutes sortes,,,,,,2,,,,,,,,"Oui, conforme",
+56,Après la signature de l’acte,Bon,,4,,175 m²,48 m²,Équipée,4,14 m²,14 m²,14 m²,2,2,,Non,Oui,,340 kWh/m²,D,20201027-0002332653-RES-1,Non communiqué,Non communiqué,Non,,Oui,,Non,Zone non inondable,Zone d'extension d'habitat,519.000 €,Non,"Grote Markt 52
+9100 - Sint Niklaas",834759 - 93363840,1988,Oui,815 m²,1.591 €,920 m²,,,,,4,,,,,,,13 m²,,,,,,,,,,,,,,,,,30 m²,1,,Unieke lichtrijke woning met tuin.,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,,
+57,Après la signature de l’acte,Bon,6 m,2,,150 m²,,Équipée,2,,,,1,,,Non,Oui,,385 kWh/m²,D,20120710-0001165035-00000011-4,Non communiqué,Non communiqué,,Électrique,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",285.000 €,Non,"Gentse Baan 45A
+9100 - Sint-Niklaas",2021/379,1947,,57 m²,745 €,128 m²,,Non,,Oui,,,Non,,385,,,,,,Oui,Oui,Oui,,,,,6 m,Non connecté,,Non,Non,Non,Non,12 m²,,,,,,,Non,Non,,,,,,,,,,,,,,8 m²,,,,,,,,,,,,,
+58,Après la signature de l’acte,Bon,4 m,2,,121 m²,,Hyper équipée,3,,,,1,,10 m²,Non,Oui,,467 kWh/m²,E,2451758-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",249.900 €,Non,"Gentse Baan 45A
+9100 - Sint-Niklaas",2021/323,1918,,40 m²,220 €,108 m²,,Non,,,,,,,467,,,,,,,,Non,,,,,4 m,Non connecté,,Non,Non,Non,Non,12 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+59,Immédiatement,À rafraîchir,6 m,2,,182 m²,,Équipée,2,,,,1,,,Non,Oui,,480 kWh/m²,E,20181218-0002117451-1,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,Autre type de zone,265.000 €,Non,"Gentse Baan 45A
+9100 - Sint-Niklaas",2021/329,1936,,,1.584 €,90 m²,,Non,,,,15 m²,,,480,,Oui,,,,,,Non,,,,,6 m,Non connecté,,Non,Non,Non,Non,13 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+60,Après la signature de l’acte,,5 m,2,,153 m²,,Équipée,3,,,,2,,,Non,Oui,,475 kWh/m²,E,20191004-0002202758-RES-2,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,,Autre type de zone,285.000 €,Non,"Gentse Baan 45A
+9100 - Sint-Niklaas",2021/350,1956,,83 m²,659 €,155 m²,,Non,,,,16 m²,,,475,,,,,,,,Non,,,,,5 m,Non connecté,,Non,Non,Non,Non,22 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"Oui, conforme",
+61,À la livraison,,,,,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Non,Non,,,,Oui,"Italiëlei 207
+2000 - Antwerpen",,,,,,,,Non,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+62,Après la signature de l’acte,Fraîchement rénové,5.5 m,3,Isolé,105 m²,52 m²,Hyper équipée,2,20 m²,12 m²,,1,2,9 m²,Non,Oui,,461 kWh/m²,E,20160427-0001857351-2,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",299.000 €,Non,"Yzerhand 33
+9120 - Beveren",4520448,,,130 m²,456 €,292 m²,,Non,,Oui,1,10 m²,,,,,,,,,,,,,,,,10.5 m,Connecté,,,,,,,,,,22 m²,,,,,,,,,,105 m²,,,,Beveren,,,,,,,,2,,,,,,,,,
+63,,À rafraîchir,7 m,2,,172 m²,,,3,,,,2,,,Non,Oui,,324 kWh/m²,D,20200723-0002296816-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",249.000 €,Non,"Gentse Baan 45A
+9100 - Sint-Niklaas",2021/265,1938,,,701 €,261 m²,,Non,,,,,,,324,,,,,,,,Non,,,,,,Non connecté,,Non,Non,Non,Non,25 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+64,Après la signature de l’acte,Bon,4 m,2,,100 m²,,,2,,,,1,,,Non,Oui,,444 kWh/m²,E,20120627-0001154935-00000015-4,Non communiqué,Non communiqué,,Électrique,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",260.000 €,Non,"Gentse Baan 45A
+9100 - Sint-Niklaas",2021/358,1918,,148 m²,307 €,222 m²,,Non,,Oui,,,,,444,,,,,,,,Non,,,,,4 m,Connecté,,Non,Non,Non,Non,13 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,À définir,Bon,,,,185 m²,,Équipée,3,,,,,2,,Non,Oui,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,Gaz,Oui,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",280.000 €,Non,"Mechelsesteenweg 35/A
+2840 - Rumst",,,Oui,,899 €,105 m²,,,,,,7 m²,,,,,,,Non,,,,,,,,,,Connecté,,Non,,,,,,,,,Nord-ouest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+66,Après la signature de l’acte,À rafraîchir,6 m,3,"Zone d'habitat (résidentiel, urbain ou rural)",172 m²,19 m²,Équipée,3,18 m²,9 m²,22 m²,1,2,,,Oui,,156 kWh/m²,B,20210623-0002432895-RES-1,Non communiqué,Non communiqué,,Gaz,,,,,,349.000 €,,"Blauwesteenstraat 67
+2550 - Kontich",Peter Stroobant,1986,,150 m²,,199 m²,,,,,2,15 m²,,,,,Oui,,Oui,Oui,,,,,,,,,Connecté,Nord,,,,,9 m²,2,,,22 m²,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,
+67,,À rafraîchir,5 m,2,,124 m²,,,2,,,,2,,,Non,Oui,,444 kWh/m²,E,20200727-0002297881-RES-1,Non communiqué,Non communiqué,,Gaz,Non,Non,Non,Zone non inondable,Autre type de zone,149.000 €,Non,"Gentse Baan 45A
+9100 - Sint-Niklaas",2021/286,1938,,,701 €,261 m²,,Non,,,,,,,444,,,,,,,,Non,,,,,,Non connecté,,Non,Non,Non,Non,15 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+68,,Bon,6 m,3,Urbain,154 m²,42 m²,Équipée,3,15 m²,13 m²,6 m²,1,2,,Non,Oui,Oui,228 kWh/m²,C,20210926-0002468902-RES-1,Non communiqué,Non communiqué,,,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",395.000 €,Non,"Casinostraat 3
+9100 - Sint-Niklaas",,1976,,246 m²,956 €,309 m²,,Non,,Oui,1,35 m²,Non,Non,,,,,,,Non,,Non,,,,,9 m,Non connecté,Nord-est,,,,,11 m²,,"Pijlstraat 13, Zwijndrecht",,,,,Non,Non,,,,Non,,63 m²,,,,,,Maison bel-étage,,,,,,,,,,,,,,,
+69,,À rafraîchir,8 m,2,,82 m²,,,2,,,,1,,,Oui,Oui,,504 kWh/m²,F,20200727-0002296813-RES-1,Non communiqué,Non communiqué,,Gaz,Non,Non,Non,Zone non inondable,Autre type de zone,179.000 €,Non,"Gentse Baan 45A
+9100 - Sint-Niklaas",2021/271,1938,,,701 €,261 m²,,Non,,,,,,,504,,,,,,,,Non,,,,,,Non connecté,,Non,Non,Non,Non,16 m²,,,,,,,,,,,,,,82 m²,,,,,,,,,,,,,,,,,,,,,
+70,Après la signature de l’acte,À rénover,,2,Urbain,110 m²,,,3,,,,1,,,,Oui,,632 kWh/m²,F,20210810-0002450078-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,,,,,210.000 €,Non,"Ter Heydelaan 227
+2100 - Antwerpen",4406284,1937,,,381 €,131 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+71,Après la signature de l’acte,Bon,,2,Urbain,5,,,32 m²,16 m²,15 m²,12 m²,Oui,,,,527 kWh/m²,,F,2396437,Non communiqué,Non communiqué,Gaz,,Oui,Oui,Non,Non,"Zone d'habitat (résidentiel, urbain ou rural)",780.000 €,951 €,"Frederik Van Eedenplein 8
+2000 - Antwerpen",4411634,,1915,Oui,,Non,Oui,,Zone non inondable,,Non,1,,,,,,,36 m²,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,450 m²,,,,1,,,289 m²,,,,,,,,,,,
+72,,,,2,,145 m²,,Américaine semi-équipée,4,,,,1,1,,,Non,,893 kWh/m²,F,2422784,Non communiqué,Non communiqué,,,,Non,Non,Zone non inondable,,219.000 €,Non,"Leopoldstraat 77
+2000 - Anvers",4372644,1933,,,,209 m²,,Non,,Oui,1,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,
+73,,,4 m,,,95 m²,,Équipée,2,,,,1,1,,,Oui,,362 kWh/m²,D,2434835,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",235.000 €,Non,"Dorp West 13 b1
+2070 - Zwijndrecht",,1945,,,,67 m²,,Non,,Oui,,,,,,Oui,,,Non,,Non,,,Non,Non,Non,Non,,Connecté,Nord,,,,,,,Verbrandendijk88C,,,,,,,,,,,,40 m²,,,,,,,,,,,Non,,,,,,,,Oui,,
+74,,,5.8 m,,,175 m²,,Équipée,2,,,,1,2,,,Oui,Oui,292 kWh/m²,C,20210531-0002422578-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",320.000 €,Non,"Dorp West 13 b1
+2070 - Zwijndrecht",,1971,Oui,,,163 m²,Oui,Non,,Oui,,,Non,Oui,,Oui,Oui,,Non,,Non,,,Non,Non,Non,Non,5.8 m,Connecté,Nord-ouest,,,,,,,Willem Elsschotstraa,,,,Non,Non,Oui,,,,Non,,88 m²,,,,,,,,,,,Non,,,,,,,,Oui,,
+75,Après la signature de l’acte,,,2,"Zone d'habitat (résidentiel, urbain ou rural)",,48 m²,,3,20 m²,15 m²,6 m²,1,2,,Non,Oui,,425 kWh/m²,E,20210705-002437903-RES-1,Non communiqué,Non communiqué,Non,Gaz,,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",265.000 €,,"Melselestraat, 25
+2070 - ZWIJNDRECHT",,1931,Oui,,404 €,127 m²,,Non,,Oui,1,12 m²,,,,,Oui,,,,,,,,,,,,Connecté,,,,,,12 m²,1,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,
+76,,,,,,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Non,Non,Zone non inondable,,,Non,"Parklaan 25
+9100 - Sint-Niklaas",residentie Swyndrech,,,,,,,Non,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Toutes sortes,,,,,Non,,,,,,,,,,
+77,,Excellent état,,,,162 m²,,,3,,,,,,,,Non,,148 kWh/m²,B,20210417-0002402773-RES-1,Non communiqué,Non communiqué,,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",345.000 €,Non,"Lokerse Baan 22
+9111 - Belsele",,1976,,,847 €,206 m²,,Non,,Oui,,,,,,,,,Non,,Non,,,Non,Non,Non,Non,,Connecté,,,,,,,,db693,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,
+78,,,6 m,,,250 m²,,Équipée,2,,,,1,2,,,Non,,293 kWh/m²,C,20210617-0002430370-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,,,,,425.000 €,Non,"Dorp West 13 b1
+2070 - Zwijndrecht",,1957,Oui,,,269 m²,,,,,1,,,,,Oui,Oui,,Non,,Non,,,Non,Non,Non,Non,6 m,Connecté,Sud-ouest,,,,,,,Adrien_Van_Roeyenstr,,,,,,,,,,,,108 m²,,,,,,,,,,,Non,,,,,,,,Oui,,
+79,,,6 m,,,134 m²,,,3,,,,1,1,,,Non,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Électrique,Oui,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",335.900 €,Non,"Parklaan 25
+9100 - Sint-Niklaas",residentie Swyndrech,2021,,,,190 m²,Oui,Non,,Oui,,,,,30,Oui,Oui,,Non,,Non,,,Non,Non,Non,Non,,Connecté,Sud-est,,,,,,,,woonerf Swyndrecht,,,,,,,,,,,66 m²,,,,,,,,,,,Non,,,,,,,,Oui,,
+80,,,6 m,,,139 m²,,,3,,,,1,1,,,Non,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Électrique,Oui,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",356.500 €,Non,"Parklaan 25
+9100 - Sint-Niklaas",residentie Swyndrech,2021,,,,211 m²,Oui,Non,,Oui,,,,,30,Oui,Oui,,Non,,Non,,,Non,Non,Non,Non,,Connecté,Sud-est,,,,,,,,woonerf swyndrecht,,,,,,,,,,,66 m²,,,,,,,,,,,Non,,,,,,,,Oui,,
+81,,,,,,208 m²,,Semi-équipée,3,,,,1,2,,,Oui,,439 kWh/m²,E,20210728-0002445785-RES-1,Non communiqué,Non communiqué,,,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",298.000 €,Non,"Dorp West 13 b1
+2070 - Zwijndrecht",,1954,Oui,,,190 m²,,,,Oui,,,,,,Oui,,,Non,,Non,,,Non,Non,Non,Non,,Connecté,Ouest,,,,,,,Lindenstraat145,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,Oui,,
+82,,Excellent état,,,,278 m²,,,4,,,,,,,,Non,,454 kWh/m²,E,20201106-0002336862-RES-1,Non communiqué,Non communiqué,,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",525.000 €,Non,"Lokerse Baan 22
+9111 - Belsele",,,,,1.276 €,175 m²,,Non,,Oui,,,,,,,,,Non,,Non,,,Non,Non,Non,Non,,Connecté,,,,,,,,db708,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,
+83,,À rafraîchir,,,,123 m²,,,3,,,,1,,,,Non,,750 kWh/m²,F,20210920-0002440818-RES-3,Non communiqué,Non communiqué,,Électrique,Oui,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",335.000 €,Non,"Dorp West 4
+2070 - Zwijndrecht",K10012C,1966,Oui,,808 €,473 m²,,,,Oui,1,,,,,,,,Non,,Non,,,Non,Non,Non,Non,,Non connecté,Sud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,Oui,,
+84,,À rafraîchir,,,,95 m²,,Équipée,2,,,,1,1,,Non,Oui,,531 kWh/m²,F,20090625000022155300000002-0,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",225.000 €,Non,"Parklaan 25
+9100 - Sint-Niklaas",Heirbaan 10C,,,,,,Oui,Non,,Oui,,,,,,Oui,,,Non,,Non,,,Non,Non,Non,Non,,Connecté,Sud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,Oui,,
+85,,,,,,277 m²,,,3,,,,1,2,,Non,Non,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,Non,Non,Non,,"Zone d'habitat (résidentiel, urbain ou rural)",275.000 €,Oui,"Dorp West 13 b1
+2070 - Zwijndrecht",,1950,,,,203 m²,,Non,,Oui,,,,,,,,,Non,,Non,,,Non,Non,Non,Non,,Non connecté,,,,,,,,3794282C,Handelshuis met te renoveren appartement,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,
+86,,,,,,163 m²,,,2,,,,1,,,,Non,,359 kWh/m²,D,20200919-000231353-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",215.000 €,Non,"Dorp West 4
+2070 - Zwijndrecht",K10069,1968,,,676 €,302 m²,,Non,,Oui,1,,,,,Oui,,,Non,,Non,,,Non,Non,Non,Non,,Non connecté,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,
+87,,,,,,109 m²,,,2,,,,1,2,,,Non,,369 kWh/m²,D,20210707-0002438756-RES-1,Non communiqué,Non communiqué,,Électrique,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",265.000 €,Oui,"Dorp West 4
+2070 - Zwijndrecht",K10154,,,,520 €,54 m²,Oui,,,,,,,,,Oui,,,Non,,Non,,,Non,Non,Non,Non,,Non connecté,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,
+88,,À rénover,,,,,,,2,,,,,,,,Non,,500 kWh/m²,E,Non communiqué,Non communiqué,Non communiqué,,,Non,,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",215.000 €,Non,"Antwerpsesteenweg 219
+2950 - Kapellen",,,,,,,,,,Oui,,,,,,,,,Non,,Non,,,Non,Non,Non,Non,,Non connecté,,,,,,,,Geesthoek 18,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,
+89,À définir,,,2,,,,,3,,,,1,,,,,,335 kWh/m²,D,20210825-0002456038-RES-1,Non communiqué,Non communiqué,,,,,,,,299.000 €,Non,"Vesten, 36
+9120 - BEVEREN",,,,,671 €,144 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,notarissen VERCOUTEREN,,,,,,,,,,,,,,,,,,,
+90,,,,,,131 m²,,,5,,,,1,,,,Non,,637 kWh/m²,F,20210812-0002450761-RES-1,Non communiqué,Non communiqué,,,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",239.000 €,Non,"Dorp West 4
+2070 - Zwijndrecht",K10005,,Oui,,319 €,245 m²,,,,,,,,,,Oui,,,Non,,Non,,,Non,Non,Non,Non,,Non connecté,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,
+91,Après la signature de l’acte,,,,,,,,4,,,,,,,,,,594 kWh/m²,F,20130820-0001426546-00000005-6,Non communiqué,Non communiqué,,,,Non,Non,Zone non inondable,,245.000 €,Non,"Melselestraat, 25
+2070 - ZWIJNDRECHT",,,,,647 €,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,Tina TINDEMANS,,,,,,,,,,,,,,,,,,,
+92,À la livraison,,,,,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Non,Non,,,,Oui,"Italiëlei 207
+2000 - Antwerpen",,,,,,,,Non,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+93,,,,,,100 m²,,,3,,,,1,,,,Non,,390 kWh/m²,D,20201126-0002344162-RES-1,Non communiqué,Non communiqué,,,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",219.000 €,Non,"Dorp West 4
+2070 - Zwijndrecht",K10258,,Oui,,270 €,118 m²,Oui,,,,,,,,,Oui,,,Non,,Non,,,Non,Non,Non,Non,,Non connecté,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,
+94,Après la signature de l’acte,,,,,,,,2,,,,,,,,,,205 kWh/m²,C,20141230-0001719407-1,Non communiqué,Non communiqué,,,,Non,Non,Zone non inondable,,265.000 €,Non,"Melselestraat, 25
+2070 - ZWIJNDRECHT",,,,,386 €,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,Tina TINDEMANS,,,,,,,,,,,,,,,,,,,
+95,Après la signature de l’acte,À rénover,5.5 m,2,"Zone d'habitat (résidentiel, urbain ou rural)",156 m²,40 m²,Équipée,3,18 m²,10 m²,9 m²,1,2,,Non,,,229 kWh/m²,C,20210930-0002470800-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",279.000 €,Non,"Mortselsesteenweg 161
+2100 - Deurne",Langbaanvelden 131 D,1976,,105 m²,927 €,157 m²,,Non,,Oui,1,10 m²,,,,,,,Non,,Non,,,,,,,5.5 m,,Nord-est,Non,,,,7 m²,1,,,,,,,,,,,,,,,,,,,,,,,,Non,2,,,,,,,,Non,
+96,,Bon,5 m,2,,175 m²,22 m²,Semi-équipée,2,17 m²,17 m²,,1,2,,Non,Oui,,374 kWh/m²,D,20180814-0002082475-1,Non communiqué,Non communiqué,,Gaz,Oui,,,Zone non inondable,,345.000 €,Non,,,1954,Oui,85 m²,949 €,175 m²,,,,Oui,,15 m²,,,,,Oui,,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,35 m,Connecté,Nord-est,Oui,Non,Non,Non,11 m²,,,,,Nord-est,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,
+97,Après la signature de l’acte,À rénover,6 m,3,"Zone d'habitat (résidentiel, urbain ou rural)",216 m²,29 m²,Semi-équipée,4,16 m²,18 m²,17 m²,2,2,41 m²,Non,,,990 kWh/m²,F,20210305-0002382476-RES-2,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",469.000 €,Non,"Mortselsesteenweg 161
+2100 - Deurne",Boekenberglei 224 De,1935,,,1.212 €,240 m²,,Non,,,2,90 m²,,,,,,17 m²,Non,,Non,,,,,,,,,Ouest,Non,,,,9 m²,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,,,,,Oui,Non,
+98,,Bon,,2,Urbain,233 m²,,Équipée,3,,,,2,2,,Non,,,144 kWh/m²,B,20210804-0002448186-RES-1,Non communiqué,Non communiqué,,Gaz,,Oui,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",385.000 €,Non,"Turnhoutsebaan 98
+2100 - Deurne",D2100-21032,1955,,,1.274 €,255 m²,Oui,Non,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,1 février 2022 - 00:00
+99,Après la signature de l’acte,Excellent état,6 m,2,,162 m²,29 m²,Hyper équipée,5,13 m²,11 m²,10 m²,3,3,,Non,,Non,191 kWh/m²,B,20210205-0002369384-RES-1,Non communiqué,Non communiqué,,Gaz,Non,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",389.000 €,Non,"Tavernierkaai 2 b 29
+2000 - Antwerpen",,1970,,19 m²,,156 m²,,Non,,Oui,,,Non,Oui,,,,10 m²,Non,Oui,Non,,,,,,,6 m,,Est,Non,,,,20 m²,3,spir4450,,,,Non,Non,Non,,,,Non,,137 m²,,,,,,,,,,,Non,1,1,,,,,,,Non,
+100,À définir,Bon,,,,109 m²,,Équipée,2,,,,,1,,Non,Oui,,148 kWh/m²,B,Non communiqué,Non communiqué,Non communiqué,"Oui, conforme",Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",249.000 €,Non,"Orteliuskaai, 8
+2000 - Antwerpen",,,,28 m²,,95 m²,Oui,Non,,Oui,,,,,,,,,Non,,,,,,,,,,Connecté,Ouest,Non,,,,,,,,,Ouest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,Après la signature de l’acte,Bon,6 m,3,Urbain,150 m²,40 m²,Hyper équipée,3,,,,1,2,,Non,Oui,Non,318 kWh/m²,D,20210919-0002466083-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,,,Zone non inondable,,359.000 €,Non,,,1928,,140 m²,609 €,247 m²,,,,,1,20 m²,Non,Non,,,,,Oui,Oui,Non,Non,Non,Oui,Non,Non,Non,8 m,Connecté,Est,Non,Non,Non,Non,20 m²,,,,,Est,Non,Non,Non,Non,Non,Non,Non,Oui,,,,,,,,,,,,,,1,,,,,,,"Oui, conforme",
+102,,Fraîchement rénové,,2,Urbain,222 m²,,Équipée,3,,,,2,3,,Non,Oui,Oui,317 kWh/m²,D,20200810-0002258497-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Non,,Zone d'habitat mixte (habitat & activité économique),589.000 €,Oui,"Korte Nieuwstraat 16
+2000 - Antwerpen",4406129,1970,Oui,,2.218 €,144 m²,Oui,Non,,Oui,1,,Non,,,,,,,,,,,,,,,,Connecté,,,,,,,,,,,,,Non,,,,,Non,,,,,,,,,,,,,,1,,,,,,,,,
+103,À définir,Bon,,,,28 m²,Équipée,20 m²,18 m²,9 m²,Non,,,Non,,180 m²,Oui,,C,20210604-0002424640-RES-1,Non communiqué,Non communiqué,Non,,,,,,,339.000 €,Non,"Leopoldstraat 37
+2800 - Mechelen",,,,,,,Connecté,,,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,1,,,,,,,,,,Oui,245 kWh/m²,Oui,,,,3,,,,,,,,,,,,,,,,,,,,,,,,160 m²,,,,,,,,,Ouest,,
+104,À définir,Bon,,,,562 m²,,Équipée,5,,,,,3,,Non,Oui,,166 kWh/m²,B,Non communiqué,Non communiqué,Non communiqué,Non,,,Oui,Non,,,849.000 €,Non,"Orteliuskaai, 8
+2000 - Antwerpen",,,Oui,,,600 m²,Oui,Non,,Oui,,,,,,,,,Non,,,,,,,,,,Connecté,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+105,,Bon,,2,Urbain,114 m²,,Équipée,2,,,,1,2,,Non,,,262 kWh/m²,C,20210915-0002464294-RES-1,Non communiqué,Non communiqué,,Gaz,,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",269.900 €,Non,"Turnhoutsebaan 98
+2100 - Deurne",D2100-21038,1950,,,681 €,94 m²,,Non,,Oui,,7 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+106,,Excellent état,,2,Urbain,130 m²,,Équipée,3,,,,1,2,,Non,,,413 kWh/m²,E,20210910-0002462622-RES-1,Non communiqué,Non communiqué,,Gaz,,Oui,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",329.900 €,Non,"Turnhoutsebaan 98
+2100 - Deurne",D2100-21037,1930,,18 m²,701 €,114 m²,,Non,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,
+107,À définir,Bon,5 m,2,Aménagé,200 m²,25 m²,Équipée,5,10 m²,14 m²,20 m²,1,2,35 m²,Non,Oui,Oui,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,Oui,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",370.000 €,Non,,,,,55 m²,743 €,155 m²,,Non,,Oui,,,Non,Oui,,,,20 m²,Non,,Non,Non,Non,Non,Non,Non,Non,,Connecté,Sud-est,Non,Non,Non,Non,27 m²,,,,,,Non,Non,Non,Oui,Non,Non,Non,Oui,,,,,,,,12 m²,,,,,,,,,,,,,,
+108,À définir,,,2,,252 m²,,,6,,,,2,2,,,,,110 kWh/m²,B,20210429-0002408596-RES-1,Non communiqué,Non communiqué,Non,Gaz,,Oui,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",449.000 €,Non,"Liersesteenweg 2
+2640 - Mortsel",,1957,,,1.360 €,247 m²,Oui,Non,,Oui,1,,,,,,,,,,,,,,,,,,,,,,,,,,4488743,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,
+109,Bon,2,,25 m²,,,Oui,2,20 m²,9 m²,1,,1,9 m²,Oui,,,,C,20160215-0001833695-1,Non communiqué,Non communiqué,Gaz,,Non,Non,Non,Zone non inondable,249.000 €,,,"Sint-Rochusstraat, 62
+2100 - Deurne",Lynn KOCKX,,,,Nord-ouest,Non,Connecté,283 kWh/m²,,,,,,,,,,Équipée,,,,,,,,,,,,50 m²,Oui,Non,,Oui,,,,,,,,,,,,,,,,,,,Oui,,130 m²,,,,,,,,,,Non,"nl :
+Bezoeken: vrije bezichtiging op zaterdag 25/9, 2/10, 9/10 en 16/10 telkens van 10 uur tot 12 uur en op woensdag 29/9, 6/10, 13/10 en 20/10 telkens van 14 uur tot 16 uur.",Après la signature de l’acte,260 €,,,
+110,Après la signature de l’acte,À rafraîchir,,3,,170 m²,,,3,,,,1,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",410.000 €,Non,"Sint-Katelijnevest 24
+2000 - Antwerpen",4491227,1963,,,,244 m²,Oui,Non,,Oui,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Randgemeenten,,,,,,,,1,,,,,,,,,
+111,,,,,,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Oui,Non,Zone non inondable,,,Non,"Lange Lozanastraat 270 bus 3
+2000",,,,,,,,Non,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,P0022_H,,,,,,,,,,,,,,,,,,Toutes sortes,,,,,Non,,,,,,,,,,
+112,Après la signature de l’acte,,,2,Urbain,30 m²,Hyper équipée,2,11 m²,7 m²,1,,1,143 m²,,,Oui,,B,0002434839,Non communiqué,Non communiqué,Gaz,,Oui,Zone non inondable,,,"Zone d'habitat (résidentiel, urbain ou rural)",199.000 €,361 €,"Nerviërslei 6
+2900 - Schoten",4522259,,,,,Non,Connecté,Oui,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,199 kWh/m²,,,,,,,,,,,,,,,,96 m²,,,,,,,,,,,
+113,1965,,,,,1,,,198 m²,,,,312 kWh/m²,,,,,,20210901-0002458867-RES-1,Non communiqué,Non communiqué,Oui,Non,,,,Zone non inondable,250.000 €,1.088 €,,,Filip VAN de STRAETE,,,157 m²,,,"Cruyslei, 88
+2100 - DEURNE",D,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,Non,"nl :
+op zondagen van 15u-17u en op woensdagen van 17u-19u vanaf zo. 17/10/2021 tem woe. 17/11/2021",Après la signature de l’acte,Non,,,
+114,,Fraîchement rénové,,2,,140 m²,,Semi-équipée,4,,,,2,2,,Non,,,379 kWh/m²,D,20190905-0002192566-res-1,13 kg CO₂/m²,Non communiqué,Non,,Oui,,,,,298.000 €,Non,"Hagedoornlaan 1
+2970 - Schilde",135 - 1394,,Oui,75 m²,618 €,166 m²,,,,,,,,,,,,,,,,,,,,,,,,Sud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+115,1969,,,1,,Équipée,,2,Oui,,,,84 m²,,,,,,20210525-0002420164-RES-1,Non communiqué,Non communiqué,Oui,Zone non inondable,,,,,,1.244 €,,,Ann-Sophie ICKROTH,,,2,,,"Amerikalei, 163
+2000 - ANTWERPEN",333 kWh/m²,D,,,,189 m²,,,,,5,,,,Oui,,,,,,,,,,,,,150.000 €,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,Non,"nl :
+elke woe. van 16u-18u & elke zat van 10u-12u, vanaf 22/9 tem 23/10",Après la signature de l’acte,Non,,,
+116,Après la signature de l’acte,Bon,,2,Urbain,120 m²,,,6,,,,3,,,Non,Oui,Oui,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,Oui,Oui,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",485.000 €,Oui,,,1964,,,,228 m²,,Non,,Oui,,,Non,Oui,,Oui,,,Non,Oui,Non,Non,Non,Oui,Non,Non,Non,,,,Non,Non,Non,Non,,,,,,,Non,Non,Non,Non,Non,Non,Non,Oui,120 m²,100,,,,,Immeuble à appartements,,,,,Non,1,,,,,,,,,
+117,1946,,,122 m²,,Oui,,,421 kWh/m²,,,,,,,,,,20210825-0002455327-RES-1,Non communiqué,Non communiqué,Oui,Oui,,,,,95.000 €,322 €,,,Jordy AUBRY,,,2,,,"Jules Moretuslei, 342
+2610 - Wilrijk",E,,,,Zone non inondable,,,,,,3,76 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,Non,"nl :
+dinsdag en zaterdag telkens van 11u-12u en dit met ingang vanaf dinsdag 12 oktober 2021",Après la signature de l’acte,Non,,,
+118,1954,,,,,1,,,216 m²,,,,767 kWh/m²,,,,,,20170508-0001958886-1,Non communiqué,Non communiqué,Non,Non,,,,Zone non inondable,175.000 €,899 €,,,Filip VAN de STRAETE,,,111 m²,,,"Cruyslei, 88
+2100 - DEURNE",F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,Non,"nl :
+op woe. 29/09 + 6/10 + 13/10 + 20/10 + 27/10 van 17u-19u / op zo. 26/09 + 3/10 + 17/10 + 24/10 en op zat. 9/10 van 15u-17u",Immédiatement,Non,,,
+119,1931,,,,,2,,,144 m²,,,,604 kWh/m²,,,,,,20170802-000198229-1,Non communiqué,Non communiqué,Non,Oui,,,,Zone non inondable,239.000 €,1.034 €,,,Elissa SUREDA-CASTELLO,,,150 m²,,,"Van Breestraat, 33
+2018 - ANTWERPEN",F,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,Non,"nl :
+elke ma. en woe. van 17u-19u vanaf 6/09/2021",Après la signature de l’acte,Non,,,
+120,,À rénover,,2,,300 m²,,Semi-équipée,3,,,,,5,,Non,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,,Oui,,,,,295.000 €,Non,"Hagedoornlaan 1
+2970 - Schilde",288 - 1482,,,,,177 m²,,,,,,,,,,,,,,,,,,,,,,5.5 m,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+121,1961,,,,,,,1,187 m²,,,,517 kWh/m²,,,,,,20140404-0001568226-00000006-9,Non communiqué,Non communiqué,Non,Non,,,,Zone non inondable,170.000 €,1.135 €,,,Sofie MARCELO,,,Oui,,,"Van Eycklei, 21
+2018 - ANTWERPEN",F,,,,,,,,,,Équipée,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,Non,"nl :
+di. 14-21-28/09 en 05/10 : 16u-18u en zat. 18-25/09 en 02-09/10 : 10u-12u",Après la signature de l’acte,Non,,,
+122,2,,,1,,,,1,Oui,,,,204 kWh/m²,,,,,,20210531-0002422823-RES-1,Non communiqué,Non communiqué,Non,Non,,,,Zone non inondable,209.500 €,964 €,,,Koen DE RAEYMAECKER,,,,,,"Quinten Matsyslei, 28
+2018 - ANTWERPEN",,C,,,,Oui,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Équipée,,,,,Non,"nl :
+sleutel af te halen op het notariskantoor na tel. afspraak en mits het betalen v/e borgsom",Après la signature de l’acte,Non,,,
+123,À la livraison,,,,,,,,,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Non,Oui,,,,Oui,"Bischoppenhoflaan 284
+2100 - Deurne",,,,,,,,Non,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+124,Après la signature de l’acte,,,4,,314 m²,,,,,,,,,,Non,Non,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,Non,,,,,250.000 €,Oui,,,,,,,200 m²,,,,,,,,,,,,,Non,,Non,Non,Non,Oui,Non,Non,Non,,,,Non,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,Toutes sortes,,,,,,,,,,,,,,,
+125,Selon le locataire,À rafraîchir,6 m,2,,213 m²,,Pas équipée,3,24 m²,13 m²,11 m²,2,3,,Non,Oui,,841 kWh/m²,F,20211005-0002472930,Non communiqué,Non communiqué,Non,Gaz,,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",289.000 €,Oui,"Bischoppenhoflaan 284
+2100 - Deurne",38183 - DEU-21-LDD-0,1933,Oui,,2.570 €,99 m²,,Non,,Oui,,6 m²,,,,,,,,,,,,,,,,6 m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+126,Après la signature de l’acte,Fraîchement rénové,5 m,2,,120 m²,,Équipée,3,,,,1,2,,Non,Oui,,150 kWh/m²,B,2365712,Non communiqué,Non communiqué,Non,Gaz,Oui,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",325.000 €,Non,"Antwerpsestraat 292
+2640 - Mortsel",10456 - 6061,1918,Oui,75 m²,771 €,152 m²,,Non,,Oui,,,,,,,,,,,,,,,,,,5 m,,Est,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+127,,Bon,,2,Urbain,150 m²,,Semi-équipée,4,,,,1,2,,Non,,,339 kWh/m²,D,20210526-0002420596-RES-1,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",289.900 €,Non,"Turnhoutsebaan 98
+2100 - Deurne",D2100-21019,1935,,12 m²,728 €,82 m²,,Non,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+128,Après la signature de l’acte,Fraîchement rénové,,2,,39 m²,Équipée,23 m²,23 m²,19 m²,18 m²,16 m²,4,Oui,,195 m²,,,D,20210424-0002406045-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",779.000 €,1.080 €,"Turnhoutsebaan 121
+2100 - Deurne",8275 - 18304,,1923,Non,27 m²,Non,7.15 m,,,,,,319 kWh/m²,,,,,,10 m²,,,,,,,,,,60 m²,,,,,,,5,,,,,,,,,,,,,,,,,,,,,2,,,307 m²,,,,,,,,,,,
+129,À définir,Excellent état,,2,,239 m²,20 m²,Semi-équipée,4,31 m²,17 m²,17 m²,1,2,,Non,Oui,,192 kWh/m²,B,2016122700019218581,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",499.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",38343 - DEU-21-LDD-0,1927,Oui,36 m²,651 €,210 m²,,Oui,,Oui,1,,,,,,,8 m²,,,,,,,,,,7 m,,Est,,,,,24 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1 avril 2022 - 00:00
+130,,,,2,,392 m²,,Semi-équipée,7,,,,7,7,,Non,Oui,,140 kWh/m²,B,20201216-0002350327-RES-2,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",975.000 €,Oui,"Bredabaan, 896
+2170 - Merksem",19769 - SIA/21/005,1974,,57 m²,4.015 €,250 m²,,Non,,Oui,2,2 m²,,,,,,,,,,,,,,,,9.1 m,,Sud,,,,,,,,,,,,,,,,,,,,,,,Bosuil,,,,,,,,2,,,,,,,,,
+131,,,,2,,392 m²,,Semi-équipée,7,,,,7,7,,Non,Oui,,145 kWh/m²,B,20160811-0001886257-1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",975.000 €,Oui,"Bredabaan, 896
+2170 - Merksem",19768 - SIA/21/003,1972,,53 m²,4.238 €,250 m²,,Non,,Oui,2,2 m²,,,,,,,,,,,,,,,,9.1 m,,Sud,,,,,,,,,,,,,,,,,,,,,,,Bosuil,,,,,,,,2,,,,,,,,,
+132,Après la signature de l’acte,Bon,,2,,140 m²,,Semi-équipée,2,,,,1,2,,Non,Oui,,515 kWh/m²,F,202110050002472966RES1,Non communiqué,Non communiqué,Non,Gaz,,Non,Non,Zone non inondable,,315.000 €,Oui,"Bischoppenhoflaan 284
+2100 - Deurne",39253 - DEU-21-LDD-1,1960,Oui,40 m²,1.275 €,200 m²,,,,Oui,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+133,Après la signature de l’acte,Bon,5 m,2,"Zone d'habitat (résidentiel, urbain ou rural)",156 m²,36 m²,Semi-équipée,4,20 m²,18 m²,9 m²,1,2,,Non,Oui,,256 kWh/m²,C,20111206000098917000000061,Non communiqué,Non communiqué,Non,Gaz,,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",355.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",38518 - DEU-21-LDD-0,1930,,40 m²,820 €,135 m²,,Oui,,Oui,,,,,,,,7 m²,,,,,,,,,,5 m,,Sud-est,,,,,11 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+134,Après la signature de l’acte,À rénover,,2,,173 m²,34 m²,Pas équipée,3,,,,2,1,,Non,,,848 kWh/m²,F,202109300002470905RES1,Non communiqué,Non communiqué,Non,Électrique,,Non,Oui,Zone non inondable,,235.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",38802 - DEU-21-LDD-0,1934,Oui,,741 €,144 m²,,Non,,Oui,1,17 m²,,,,,,,,,,,,,,,,5 m,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+135,Après la signature de l’acte,Bon,,2,,149 m²,,Semi-équipée,3,,,,2,2,,Non,,,337 kWh/m²,D,20211008-0002474475-RES-1,Non communiqué,Non communiqué,Non,Gaz,,,,Zone non inondable,,350.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",36694 - DEU-21-NST-0,1955,,,,257 m²,,,,,1,,,,,,,,,,,,,,,,,6 m,,Sud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,
+136,À définir,Bon,,2,,114 m²,,Américaine semi-équipée,2,,,,1,1,,Non,,,822 kWh/m²,F,202111012-0002470937-RES-1,Non communiqué,Non communiqué,Non,Gaz,,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",199.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",39203 - DEU-21-NST-0,1937,,,379 €,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+137,Après la signature de l’acte,À rafraîchir,5 m,2,,120 m²,30 m²,Semi-équipée,2,16 m²,12 m²,,1,2,,Non,Oui,,686 kWh/m²,F,2364073,Non communiqué,Non communiqué,Non,Électrique,,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",215.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",38529 - DEU-21-LDD-0,1938,Oui,,,86 m²,,Non,,Oui,,16 m²,,,,,,,,,,,,,,,,,,Sud,,,,,15 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,
+138,À définir,Excellent état,,2,,120 m²,,Semi-équipée,2,14 m²,13 m²,,2,2,,Non,Oui,,392 kWh/m²,D,20160725-0001876515-1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",375.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",35415 - DEU-21-LDD-0,1938,Oui,94 m²,639 €,200 m²,,Non,,Oui,,16 m²,,,,,,,,,,,,,,,,6 m,,Nord,,,,,12 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+139,Après la signature de l’acte,Bon,,2,,182 m²,22 m²,Semi-équipée,5,13 m²,13 m²,9 m²,2,3,,Non,Oui,,156 kWh/m²,B,20210318-0002389039-RES-1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",385.000 €,Oui,"Bischoppenhoflaan 284
+2100 - Deurne",34231 - DEU-21-LDD-0,1965,,44 m²,1.698 €,116 m²,,Non,,Oui,1,,,,,,,8 m²,,,,,,,,,,5.5 m,,Sud-est,,,,,7 m²,,,,,,,,,,,,,,,,,,,,,8 m²,,,,,,,,,,,,,,
+140,Selon le locataire,Bon,,2,,231 m²,,Semi-équipée,4,,,,1,2,,Non,,,414 kWh/m²,E,0002448331,Non communiqué,Non communiqué,Non,Gaz,,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",399.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",39647 - DEU-21-NST-0,1954,,,1.271 €,174 m²,Oui,,,Oui,,,,,,,,,,,,,,,,,,,,Sud-ouest,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,Oui,,
+141,Après la signature de l’acte,Excellent état,,2,,234 m²,20 m²,Semi-équipée,2,16 m²,16 m²,,1,1,,Non,Oui,,263 kWh/m²,C,202110060002473330RES1,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Oui,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",249.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",34187 - DEU-21-LDD-1,,,30 m²,612 €,110 m²,,Non,,Oui,,13 m²,,,,,,,,,,,,,,,,,,Sud,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+142,Après la signature de l’acte,Bon,,2,,150 m²,30 m²,Semi-équipée,3,13 m²,11 m²,8 m²,2,2,,Non,,,110 kWh/m²,B,20210621-0002431687,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Oui,Zone non inondable,,239.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",39237 - DEU-21-LDD-0,1930,Oui,45 m²,,98 m²,Oui,,,Oui,,,,,,,,,,,,,,,,,,,,Est,,,,,5 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+143,,Fraîchement rénové,,2,,179 m²,25 m²,Semi-équipée,5,,,,1,1,,Non,,,293 kWh/m²,C,Non communiqué,Non communiqué,Non communiqué,Non,,,,,,,359.000 €,Non,"Gitschotellei 106
+2600 - Berchem",,,,230 m²,639 €,316 m²,,,,,,,,,,,,,,,,,,,,,,4.5 m,,,,,,,,,1757 - 1971,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+144,Après la signature de l’acte,À rafraîchir,5 m,2,"Zone d'habitat (résidentiel, urbain ou rural)",304 m²,35 m²,Semi-équipée,1,26 m²,15 m²,,1,3,,Non,Oui,,470 kWh/m²,E,Certificaat-20210901-0002458695-RES-1.pdf,Non communiqué,Non communiqué,Non,Gaz,,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",395.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",38549 - DEU-21-LDD-0,,Oui,55 m²,889 €,135 m²,,Non,,Oui,2,12 m²,,,,,Oui,,,,,,,,,,,5 m,,,,,,,10 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+145,Selon le locataire,À rafraîchir,,2,,123 m²,,,3,,,,1,,,Non,,,380 kWh/m²,D,202108190002448591RES3,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Oui,Zone non inondable,Zone d'extension d'habitat,227.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",35479 - DEU-21-LDD-0,1936,Oui,20 m²,612 €,95 m²,,,,Oui,,,,,,,,,,,,,,,,,,,,Sud-est,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+146,,Bon,5 m,,,35 m²,Équipée,15 m²,20 m²,18 m²,17 m²,14 m²,2,Oui,,280 m²,,,C,Certificaat-20210421-0002404665-RES-1.pdf,Non communiqué,Non communiqué,Non,Gaz,Oui,365.000 €,,,,,275 €,"Fruithoflaan, 1
+2600 - Berchem",13687 - 372398,,,Non,,Non,297 kWh/m²,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,126 m²,,,,,,,,,,,
+147,Après la signature de l’acte,Excellent état,5 m,2,"Zone d'habitat (résidentiel, urbain ou rural)",190 m²,26 m²,Semi-équipée,4,18 m²,18 m²,13 m²,1,2,,Non,Oui,,259 kWh/m²,C,Certificaat-20210916-0002465040-RES-1.pdf,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",347.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",38540 - DEU-21-LDD-0,,Oui,38 m²,,110 m²,,Non,,Oui,,,,,,,,12 m²,,,,,,,,,,,,Sud,,,,,31 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+148,Après la signature de l’acte,Excellent état,,2,,187 m²,28 m²,Semi-équipée,4,20 m²,20 m²,13 m²,2,2,,Non,,,443 kWh/m²,E,20120812-00011838470000001-9,Non communiqué,Non communiqué,Non,Gaz,Oui,Non,Oui,Zone non inondable,Zone d'extension d'habitat,267.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",35710 - DEU-21-LDD-0,1997,Oui,,,,,Non,,Oui,,,,,,,Oui,13 m²,,,,,,,,,,,,,,,,,10 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+149,À définir,Excellent état,,2,,208 m²,40 m²,Équipée,2,24 m²,21 m²,,1,1,,Non,,,345 kWh/m²,D,20210129-0002366005-RES-1,Non communiqué,Non communiqué,Non,Gaz,,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",399.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",35484 - DEU-21-LDD-0,,,,,160 m²,,Non,,Oui,3,,,,,,Oui,,,,,,,,,,,,,Sud-ouest,,,,,11 m²,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,Oui,,1 mars 2022 - 00:00
+150,Après la signature de l’acte,Fraîchement rénové,4 m,2,,94 m²,30 m²,Équipée,2,12 m²,9 m²,,1,2,17 m²,Non,Oui,Oui,199 kWh/m²,B,20210304-0002382036-RES-1,Non communiqué,Non communiqué,,Gaz,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",259.000 €,Non,,,1919,,,498 €,60 m²,,Non,,Oui,,10 m²,Non,Non,,,Oui,,Non,Oui,Non,Non,Non,Oui,Non,Non,Oui,,Connecté,,Non,Non,Non,Non,8 m²,,,,,,Non,Non,Non,Non,Non,Non,Non,Non,,,,,,,Toutes sortes,,,,,,,,,,,,,,,
+151,À définir,Excellent état,5 m,2,Urbain,111 m²,,Équipée,3,,,,1,2,,Non,Oui,Non,262 kWh/m²,C,2452613,Non communiqué,Non communiqué,,Gaz,Oui,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",329.000 €,Non,,,1925,Oui,80 m²,669 €,160 m²,,,,,,8 m²,Non,Non,,,,,Non,,Non,Non,Non,Oui,Non,Non,Oui,5 m,Connecté,Sud-ouest,Non,Non,Non,Non,,,,,,Sud-ouest,Non,Non,Non,Non,Non,Non,Non,Oui,,,,,,,,,,,,,,,,,,,,,,
+152,Après la signature de l’acte,À rénover,,2,,113 m²,,,2,13 m²,13 m²,,1,1,,Non,,,519 kWh/m²,F,20210817-0002452406-RES-1,Non communiqué,Non communiqué,Non,Mazout,,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",230.000 €,Non,"Bischoppenhoflaan 284
+2100 - Deurne",36565 - DEU-21-NST-0,,,,,128 m²,,Non,,Oui,,,,,,,,,,,,,,,,,,,,Sud-ouest,,,,,12 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,
+>>>>>>> 06516ce08ceb4f30e30c3ab16598250fbae8353c
