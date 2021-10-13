@@ -6,9 +6,9 @@ The goal of this project is to create web-scraping algorithms that can build dat
 
 The program currently has two functional scrapers and one in development.
 
-1. [immoweb](https://www.immoweb.be/fr)
-2. [immo elissa](https://immoelissa.be/)
-3. [zimmo *in development*](https://www.zimmo.be/nl/)
+1. [x] [immoweb](https://www.immoweb.be/fr)
+2. [x] [immo elissa](https://immoelissa.be/)
+3. [ ] [zimmo *in development*](https://www.zimmo.be/nl/)
 
 ### Tech
 
@@ -16,9 +16,9 @@ All libraries make extensive use of the *Selenium* library.
 
 Scrapers are structured into 3 main methods:
 
-- readAdPage: gathers all the data from each individual ad page
-- page_advert_urls: gathers all the links to each individual ad of a search page
-- readPagination: cycles through all the pages that contain all the links to individual pages.
+- **readAdPage**: gathers all the data from each individual ad page
+- **page_advert_urls**: gathers all the links to each individual ad of a search page
+- **readPagination**: cycles through all the pages that contain all the links to individual pages.
 
 ### Roadmap
 
