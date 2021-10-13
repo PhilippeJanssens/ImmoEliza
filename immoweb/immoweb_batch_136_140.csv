@@ -1,0 +1,292 @@
+,État du bâtiment,Salon,Type de cuisine,Chambres,Dressing,Toilettes,Bureau,Meublé,Surface du terrain,Consommation d'énergie primaire,Classe énergétique,Numéro du rapport PEB,Emission CO₂,Consommation théorique totale d'énergie primaire,Attestation de conformité des citernes à mazout,Type de chauffage,Pompe à chaleur,Double vitrage,Permis de bâtir obtenu,Obligation de construire,Autorisation de lotissement,Droit d'achat prioritaire possible,Procédure pour violation de la réglementation urbanistique,Type de zone inondable,Affectation urbanistique la plus récente sur la base des dénominations utilisées dans le registre des plans,Prix,Immeuble de rapport,Adresse,Site internet,À partir de,Année de construction,Nombre de façades,Visite virtuelle,Surface habitable,Salles de bains,Espace professionnel,Cave,Porte blindée,Raccordement à l'égout,"Eau, gaz & électricité",Ascenseur,Accessible aux personnes avec un handicap,Accès sécurisé / alarme,Niveau E (performance énergétique globale),Panneaux photovoltaïques,Panneaux solaires,Chauffe-eau commun,Revenu cadastral,Surface du salon,Surface de la cuisine,Surface de la cave,Largeur de la façade à rue,Parkings intérieurs,Parkings extérieurs,Type d’environnement,Surface de la chambre 1,Surface de la chambre 2,Surface de la chambre 3,Buanderie,Surface de bureau,Terrain à front de rue,Terrain boisé,Terrain arrière,Terrain plat,Surface du jardin,Orientation du jardin,Surface de la terrasse,Orientation de la terrasse,Nombre d'annexes,Concierge,Parlophone,Climatisation,Interphone vidéo,Jacuzzi,Sauna,Piscine,Internet,Salle à manger,Largeur du terrain à rue,Quartier ou lieu-dit,Surface de la chambre 4,Grenier,Surface constructible totale au sol,Disponible le,Salles de douche,Terrasse,Surface du grenier,Référence externe,Type de construction,Lieu de la vente,Séance unique,Modalités de visite,Mise à prix,Combien de feux ouverts ?,Jardin,Surface de l'espace professionnel,Attestation as-built,Isolé,Surface de la chambre 5,Nom de l'agent,Pourcentage loué
+0,Bon,Oui,Équipée,3,Non,2,Non,Non,347 m²,533 kWh/m²,F,20210519-0002417326-res-1,Non communiqué,Non communiqué,Non,Mazout,Non,Oui,Oui,Non,Non,Non,Non,Bien immobilier situé tout ou en partie dans une zone inondable délimitée,"Zone d'habitat (résidentiel, urbain ou rural)",395.000 €,Non,"Leuvensestraat 170
+1800 - Vilvoorde",Steenvoorde,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Bon,,4,3,,,Oui,Non,Connecté,F,Non communiqué,Non communiqué,Non communiqué,618,,Non,Non,Oui,Non,,Non,Non,Zone inondable potentielle,Zone agricole,899.000 €,2.375 €,"Ninoofsesteenweg, 255
+1700 - Dilbeek",,,À définir,1850,4,399 m²,Hyper équipée,Oui,Oui,Non,618 kWh/m²,Oui,Non,Non,Oui,Non,Gaz,Non,Non,Oui,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,Bon,,,3,,,,Non,869 m²,842 kWh/m²,F,Non communiqué,Non communiqué,Non communiqué,,Mazout,Non,Oui,Oui,,Non,Non,Non,Zone non inondable,Zone agricole,379.000 €,Non,"Ninoofsesteenweg, 255
+1700 - Dilbeek",,Après la signature de l’acte,1962,4,,178 m²,2,,,Oui,Connecté,Oui,Non,Non,Non,842,Non,Non,Non,1.162 €,33 m²,20 m²,11 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,À rénover,,,3,Non,2,Oui,Non,620 m²,Non communiqué,Non communiqué,20140505-0001580631-00000020-6,Non communiqué,Non communiqué,"Oui, conforme",Gaz,Non,Oui,,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",379.000 €,Non,,,Après la signature de l’acte,1918,3,,234 m²,2,Oui,,Non,Connecté,Oui,Non,Non,Non,,Non,Non,Non,1.232 €,28 m²,19 m²,13 m²,12 m,1,4,Pays,36 m²,16 m²,16 m²,Oui,20 m²,Non,Non,Non,Non,478 m²,Ouest,1 m²,Ouest,1,Non,Non,Non,Non,Non,Non,Non,Oui,,,,,,,,,,,,,,,,,,,,,,,,
+4,Excellent état,,,1,,3,,Oui,839 m²,Non communiqué,Non communiqué,Non communiqué,66 kg CO₂/m²,Non communiqué,,Gaz,,Oui,,,,,,,,310.000 €,Non,"Patattestraat 66
+1755 - Kester",Rudi Van Driessche,Après la signature de l’acte,1965,3,,130 m²,1,,,,Connecté,Oui,,,,,,,,502 €,10 m²,7 m²,,8 m,,8,"Zone d'habitat (résidentiel, urbain ou rural)",16 m²,,,,,,,,,,,46 m²,,,,,,,,,,,Oui,8 m,,,,,,,,,,,,,,,,,,,,,,
+5,Bon,,Semi-équipée,4,,1,,Non,1024 m²,Non communiqué,Non communiqué,20210624-0002433358-res-1,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Non,Non,Non,Zone inondable potentielle,"Zone d'habitat (résidentiel, urbain ou rural)",332.000 €,Non,"Ninoofsesteenweg 1036
+1703 - Schepdaal",4395794,Après la signature de l’acte,1959,3,,182 m²,1,,Oui,,Connecté,Oui,Non,,Oui,,,,,728 €,16 m²,10 m²,,7 m,,4,Urbain,16 m²,16 m²,7 m²,,,,,,,730 m²,,48 m²,,,,,,,,,Non,,Oui,10 m,Ternat,21 m²,Oui,177 m²,,,,,,,,,,,,,,,,,,
+6,Bon,,Équipée,3,,2,Oui,Non,500 m²,269 kWh/m²,C,20170915-0001993877-1,Non communiqué,Non communiqué,,Mazout,,Oui,Oui,,,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",385.000 €,Non,"Nieuwstraat 32b1
+1730 - Asse",4446227,Après la signature de l’acte,1981,3,,188 m²,1,,Oui,,Connecté,Non,,,,,,,,1.207 €,44 m²,14 m²,,7 m,1,3,Urbain,13 m²,24 m²,,,6 m²,,,,,290 m²,,,,,,,,,,,,,,7 m,,,Oui,,30 septembre 2021 - 00:00,1,Oui,,,,,,,,,,,,,,,
+7,Bon,,Équipée,2,,2,,,1135 m²,952 kWh/m²,F,Non communiqué,Non communiqué,Non communiqué,,Mazout,,Oui,Oui,,Non,Non,Non,Zone non inondable,,374.000 €,Non,"Astridlaan 1
+1700 - Dilbeek",4437398,Après la signature de l’acte,1963,4,,136 m²,1,,,,,,,,,,,,,899 €,33 m²,12 m²,,,1,2,Urbain,17 m²,12 m²,,,,,,,,,,,,,,,,,,,,,,14.5 m,,,,,,,Oui,,,,,,,,,,,,,,,
+8,Bon,,Hyper équipée,3,,1,,Non,163 m²,268 kWh/m²,C,000246242,Non communiqué,Non communiqué,,Gaz,,,Oui,,,Non,,Zone inondable potentielle,,279.000 €,Non,"Brusselbaan 110
+1790 - Affligem",4513927,Après la signature de l’acte,1979,2,,140 m²,1,,,,Connecté,Oui,,,,,,,,704 €,30 m²,10 m²,,6.75 m,1,3,Urbain,12 m²,12 m²,9 m²,,,,,,,120 m²,,20 m²,,,,,,,,,,,,6.75 m,,,,50 m²,,,,,,,,,,,,,,,,,,
+9,À rénover,,,4,,2,,Non,2430 m²,271 kWh/m²,C,0002279516,Non communiqué,Non communiqué,,,,,Oui,,,Non,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",570.000 €,Non,"Brusselbaan 110
+1790 - Affligem",4518252,Après la signature de l’acte,1980,4,,330 m²,1,,,,Connecté,Non,,,,,,,,,80 m²,20 m²,10 m²,11 m,2,5,Pays,25 m²,25 m²,25 m²,,,,,,,2200 m²,,20 m²,,,,Oui,,Oui,,,,,Oui,18 m,,15 m²,,185 m²,,,,80 m²,,,,,,,,,,,,,,
+10,Bon,,Semi-équipée,3,,1,,,282 m²,302 kWh/m²,D,20210905-0002459423-RES-1,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Non,Non,Non,Zone inondable potentielle,"Zone d'habitat (résidentiel, urbain ou rural)",325.000 €,Non,"Molenstraat 77
+9300 - Aalst",,Après la signature de l’acte,,3,,160 m²,1,,,,Connecté,Oui,,,,,,,,542 €,,16 m²,,7 m,,,Urbain,14 m²,15 m²,8 m²,,,,,,,100 m²,,20 m²,,,,,,,,,,,,8.5 m,Brussel,,Oui,,,1,,,4517414,,,,,,,,,,,,,
+11,Excellent état,,,4,Non,4,Non,,1434 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Mazout,,Oui,,Non,,,,,,799.000 €,Oui,"Edingsesteenweg 91
+1755 - Gooik",P/VW326,,1971,,,304 m²,4,,,,Connecté,Non,Non,Non,Non,,,,,,,,,,4,,,,,,,,Non,Non,Non,Non,,,,,,Non,Oui,,Oui,,,Non,,Oui,,,,,,,,Oui,,,Toutes sortes,,,,,,,,,,,,
+12,Excellent état,Oui,,2,Non,,Non,,275 m²,185 kWh/m²,B,20180424--000205279-8--1,Non communiqué,Non communiqué,,,,Non,Oui,Non,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",295.000 €,Non,"Kortrijksesteenweg 241A
+9830 - Sint-Martens-Latem",DJ126,,,,,99 m²,1,,,,Connecté,Oui,,,,,,,,294 €,,,,,,,,,,,,,Non,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,,2,1,Oui,,,,,F,20210819-0002452948-RES-1,Non communiqué,Non communiqué,Oui,Oui,,,,,Non,,Zone non inondable,175.000 €,,897 €,,,Anouk DE WITTE,,,1970,214 m²,,Oui,Équipée,470 m²,,,,,,,,,,,,,"Brusselsesteenweg, 17
+9280 - LEBBEKE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,854 kWh/m²,,,,,,,,Non,"nl :
+elke di. van 17u-19u en elke zat. van 14u-16u",Après la signature de l’acte,Non,,,,,,,,
+14,4,,,Oui,,,,,D,20210629-0002435419-RES-1,Non communiqué,Non communiqué,Non,Oui,,,,,Non,,Zone non inondable,260.000 €,,1.105 €,,,Kim BORLOO,,,1965,À rafraîchir,1,1,,Oui,,1650 m²,,,,,,,,,Non,,"Kapellestraat, 13
+1760",,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,319 kWh/m²,,,,,,,,Non,"nl :
+elke woensdag van 18u tot 19u en zaterdag van 14u tot 16u vanaf zaterdag 28/8 t.e.m. zaterdag 25/9 en ook nog zaterdag 2/10",Après la signature de l’acte,Non,,,,,,,,
+15,Bon,,Hyper équipée,3,,,,Non,786 m²,560 kWh/m²,F,Non communiqué,Non communiqué,Non communiqué,,Électrique,Non,Oui,Oui,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",389.000 €,Non,"Ninoofsesteenweg, 255
+1700 - Dilbeek",,Après la signature de l’acte,1987,3,,158 m²,1,,,Non,Connecté,Oui,,,,560,Non,Non,Non,937 €,35 m²,10 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bungalow,,,,,,,,,,,,
+16,Bon,,,4,,,Oui,Non,428 m²,322 kWh/m²,D,Non communiqué,Non communiqué,Non communiqué,,Gaz,Non,Oui,Oui,,Non,Non,Non,Zone d'inondation reconnue,"Zone d'habitat (résidentiel, urbain ou rural)",489.000 €,Non,"Ninoofsesteenweg, 255
+1700 - Dilbeek",,Après la signature de l’acte,1933,4,,327 m²,2,Oui,,Non,Connecté,Oui,,,,322,Non,Non,Non,929 €,49 m²,28 m²,23 m²,,,,,,,,,14 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Villa,,,,,,,,,,,,
+17,,,Hyper équipée,3,Non,2,Non,,302 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,,,,,,,,387.525 €,Non,"Burgemeester De Cocklaan 10/1
+9320 - Aalst",SDB21051916,,,,,170 m²,1,,,,Connecté,Oui,,,,,,,,,,,,6.5 m,,,,,,,Oui,,Non,Non,Non,Non,,,,,,,,,,,,,,Oui,9.51 m,,,,,,,,,,,,,,,,,,,,,,
+18,Excellent état,,Équipée,5,,2,,,381 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",520.000 €,,"Fazantenlaan 24a
+9320 - Erembodegem",,Après la signature de l’acte,,4,,201 m²,1,,,,Connecté,Oui,,,,27,Oui,,,996 €,30 m²,,,10.5 m,,3,"Zone d'habitat (résidentiel, urbain ou rural)",,,,Oui,,,,,,,Sud-ouest,30 m²,,,,,,,,,,,,21.8 m,,,Oui,,,,,,,,,,,,1,Oui,,,,,,
+19,Excellent état,,Équipée,2,,1,,Non,477 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,,,,,,,,272.000 €,,"Patattestraat 66
+1755 - Kester",Rudi Van Driessche,Après la signature de l’acte,1925,3,,130 m²,1,,,,Connecté,Oui,,,,,,,,534 €,16 m²,,,,,3,"Zone d'habitat (résidentiel, urbain ou rural)",13 m²,14 m²,,,,,,,,,,10 m²,,1,,,,,,,,,Oui,,,,,,,,,21 m²,,,,,,,,,,,,,,
+20,Bon,Oui,Équipée,3,Non,1,Non,Non,160 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Mazout,Non,Non,,,,,,,,340.000 €,Non,,,Immédiatement,1974,3,,,1,Non,,Non,,Non,Non,Non,Non,,Non,Non,Non,600 €,,,,12 m,1,1,,,,,,,Non,Non,Non,Non,60 m²,Sud-ouest,30 m²,,,Non,Oui,Non,Oui,Non,Non,Non,Oui,Oui,,,,,,,,,,,Toutes sortes,,,,,,,,,,,,
+21,Excellent état,,Hyper équipée,4,,2,Oui,Non,2600 m²,365 kWh/m²,D,20210123-0002335449-RES-1,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,,,,Zone non inondable,,619.000 €,Non,"Ninoofsesteenweg 234B
+1700 - Dilbeek",4373519,,1985,3,,254 m²,2,,,,Connecté,Oui,,,,,,,,952 €,40 m²,25 m²,,,1,9,Isolé,13 m²,11 m²,15 m²,,15 m²,,,,,2000 m²,,35 m²,,,,,,,,,,,Oui,,Andere Vlaams-Brabant,14 m²,,,,2,,,,,,,,,,,120 m²,,,,,
+22,,Oui,,3,Non,2,Non,Non,242 m²,152 kWh/m²,B,20111113-0000965285-00000006-6,Non communiqué,Non communiqué,,Gaz,Non,Oui,,,,Non,,Zone non inondable,,349.000 €,Non,,,À définir,2004,3,,161 m²,1,Non,,Non,Connecté,Oui,,,,24493,Non,Non,Non,822 €,,,,,,,,,,,Oui,,Non,Non,Non,Non,1 m²,,1 m²,,,,,,,,,,,,,,,,,,1,,33 m²,,,,,,,,,,,,,,
+23,À rafraîchir,,Semi-équipée,5,,1,,,1950 m²,1008 kWh/m²,F,0001512362-00000001-1,Non communiqué,Non communiqué,,,,,Oui,,Non,Non,Non,Zone inondable potentielle,"Zone d'habitat (résidentiel, urbain ou rural)",650.000 €,Non,"Molenstraat 77
+9300 - Aalst",,Après la signature de l’acte,,4,,182 m²,1,,Oui,,Connecté,Non,,,,,,,,,30 m²,4 m²,,,,20,Urbain,16 m²,15 m²,21 m²,,,,,,,,,,,,,,,,,,,,,,,20 m²,Oui,,,,Oui,,4381127,,,,,,,,,,,,,
+24,À rénover,,,3,,1,,,1312 m²,413 kWh/m²,E,2430789,Non communiqué,Non communiqué,"Oui, conforme",Mazout,,,,,,Non,,Zone non inondable,,495.000 €,,"Abdijstraat 26
+9400 - Ninove",,Après la signature de l’acte,,4,,,1,,,,,Oui,,,,,,,,,40 m²,12 m²,,,1,2,"Zone d'habitat (résidentiel, urbain ou rural)",14 m²,13 m²,14 m²,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,
+25,À rafraîchir,,Équipée,1,,,,,9600 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,Oui,,,,Non,Zone non inondable,Zone agricole,400.000 €,,"Fazantenlaan 24a
+9320 - Erembodegem",,Après la signature de l’acte,,4,,,1,,,,Non connecté,Non,,,,,,,,650 €,,,,,,,Pays,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+26,,,,3,Non,,Non,,150 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Non,,Non,,,,,,453.900 €,Non,"206 Moorselestraat
+8930 - Menen",,,,,,,,,,,Non connecté,Non,,,,,,,,,,,,,,,,,,,,,Non,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,DVL-Sint-Katherina-L,Toutes sortes,,,,,,,,,,,,
+27,À rafraîchir,,Semi-équipée,4,,2,,Non,647 m²,321 kWh/m²,D,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,,,,,,Zone non inondable,,349.000 €,Non,"Nieuwstraat 32b1
+1730 - Asse",4433493,Après la signature de l’acte,1900,2,,200 m²,1,,Oui,,Connecté,Oui,,,,,,,,,40 m²,17 m²,,12.32 m,1,2,Urbain,19 m²,16 m²,14 m²,,,,,,,,,,,,,,,,,,,,,12.32 m,,13 m²,Oui,,,1,Oui,,,,,,,,,,20 m²,,,,,
+28,,,,,,,,,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,Oui,,Oui,,Non,,,,Oui,"Meyskensstraat 222
+1780 - Wemmel",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31 octobre 2022 - 00:00,,,,,,,,,,,,,,,,,
+29,À restaurer,,Semi-équipée,3,,2,Oui,Non,416 m²,462 kWh/m²,E,Certificaat-20210826-0002456329-RES-1.pdf,Non communiqué,Non communiqué,,Gaz,,,Oui,,,Non,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",315.000 €,Non,"Meyskensstraat 222
+1780 - Wemmel",1782419 - 2021/323/M,Après la signature de l’acte,1964,3,,200 m²,1,,,,,Oui,,,,,,,,882 €,60 m²,10 m²,15 m²,,3,2,,18 m²,18 m²,10 m²,,12 m²,,,,,230 m²,,15 m²,,,,,,,,,,,,10 m,,,,,,,,,,,,,,,1,,,Non,,,,
+30,,,Équipée,3,,2,,Non,240 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Oui,Non,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",415.000 €,Non,"Meyskensstraat 222
+1780 - Wemmel",1782527 - 2021/341a/,,2021,3,,137 m²,1,,,,,Oui,,,,30,,,,,30 m²,,,,2,1,,,,,,,,,,,100 m²,Ouest,21 m²,,,,,,,,,,,,10.32 m,,,,,31 octobre 2022 - 00:00,,,,,,,,,,,,,Non,,,,
+31,,,Équipée,3,,2,,Non,240 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Oui,Non,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",435.000 €,Non,"Meyskensstraat 222
+1780 - Wemmel",1782465 - 2021/341b/,,2021,3,,145 m²,1,,,,,Oui,,,,30,,,,,30 m²,,,,2,1,,,,,,,,,,,100 m²,Ouest,21 m²,,,,,,,,,,,,10.32 m,,,,,31 octobre 2022 - 00:00,,,,,,,,,,,,,Non,,,,
+32,,,Équipée,3,,2,,Non,292 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Oui,Non,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",440.000 €,Non,"Meyskensstraat 222
+1780 - Wemmel",1782529 - 2021/341d/,,2021,3,,138 m²,1,,,,,Oui,,,,30,,,,,30 m²,,,,2,1,,,,,,,,,,,100 m²,Ouest,21 m²,,,,,,,,,,,,10.32 m,,,,,31 octobre 2022 - 00:00,,,,,,,,,,,,,Non,,,,
+33,,,Équipée,3,,2,,Non,297 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Oui,Non,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",445.000 €,Non,"Meyskensstraat 222
+1780 - Wemmel",1782528 - 2021/341c/,,2021,3,,145 m²,1,,,,,Oui,,,,30,,,,,30 m²,,,,2,1,,,,,,,,,,,175 m²,Ouest,21 m²,,,,,,,,,,,,10.32 m,,,,,31 octobre 2022 - 00:00,,,,,,,,,,,,,Non,,,,
+34,Excellent état,,Hyper équipée,2,,2,,,91 m²,318 kWh/m²,D,20190211-0001978525-RES2,Non communiqué,Non communiqué,,Gaz,,Oui,,,,,,Zone non inondable,,249.000 €,Non,"Marktstraat 5
+1745 - Opwijk",4528432,Selon le locataire,,3,,83 m²,1,,Oui,,Connecté,Non,,,,,,,,,29 m²,7 m²,,5 m,,,,12 m²,10 m²,,,,,,,,,,34 m²,,,,,,,,,,,,,Opwijk,,,,,,,,,,,,,,,,,,,,,
+35,Bon,,Équipée,3,,2,,,516 m²,830 kWh/m²,F,20210901-0002457953-RES-2,Non communiqué,Non communiqué,,Gaz,,Oui,,,Non,Non,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",359.000 €,Non,"Marktstraat 5
+1745 - Opwijk",4493259,Après la signature de l’acte,1961,4,,175 m²,1,,,,Connecté,Oui,,,,,,,,984 €,34 m²,16 m²,,,1,2,,17 m²,15 m²,14 m²,,,,,,,,,,,,,,,,,,,,,,Opwijk,,Oui,,,,Oui,,,,,,,,,,,,,,,
+36,,,Hyper équipée,2,,2,,Non,117 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Oui,,,,,,Zone non inondable,,392.110 €,Non,"Marktstraat 5
+1745 - Opwijk",4512685,À la livraison,2021,2,,160 m²,1,,,,Connecté,Oui,,,,,,,,,13 m²,11 m²,,,,1,,12 m²,9 m²,,,,,,,,34 m²,,21 m²,,,,,,,,,,,Oui,,,,Oui,,,1,,,,,,,,,,,,,,,,
+37,,Oui,,3,Non,2,Non,,842 m²,185 kWh/m²,B,20210601-0002423208-RES-1,Non communiqué,Non communiqué,,,,Oui,Oui,Non,Non,Non,Non,,"Zone d'habitat (résidentiel, urbain ou rural)",469.000 €,Non,"Kasteelstraat 198
+9255 - Buggenhout",4220,,1999,,,174 m²,1,,,,Connecté,Non,Non,Non,Non,,,,,,,,,12 m,1,2,,,,,,,Non,Non,Non,Non,,Sud-ouest,,,,Non,Oui,,Oui,,,Non,,,,,,,,,,Oui,,,Toutes sortes,,,,,,Oui,,,,,,
+38,,,Hyper équipée,2,,2,,Non,120 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Oui,,,,,,Zone non inondable,,392.110 €,Non,"Marktstraat 5
+1745 - Opwijk",4512683,À la livraison,2021,2,,160 m²,1,,,,Connecté,Non,,,,,,,,,13 m²,11 m²,,,,1,,12 m²,9 m²,,,,,,,,35 m²,,,,,,,,,,,,,Oui,,,,Oui,,,1,Oui,,,,,,,,,,,,,,,
+39,,,Hyper équipée,2,,2,,Non,118 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Oui,,,,,,Zone non inondable,,398.900 €,Non,"Marktstraat 5
+1745 - Opwijk",4512686,À la livraison,2021,3,,164 m²,1,,,,Connecté,Oui,,,,,,,,,13 m²,11 m²,,,,1,,12 m²,9 m²,,,,,,,,35 m²,,,,,,,,,,,,,Oui,,,,Oui,,,1,Oui,,,,,,,,,,,,,,,
+40,,,Hyper équipée,2,,2,,Non,120 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Oui,,,,,,Zone non inondable,,392.110 €,Non,"Marktstraat 5
+1745 - Opwijk",4512681,À la livraison,2021,2,,160 m²,1,,,,Connecté,Oui,,,,,,,,,13 m²,11 m²,,,,1,,12 m²,9 m²,,,,,,,,35 m²,,15 m²,,,,,,,,,,,Oui,,,,Oui,,,,,,,,,,,,,,,,,,,
+41,,,Hyper équipée,2,,2,,Non,151 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Oui,,,,,,Zone non inondable,,407.364 €,Non,"Marktstraat 5
+1745 - Opwijk",4512684,À la livraison,2021,3,,163 m²,1,,,,Connecté,Oui,,,,,,,,,13 m²,11 m²,,,,1,,12 m²,9 m²,,,,,,,,44 m²,,21 m²,,,,,,,,,,,Oui,,,,Oui,,,1,,,,,,,,,,,,,,,,
+42,,,Pas équipée,3,,2,,Non,240 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,435.000 €,Non,"Meyskensstraat 222
+1780 - Wemmel",1782533 - 457,,,,,145 m²,1,,,,,Oui,,,,,,,,,30 m²,,,,2,1,,,,,,,,,,,100 m²,Ouest,21 m²,,,,,,,,,,,,10.32 m,,,,,,,,,,,,,,,,,,Non,,,,
+43,,,Pas équipée,3,,2,,Non,292 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,440.000 €,Non,"Meyskensstraat 222
+1780 - Wemmel",1782537 - 457,,,,,138 m²,1,,,,,Oui,,,,,,,,,30 m²,,,,2,1,,,,,,,,,,,175 m²,Ouest,21 m²,,,,,,,,,,,,10.32 m,,,,,,,,,,,,,,,,,,Non,,,,
+44,,,Pas équipée,3,,2,,Non,297 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,445.000 €,Non,"Meyskensstraat 222
+1780 - Wemmel",1782535 - 457,,,,,145 m²,1,,,,,Oui,,,,,,,,,30 m²,,,,2,1,,,,,,,,,,,175 m²,Ouest,21 m²,,,,,,,,,,,,10.32 m,,,,,,,,,,,,,,,,,,Non,,,,
+45,,,,60 m²,,,,,581 kWh/m²,F,20210305-0002380480-RES-1,Non communiqué,Non communiqué,Non,,,,,Non,,Non,Zone non inondable,,105.000 €,,,"Arsenaalstraat 36
+1730 - Asse",Matthias LIMBOURG,,2,,,,,,,,,,,,,,,,Oui,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,"nl :
+Bezoekdagen: het goed kan bezocht worden op zaterdag 25 september 2021 en zaterdag 2, 9 en 16 oktober 2021, telkens van 10u-12u. Gelieve de coronamaatregelen in acht te nemen.",Après la signature de l’acte,265 €,,,,,,,,
+46,Bon,,,2,,,Oui,Non,367 m²,785 kWh/m²,F,20210916-0002464957-RES-1,Non communiqué,Non communiqué,,Gaz,Non,Oui,,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",270.000 €,Non,"Ninoofsesteenweg, 255
+1700 - Dilbeek",,À définir,1918,3,,125 m²,1,Oui,,Non,Non connecté,Oui,,,,785,Non,Non,Non,550 €,22 m²,14 m²,,,,,,,,,,9 m²,,,,,,,60 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+47,Excellent état,,Hyper équipée,3,Non,2,Non,Non,762 m²,244 kWh/m²,C,2476184,Non communiqué,Non communiqué,,Gaz,Non,Oui,,,,,,Zone non inondable,,539.000 €,Non,,,,1993,4,,180 m²,1,Non,,Non,,Oui,Non,Non,Non,,Non,Non,Non,,,15 m²,,12 m,1,2,,19 m²,15 m²,15 m²,,,Oui,Non,Non,Oui,600 m²,,60 m²,Sud,1,Non,Oui,Non,Non,Non,Oui,Non,Oui,,,,,,,,1,,113 m²,,Toutes sortes,,,,,1,,,,Oui,,,
+48,Excellent état,,Hyper équipée,3,Non,2,Non,Non,667 m²,Non communiqué,Non communiqué,23060-G-2012_9953/EPB08968/A001/D01/SD001,Non communiqué,Non communiqué,,Gaz,Non,Oui,Oui,,Oui,,,Zone non inondable,,499.000 €,Non,,,À définir,2012,3,,150 m²,1,Non,,Non,Connecté,Oui,Non,Non,Oui,108,Oui,Non,Non,1.251 €,25 m²,13 m²,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",20 m²,12 m²,11 m²,Oui,,Non,Non,Non,Non,400 m²,,24 m²,,,Non,Non,Non,Non,Non,Non,Non,Oui,Oui,,,,Oui,,,,,,,Toutes sortes,,,,,,,,,Oui,,,
+49,Excellent état,Oui,Équipée,3,,3,Oui,Non,2667 m²,278 kWh/m²,C,Non communiqué,Non communiqué,Non communiqué,,Mazout,,Oui,,,,,,Zone d'inondation reconnue,"Zone d'habitat (résidentiel, urbain ou rural)",649.000 €,,"Schoolstraat 101
+1745 - Opwijk",Gino Brondeel,Après la signature de l’acte,1998,4,,,2,,,,,,,,,,,,,1.740 €,,,,,1,2,"Zone d'habitat (résidentiel, urbain ou rural)",35 m²,,,Oui,,,,,,,,,,,,,,,,,,,Oui,,,,,,,1,Oui,,,,,,,,,,,,,,,
+50,,Oui,,3,Non,2,Non,Non,175 m²,171 kWh/m²,B,20210423-0002405614-RES-1,Non communiqué,Non communiqué,,Gaz,Non,Oui,,,,,,,,299.000 €,Non,,,Immédiatement,,2,,,1,Non,Oui,Non,,Non,,,,,Non,Non,Non,706 €,,,,,,,,,,,Oui,,Non,Non,Non,Non,,,,,,,,,,,,,,Oui,,,,Oui,,,1,,,,Toutes sortes,,,,,,,,,,,,
+51,Bon,Oui,Équipée,3,,2,,Non,321 m²,333 kWh/m²,D,Non communiqué,Non communiqué,Non communiqué,,Mazout,,Oui,,,,,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",295.000 €,,"Schoolstraat 101
+1745 - Opwijk",Gino Brondeel,,,3,,,1,,Oui,,,,,,,,,,,864 €,,,,,1,1,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,
+52,Bon,Oui,Équipée,4,,2,,Non,440 m²,93 kWh/m²,A,Non communiqué,Non communiqué,Non communiqué,,Électrique,Oui,Oui,,,,,,Zone inondable potentielle,"Zone d'habitat (résidentiel, urbain ou rural)",460.000 €,,"Schoolstraat 101
+1745 - Opwijk",Gino Brondeel,Après la signature de l’acte,,3,,,1,,,,,Non,,,,,Oui,,,,,,,,1,4,"Zone d'habitat (résidentiel, urbain ou rural)",,,,Oui,,,,,,,,,,,,,Oui,,,,Oui,,Oui,,,,,,,,Oui,,,,,,,,,,,,,,,
+53,,Oui,Équipée,3,,1,,Non,115 m²,370 kWh/m²,D,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,,,,,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",245.000 €,,"Schoolstraat 101
+1745 - Opwijk",Gino Brondeel,Après la signature de l’acte,,3,,,1,,,,,Oui,,,,,,,,557 €,,,,,1,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,,,,,,,Sud,,,,,,,,,,Oui,,,,Oui,,,,Oui,,,,,,,,,,,,,,,
+54,,,,1,,,,,389 kWh/m²,D,20210818-0002453063-RES-1,Non communiqué,Non communiqué,Oui,,,,,Oui,,Non,Zone non inondable,,355.000 €,,1.209 €,"Kerkstraat, 74
+2060 - ANTWERPEN",Gert VERHEIRSTRAETEN,,Après la signature de l’acte,,,216 m²,2,416 m²,,,,,,,,,,,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,Excellent état,,,3,Non,1,Non,,,359 kWh/m²,D,20210810-0002449795-RES-1,Non communiqué,Non communiqué,,,,Non,Oui,Non,Non,Non,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",299.000 €,Non,"Kerkstraat 68
+9255 - Buggenhout",202108-611CC,,,,,,1,,,,Connecté,Non,,,,,,,,,34 m²,14 m²,19 m²,,1,,,14 m²,20 m²,26 m²,,,Non,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,10 m²,,,,,,,,,,,,,,
+56,Bon,,Américaine équipée,3,Oui,,Non,Non,590 m²,399 kWh/m²,D,000007102021,399 kg CO₂/m²,Non communiqué,,Mazout,Non,Oui,,,,,,Zone non inondable,,359.000 €,Non,,,Après la signature de l’acte,,3,,181 m²,1,Non,,Non,Connecté,Oui,Non,Non,Non,,Non,Non,Non,,,25 m²,,9 m,,,"Zone d'habitat (résidentiel, urbain ou rural)",38 m²,16 m²,12 m²,,,Non,Non,Non,Non,400 m²,Sud-est,40 m²,Sud-est,,Non,Non,Non,Non,Non,Non,Non,Oui,,,,,,,,,,,,Toutes sortes,,,,,,,,,,,,
+57,Bon,,15 m²,18 m²,,Oui,,,Connecté,D,0002313092-RES-1,Non communiqué,Non communiqué,Mazout,,Oui,,Oui,Non,,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",275.000 €,684 €,"Grote Baan 170
+9310 - Herdersem",4360625,,Après la signature de l’acte,1968,3,130 m²,28 m²,2,,,,Non,Oui,,,,,,,,Non,Équipée,3,,,1,2,Pays,15 m²,5 m²,1,,,,,,,,,,,,,,,,,,,,,,,,196 m²,,,,379 kWh/m²,,,,,,,,,,,,,,,
+58,Excellent état,,,4,,,,,303 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,Zone non inondable,,399.000 €,Non,"Mechelsesteenweg 123 bus 1
+9200 - Dendermonde",4391219,,,3,,190 m²,,,,,,,,,,,,Oui,,,,,,,,2,,19 m²,15 m²,14 m²,,,,,,,,,,,,,,,,,,,,,,,13 m²,,,,,Oui,,,,,,,,,,,,,,,
+59,,,,3,Non,,Non,,160 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Non,,,,,,,,418.900 €,Non,"206 Moorselestraat
+8930 - Menen",,,,,,,,,,,Non connecté,Non,,,,,,,,,,,,,,,,,,,,,Non,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,PB-Opwijk,,,,,,,,,,,,,
+60,À rafraîchir,,15 m²,14 m²,,60 m²,,,Non,F,Non communiqué,1 kg CO₂/m²,Non communiqué,Gaz,,Zone non inondable,,,,,,,,Zone agricole,359.000 €,830 €,"Grote Markt 10
+1500 - Halle",4382276,,Après la signature de l’acte,1930,4,120 m²,16 m²,1,,,,,2716 m²,,,,,,,,Non,Oui,3,,,2,6,Pays,13 m²,6 m²,1,,,,,,,Oui,,,,,,,,,,,,,Semi-équipée,,,,,,1 juillet 2021 - 00:00,1,897 kWh/m²,1 m²,,,,,,,,,,,,,,
+61,Bon,,Hyper équipée,3,,2,,Non,682 m²,282 kWh/m²,C,20210815-0002451723-RES-1,Non communiqué,Non communiqué,,Mazout,,Oui,,,,Non,,Zone inondable potentielle,Zone agricole,545.000 €,Non,"Alsembergsesteenweg 660
+1653 - Dworp",6556 - 3282,,2003,4,,240 m²,1,,Oui,,,Oui,,,,,,,,1.453 €,15 m²,15 m²,,,3,2,,21 m²,15 m²,15 m²,,,,,,,,,28 m²,,,,,,,,,,,Oui,,,,,,,1,,,,,,,,,,,,Non,,,,
+62,Excellent état,,Hyper équipée,3,,3,Oui,,4716 m²,172 kWh/m²,B,Non communiqué,Non communiqué,Non communiqué,,Mazout,,Oui,Oui,,Non,Non,,Zone inondable potentielle,Zone agricole,1.275.000 €,Non,"Grote Markt 10
+1500 - Halle",4520545,À définir,2009,4,,,2,,,,,Non,Non,Non,Oui,,,Oui,,,31 m²,39 m²,,,2,7,Pays,29 m²,25 m²,11 m²,,11 m²,,,,,,,,,,,,,Oui,,,Oui,,Oui,71.67 m,,,,,,2,Oui,,,,,,,,,,,,,,,
+63,À rafraîchir,,Équipée,4,,2,,,1077 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Mazout,,,,,,,,,,499.000 €,Non,"Claesplein 18
+1502 - Lembeek",4499895,À définir,1850,4,,264 m²,1,,Oui,,,Non,,,,,,,,699 €,60 m²,12 m²,,,,,Urbain,18 m²,20 m²,26 m²,,,,,,,,,40 m²,,,,,,,,,,,Oui,,,34 m²,,,,,,,,,,,,,,,,,,,,
+64,Bon,,,6,Non,2,Non,Non,8000 m²,313 kWh/m²,D,20200716-0002294716-1,Non communiqué,Non communiqué,,,,Oui,Oui,Non,Oui,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",548.000 €,Non,"Galgstraat 87
+1600 - St-Pieters-Leeuw",Hunselstraat 55,,,,,210 m²,1,,,,Non connecté,Non,,,,,,,,1.044 €,40 m²,16 m²,20 m²,22 m,1,8,Pays,12 m²,15 m²,9 m²,,,Non,Non,Non,Non,,Sud-est,,,,,,,,,,,,,,,32 m²,,360 m²,,,,90 m²,,Toutes sortes,,,,,,Oui,,,,22 m²,,
+65,Bon,,,6,Non,2,Non,Non,8000 m²,313 kWh/m²,D,20200716-0002294716-1,Non communiqué,Non communiqué,,,,Oui,Oui,Non,Oui,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",548.000 €,Non,"Galgstraat 87
+1600 - St-Pieters-Leeuw",Hunselstraat 55C,,,,,210 m²,1,,,,Non connecté,Non,,,,,,,,1.044 €,40 m²,16 m²,20 m²,22 m,1,8,Pays,12 m²,15 m²,9 m²,,,Non,Non,Non,Non,,Sud-est,,,,,,,,,,,,,,,32 m²,,360 m²,,,,90 m²,,Toutes sortes,,,,,,Oui,,,,22 m²,,
+66,Bon,,Équipée,5,,4,,,1026 m²,261 kWh/m²,C,20211003-0002471493-RES,1 kg CO₂/m²,Non communiqué,,Mazout,,Oui,,,,,,Zone non inondable,,580.000 €,Non,"Jozef de Vleminckstraat 4B
+1853 - Strombeek-Bever",4495611,Après la signature de l’acte,1960,3,,246 m²,3,,,,,Oui,Non,Oui,,,,,,1.155 €,71 m²,12 m²,8 m²,8 m,1,5,Isolé,15 m²,13 m²,16 m²,,,,,,,550 m²,,,,,,,,,,,Non,,,11.32 m,,12 m²,,,1 janvier 2022 - 00:00,2,Oui,10 m²,,,,,,,,,,,,15 m²,,
+67,À rafraîchir,Oui,,2,,3,,Non,251 m²,627 kWh/m²,F,20210315-0002387637-RES-1,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,,Oui,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",329.000 €,Oui,"Ninoofsesteenweg 85
+1700 - Dilbeek",4305156,Après la signature de l’acte,1950,2,,180 m²,1,,,,Connecté,Oui,,,,,,,,,,24 m²,,7 m,,,Centre commercial,,,,,,,,,,108 m²,,,,,,,,,,,,,,7 m,,,,,,1,Oui,,,,,,,,,,42 m²,,,,,
+68,Bon,,Hyper équipée,3,,,,Non,11142 m²,478 kWh/m²,E,Non communiqué,Non communiqué,Non communiqué,,Mazout,Non,Oui,Oui,,Non,Non,Non,Zone non inondable,Zone d'intérêt paysager,1.500.000 €,Non,"Ninoofsesteenweg, 255
+1700 - Dilbeek",,Après la signature de l’acte,1949,4,,721 m²,2,,,Oui,Non connecté,Oui,Non,Non,Oui,478,Oui,Oui,Non,2.196 €,,17 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,
+69,À rafraîchir,,Semi-équipée,3,,2,,Non,1501 m²,724 kWh/m²,F,2470425,Non communiqué,Non communiqué,"Oui, conforme",Mazout,,Oui,Oui,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",389.000 €,Non,"Ninoofsesteenweg 67
+1500 - Halle",567 - 346,Après la signature de l’acte,1972,4,,156 m²,1,,Oui,,,Oui,,,Oui,,,,,1.581 €,,,,8 m,3,3,,,,,,,,,,,,,,,,,,,,,,,,,14 m,,,,,,,,,,,,,,,,,,Non,,,,
+70,Bon,,,3,Oui,3,Oui,Non,1000 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,Non,Oui,Oui,,Oui,,,,,895.000 €,Non,,,Après la signature de l’acte,2005,4,,242 m²,1,Oui,,Non,Connecté,Non,Non,Non,Oui,,Non,Non,Oui,,31 m²,36 m²,17 m²,20 m,,1,,36 m²,23 m²,15 m²,Oui,,Non,Non,Non,Non,,,1 m²,,,Non,Oui,Non,Non,Non,Non,Non,Non,Oui,,,,Oui,,,1,,,,Villa,,,,,1,,,,,,,
+71,Bon,,Américaine hyper-équipée,3,,2,,,598 m²,204 kWh/m²,C,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Non,Non,Non,Zone inondable potentielle,"Zone d'habitat (résidentiel, urbain ou rural)",545.000 €,Non,"Ninoofsesteenweg 84
+1750 - Lennik",4496219,Après la signature de l’acte,2004,4,,180 m²,,,,,Connecté,,,,,,,,,1.248 €,35 m²,15 m²,,10 m,,,,20 m²,18 m²,16 m²,,,,,,,480 m²,,25 m²,,,,,,,,,,,,18 m,Lennik,,,,,,,,,,,,,,,,,,,,,
+72,Bon,,,3,,2,,,746 m²,396 kWh/m²,D,Non communiqué,Non communiqué,Non communiqué,,Mazout,,Oui,Oui,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",369.000 €,Non,"Ninoofsesteenweg 84
+1750 - Lennik",4395488,Après la signature de l’acte,1960,3,,293 m²,,,,,Connecté,,,,,,,,,781 €,40 m²,29 m²,49 m²,8 m,,,,21 m²,17 m²,9 m²,,,,,,,,,18 m²,,,,,,,,,,,,,Lennik,,,,,,,,,,,,,,,,,,,,,
+73,Bon,,,4,,2,Oui,,597 m²,215 kWh/m²,C,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",439.000 €,Non,"Ninoofsesteenweg 84
+1750 - Lennik",4431917,À définir,1998,4,,180 m²,2,,,,Connecté,,,,,,,,,1.182 €,39 m²,14 m²,9 m²,13 m,,,,17 m²,16 m²,14 m²,,10 m²,,,,,,,24 m²,,,,Oui,,,,,,,,25 m,Lennik,,,,,,,,,,,,,,,,,,,,,
+74,,,Équipée,2,,2,,,295 m²,488 kWh/m²,E,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",349.850 €,Non,"Ninoofsesteenweg 84
+1750 - Lennik",4426760,À définir,1900,3,,140 m²,1,,,,Connecté,,,,,,,,,686 €,27 m²,,13 m²,11 m,,2,,14 m²,8 m²,,,,,,,,,,50 m²,,,,,,,,,,,,19 m,Lennik,,,,,,,,,,,,,,,,,,,,,
+75,À rénover,,,3,,1,Non,Non,66675 m²,733 kWh/m²,F,20210325-0002392679-RES-1,Non communiqué,Non communiqué,,Charbon,,Non,Oui,,Non,Non,Non,,Zone agricole,895.000 €,Non,"Parklaan 103
+9300 - Aalst",,,1965,4,,280 m²,1,,,Non,Non connecté,Non,,,,,,,,,35 m²,15 m²,80 m²,10 m,1,4,Pays,12 m²,15 m²,17 m²,,,,,,,,Sud,,,,,,,,,,,,,,,,,955 m²,,,,,,,,,,,,Oui,,,,,,
+76,Bon,,,3,,1,Non,Non,887 m²,415 kWh/m²,E,20210901-0002459002-RES-1,Non communiqué,Non communiqué,,,,Oui,Oui,,,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",480.000 €,Non,"Bergensesteenweg 89
+1500 - Halle",GVdH/0142/TK/08/2021,,1968,4,,150 m²,1,,,Non,Connecté,Non,,,,,,,,1.440 €,50 m²,16 m²,50 m²,10 m,1,4,,,,,,,,,,,737 m²,Sud-ouest,,,,,,,,,,,,,17 m,,,,150 m²,,,Oui,,,Villa,,,,,1,,,,,,,
+77,À rafraîchir,,,3,,1,,,905 m²,618 kWh/m²,F,Non communiqué,Non communiqué,Non communiqué,,,,Oui,,,Non,,,Zone inondable potentielle,,299.000 €,Non,"Oudesmidsestraat 20
+1700 - Dilbeek",4431868,À définir,,2,,231 m²,1,,,,,Non,,,,,,,,969 €,30 m²,9 m²,,7 m,1,2,,18 m²,19 m²,10 m²,,,,,,,,,,,,,,,,,,,,,7 m,,,Oui,,,,Oui,,,,,,,,,,,,,,,
+78,,,,15 m²,,Oui,Oui,1350 m²,17 m,F,200223-0002374099-RES-1,Non communiqué,Non communiqué,Mazout,,Oui,,Oui,175 m²,,Non,Non,Zone non inondable,Zone agricole,390.000 €,1.127 €,"Stationstraat 32
+9400 - Ninove",4403984,,Après la signature de l’acte,1967,4,162 m²,24 m²,1,,,,Non,1350 m²,,,,,,,,Non,12 m²,4,,12 m,1,4,Pays,15 m²,14 m²,14 m²,,,,,,,Oui,,,,,,,,,,,,,,Connecté,,1,Non,Non,,1,595 kWh/m²,,,,,,,,,,,,,,,
+79,Excellent état,,,3,Non,,Non,,1104 m²,892 kWh/m²,F,20210928--000246836-1,Non communiqué,Non communiqué,,,,Non,,Non,Non,Non,,,,328.000 €,Non,"Oude Vest 127
+9200 - Dendermonde",,,,,,,1,,,,Non connecté,Non,,,,,,,,,15 m²,14 m²,20 m²,,,,,15 m²,20 m²,23 m²,,,Non,Non,Non,Non,900 m²,,,,,,,,,,,,,Oui,,,,,,,,,75 m²,ninoofsesteenweg372s,Toutes sortes,,,,,,,,,,,Christiaens Marc,
+80,,,,4,Non,2,Oui,Non,650 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Mazout,Non,Oui,Oui,,,,Non,Zone non inondable,,315.000 €,Non,,,Immédiatement,1952,3,,137 m²,1,Oui,Oui,Non,,Non,,,,,Non,Non,Non,,15 m²,19 m²,,,,,,14 m²,14 m²,19 m²,,8 m²,Oui,Non,Non,Oui,500 m²,Sud-ouest,20 m²,Sud-ouest,,,,,,,,,,Oui,,,7 m²,Oui,,,,,,,,,,,,,,,,,,,
+81,Bon,,Équipée,4,,2,,Non,1868 m²,378 kWh/m²,D,20210923-0002467682-RES-1,Non communiqué,Non communiqué,,Électrique,,Oui,Oui,,Oui,Non,,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",575.000 €,Non,"Alsembergsesteenweg 660
+1653 - Dworp",6577 - 3284,,1994,4,,280 m²,1,,,,,Oui,,,,,,,,1.720 €,,32 m²,90 m²,,2,3,,29 m²,24 m²,17 m²,,,,,,,,,,,,,,,,,,,,,,,15 m²,,,,,Oui,,,,,,,,,,,Non,,,,
+82,Bon,,Équipée,3,,1,,Non,1660 m²,300 kWh/m²,C,20210918-002465863-RES-1,Non communiqué,Non communiqué,,Mazout,,Oui,,,,,,,,549.000 €,Non,"Alsembergsesteenweg 660
+1653 - Dworp",6578 - 3285,,1995,4,,200 m²,1,,Oui,,,,,,,,,,,1.660 €,,,,,2,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,,,,,Non,,,,
+83,Bon,,19 m²,19 m²,,15 m²,Oui,1412 m²,Oui,C,20130727-0001413056-00000028-1,Non communiqué,Non communiqué,Non,,Oui,,"Zone d'habitat (résidentiel, urbain ou rural)",,,,,,,1.050.000 €,2.833 €,"Alsembergsesteenweg 660
+1653 - Dworp",6319 - 3197,,,1990,4,426 m²,47 m²,1,,Non,,,Oui,,,Oui,,,,,Non,1,3,,,1,,,16 m²,10 m²,2,,Oui,,,,,,,,,,,,,,,,210 kWh/m²,,,,,,,,,4,Oui,,,,,,,,Équipée,,,Mazout,,,,
+84,,,,3,,,,Non,437 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,395.000 €,Non,"Volpestraat 18
+1500 - Halle",2620 -,,1967,3,,195 m²,,,,,,,,,,,,,,909 €,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,,,,
+85,Excellent état,,Équipée,2,Non,,Non,,349 m²,399 kWh/m²,D,20210928-0002469995-RES-1,Non communiqué,Non communiqué,,,,Oui,,,,,,,,272.000 €,Non,"Edingsesteenweg 91
+1755 - Gooik",P/VW328,,1968,,,105 m²,1,,,,Connecté,Non,,,,,,,,,,,,,1,,Pays,,,,,,Non,Non,Non,Non,,Nord,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,,,,,,
+86,2,3,,1,,,,,675 kWh/m²,F,20190618-0002170423-RES-1,Non communiqué,Non communiqué,"Oui, conforme",Mazout,Non,Non,,,,Non,Zone non inondable,,150.000 €,,,"Gustaaf Vandersteenstraat, 10
+1750 - Lennik",Elke ROGGEMANS,,1964,À rénover,Urbain,,,Oui,,Oui,,,,,,,,,Non,,Non,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,,,,,673 m²,,,,,,,,Non,Après la signature de l’acte,,825 €,,,,,,,,
+87,,,,3,,,,,226 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,420.994 €,Non,"Kerkstraat, 38
+1755 - Oetingen",4533487,À la livraison,,3,,132 m²,1,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88,4,3,1,1760 m²,,,,,F,20210820-0002454138-RES-1,Non communiqué,Non communiqué,Zone inondable potentielle,370.000 €,,,,,,,,,,654 €,,,Hanne NEYENS,,,À rénover,,164 m²,Oui,Équipée,715 kWh/m²,,,,,,,,,,,,,"Heldenplein, 10
+1540 - Herne",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Non,"nl :
+op woe. 13/10 & 20/10 & op zat. 9/10 & 16/10 telkens van 14u-16u",Après la signature de l’acte,Non,,,,,,,,
+89,,,,3,,2,,,396 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,Oui,Oui,Oui,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",419.000 €,,"Ninoofsesteenweg 1024P
+1703 - Schepdaal",Lieselot Vanhove,À la livraison,,3,,192 m²,1,,,,Connecté,Oui,,,,,Oui,,,,,,,,,2,"Zone d'habitat (résidentiel, urbain ou rural)",10 m²,10 m²,13 m²,,,,,,,,Sud,,,,,,,,,,,,,,Strijland,,,,,,,,,,,,,,,Oui,,,,,,
+90,,,,3,,2,,,259 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,Oui,Oui,Oui,,,,,,,393.000 €,,"Ninoofsesteenweg 1024P
+1703 - Schepdaal",Lieselot Vanhove,À la livraison,,2,,197 m²,1,,,,Connecté,Oui,,,,,Oui,,,,43 m²,,,,1,1,"Zone d'habitat (résidentiel, urbain ou rural)",10 m²,10 m²,13 m²,,,,,,,,Sud,,,,,,,,,,,,,,Strijland,,,,,,,,,,,,,,,Oui,,,,,,
+91,,,,3,,2,,,262 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,Oui,Oui,Oui,,,,Non,,,399.000 €,,"Ninoofsesteenweg 1024P
+1703 - Schepdaal",Lieselot Vanhove,À la livraison,,2,,212 m²,,,,,Connecté,Oui,,,,,Oui,,,,,,,,1,1,"Zone d'habitat (résidentiel, urbain ou rural)",10 m²,10 m²,15 m²,,,,,,,,Sud,,,,,,,,,,,,,,,,,,,,,38 m²,,,,,,,,Oui,,,,,,
+92,Bon,,,4,,,,Non,663 m²,232 kWh/m²,C,Non communiqué,Non communiqué,Non communiqué,,Gaz,Non,Oui,Oui,,Non,Non,Non,Zone inondable potentielle,"Zone d'habitat (résidentiel, urbain ou rural)",439.000 €,Non,"Ninoofsesteenweg, 255
+1700 - Dilbeek",,,1991,4,,205 m²,2,,,Non,Connecté,Oui,,,,232,Non,Non,Non,1.484 €,38 m²,13 m²,,11 m,,,,,,,,,,,,,,,,,,,,,,,,,,,20 m,,,,,,,,,,Villa,,,,,,,,,,,,
+93,Bon,,Équipée,4,,2,,Non,641 m²,405 kWh/m²,E,20210610-0002426402-RES-1,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",375.000 €,Oui,"Geraardsbergenstraat 13A
+9570 - Lierde",924 - DS21/026,Après la signature de l’acte,,4,,212 m²,1,,Oui,,,Oui,,,,,,,,1.276 €,37 m²,11 m²,,11 m,2,4,,21 m²,18 m²,14 m²,,,Non,,,,,Sud-ouest,,,,,,,,,,,,,18.6 m,,13 m²,,,,,,,,,,,,,,Oui,,Non,,,,
+94,Bon,,Équipée,4,,2,,Non,641 m²,405 kWh/m²,E,20210610-0002426402-RES-1,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",375.000 €,Non,"Geraardsbergenstraat 13A
+9570 - Lierde",913 - DS21/026,Après la signature de l’acte,,4,,212 m²,1,,Oui,,,Oui,,,,,,,,1.276 €,37 m²,11 m²,,11 m,2,4,,21 m²,18 m²,14 m²,,,Non,,,,,Sud-ouest,,,,,,,,,,,,,18.6 m,,13 m²,,,,,,,,,,,,,,Oui,,Non,,,,
+95,À rénover,,,3,,,,Non,1200 m²,456 kWh/m²,E,20160612-0001870589-1,Non communiqué,Non communiqué,,Mazout,Non,Oui,Oui,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",299.000 €,Non,"Alsembergsesteenweg 570
+1653 - Dworp",,,1931,4,,192 m²,1,,,Non,Connecté,Oui,,,,456,Non,Non,Non,522 €,,22 m²,7 m²,,,,,,,,,,,,,,,,182 m²,,,,,,,,,,,,,,,,,,,,,353,,,,,,,,,,,,,
+96,À rafraîchir,,Semi-équipée,3,Non,2,Non,Non,398 m²,347 kWh/m²,D,20210830-0002457663-RES-1,Non communiqué,Non communiqué,,Mazout,Non,Oui,Oui,Non,Oui,,Non,Zone inondable potentielle,"Zone d'habitat (résidentiel, urbain ou rural)",369.000 €,Non,,,,1979,3,,238 m²,1,Non,,Non,,Non,,,,,Non,Non,Non,,40 m²,10 m²,,,3,1,Pays,16 m²,16 m²,12 m²,Oui,,Non,Non,Non,Non,,,,,1,,,,,,,,,,,,,,,,,,36 m²,,,,,,,,,,,Oui,,,
+97,À rénover,,Équipée,2,,,,,350 m²,881 kWh/m²,F,20120902-0001197375-00000008-5,Non communiqué,Non communiqué,,Mazout,,Oui,,,,Non,,Zone non inondable,,230.000 €,Non,"Bevrijdingsplein 2
+1500 - Halle",4492780,,,3,,112 m²,1,,Oui,,Connecté,Non,,,,,,,,570 €,40 m²,10 m²,,10 m,1,,Urbain,21 m²,22 m²,,,,,,,,,,18 m²,,,,,,,,,,,,16 m,,,Oui,,,,,,,,,,,,,,,,,,,
+98,À rénover,,Semi-équipée,4,,1,,Non,1920 m²,715 kWh/m²,F,20210428-0002408290-RES-1,Non communiqué,Non communiqué,,Gaz,,Oui,,,,Non,,Zone non inondable,,295.000 €,Non,"Edingsesteenweg 341
+1755 - Kester",2577 - 21/000040/506,Après la signature de l’acte,1900,4,,310 m²,1,,Oui,,,,,,,,,,,495 €,,9 m²,,,5,5,,35 m²,18 m²,16 m²,,,,,,,,Sud,,,,,,,,,,,,,,,15 m²,,,,,,,,,,,,,,Oui,,Non,,,,
+99,À rafraîchir,,,3,,1,,,341 m²,450 kWh/m²,E,2454446,Non communiqué,Non communiqué,,Gaz,,Oui,,,,,,Zone non inondable,,258.000 €,Non,"Basiliekstraat 135
+1500 - Halle",4425555,Après la signature de l’acte,1964,3,,183 m²,1,,Oui,,,Non,,,,,,,,,,,,,,,,,,,,,,,,,204 m²,,30 m²,,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,
+100,Excellent état,Oui,Équipée,4,Non,3,Oui,Non,330 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,Non,Non,Oui,,Oui,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",708.000 €,Non,,,,,3,,286 m²,1,Oui,,Non,Connecté,Oui,Non,Non,Non,,Non,Oui,Non,594 €,,18 m²,50 m²,7 m,,4,Aménagé,20 m²,13 m²,20 m²,Oui,9 m²,Oui,Non,Non,Oui,166 m²,,30 m²,,1,Non,Oui,Non,Non,Non,Non,Non,Oui,,16 m,,13 m²,,160 m²,,1,,24 m²,,,,,,,,,35 m²,"Oui, conforme",,,,
+101,,,Hyper équipée,3,,,,Non,273 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,"Oui, conforme",Gaz,Non,Oui,Oui,,Non,Non,Non,,Zone agricole,394.900 €,Non,"Ninoofsesteenweg, 255
+1700 - Dilbeek",,À la livraison,2020,3,,158 m²,1,,,Non,Connecté,Oui,,,,,Oui,Oui,Non,,,,,,,,,,,,,,,,,,121 m²,,18 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,,,Hyper équipée,3,,,,Non,274 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,"Oui, conforme",Gaz,Non,Oui,Oui,,Non,Non,Non,,Zone agricole,394.900 €,Non,"Ninoofsesteenweg, 255
+1700 - Dilbeek",,À la livraison,2020,3,,158 m²,1,,,Non,Connecté,Oui,,,,,Oui,Non,Non,,,,,,,,,,,,,,,,,,121 m²,,18 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,,,Hyper équipée,3,,,,Non,272 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,"Oui, conforme",Gaz,Non,Oui,Oui,,Non,Non,Non,,Zone agricole,394.900 €,Non,"Ninoofsesteenweg, 255
+1700 - Dilbeek",,À la livraison,2020,3,,158 m²,1,,,Non,Connecté,Oui,,,,,Oui,Non,Non,,,,,,,,,,,,,,,,,,118 m²,,18 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,,,Hyper équipée,3,,,,Non,274 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,"Oui, conforme",Gaz,Non,Oui,Oui,,Non,Non,Non,,Zone agricole,394.900 €,Non,"Ninoofsesteenweg, 255
+1700 - Dilbeek",,À la livraison,2020,3,,158 m²,1,,,Non,Connecté,Oui,,,,,Oui,Non,Non,,,,,,,,,,,,,,,,,,121 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+105,Fraîchement rénové,,Équipée,2,,2,Oui,,243 m²,486 kWh/m²,E,20200220-0002251156-RES-1,Non communiqué,Non communiqué,,Gaz,Non,Oui,Oui,,Non,Non,,Zone non inondable,,410.000 €,Oui,"Poststraat 51
+1500 - Halle",,À définir,1955,3,,112 m²,1,,,,Connecté,,,,,,,Non,,1.675 €,42 m²,14 m²,,,1,,"Zone d'habitat (résidentiel, urbain ou rural)",16 m²,9 m²,,,36 m²,,,,,,,,,,,,,,,,,,,22 m,,,,,,,Oui,,,,,,,,,,,,,,Bob TEURLINGS,
+106,,,,3,Non,,Non,,150 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Non,,,,,,,,387.000 €,Non,"206 Moorselestraat
+8930 - Menen",,,,,,,,,,,Non connecté,Non,,,,,,,,,,,,,,,,,,,,,Non,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,LEERBEEK,,,,,,,,,,,,,
+107,,,,,,,,,,Non communiqué,Non communiqué,1234,Non communiqué,Non communiqué,,,,,,,,,,Zone non inondable,,,Non,"Burchtstraat 12
+9400 - Ninove",4057791,À la livraison,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+108,À rafraîchir,,Équipée,3,,2,,Non,1162 m²,377 kWh/m²,D,2330724,Non communiqué,Non communiqué,,Mazout,,Oui,Oui,,,,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",399.000 €,Non,"Burchtstraat 12
+9400 - Ninove",4449995,Immédiatement,1985,4,,249 m²,1,,,,,Non,,,,,,,,,30 m²,19 m²,,,1,,Pays,23 m²,15 m²,14 m²,,,,,,,,,,,,,,,,,,,,Oui,,,,,,,1,Oui,,,,,,,,,,,,,,,
+109,Excellent état,,Américaine hyper-équipée,3,,2,,,120 m²,Non communiqué,Non communiqué,123456,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Oui,Non,Non,Zone non inondable,,378.950 €,Non,"Burchtstraat 12
+9400 - Ninove",4180442,À la livraison,2022,3,,172 m²,1,,,,,,Non,Oui,,30,,,,,55 m²,,,,,1,Isolé,14 m²,13 m²,14 m²,,,,,,,120 m²,,20 m²,,,,,,,,,Non,,,,,,,,,2,,,,,,,,,,,,,,,,
+110,Bon,,43 m²,18 m²,,40 m²,,,2000 m²,E,2429025,Non communiqué,Non communiqué,Mazout,,Oui,,Oui,Non,,Non,Zone non inondable,,"Zone d'habitat (résidentiel, urbain ou rural)",855.000 €,Non,"Astridlaan 1
+1700 - Dilbeek",4527907,,Après la signature de l’acte,1977,4,404 m²,55 m²,1,,,,,,Non,Oui,Oui,,,,,,Hyper équipée,6,2539 m²,,2,4,"Zone d'habitat (résidentiel, urbain ou rural)",11 m²,12 m²,3,,,,,,,Oui,,,,,,,,Non,,,456 kWh/m²,,,,,,,,,3,Non,,,,,,,,,,,,,,,
+111,Bon,,Équipée,3,,2,,Non,108 m²,158 kWh/m²,B,20210907-0002460707-RES-1,Non communiqué,Non communiqué,,Gaz,,Oui,,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",310.000 €,,"Brusselsesteenweg 89
+9400 - Ninove",,Après la signature de l’acte,1963,2,,167 m²,1,,Oui,,Connecté,,,,,,,,,718 €,47 m²,,,,1,,"Zone d'habitat (résidentiel, urbain ou rural)",15 m²,14 m²,40 m²,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oui,40 m²,,,,,,,,,,Non,,,,
+112,Oui,Équipée,1,1,,Oui,Oui,,,202110816-0002452095-RES-1,Non communiqué,Non communiqué,Gaz,Non,,Non,Oui,,Non,,Zone non inondable,190.000 €,,875 €,,,Maria RISTUCCIA,,,Bon,,,Oui,,Oui,,625 kWh/m²,,,,,,,,,Non,,"Boulevard Edmond Machtens 57/17
+1080 - Molenbeek-Saint-Jean",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,,,,F,,,,Non,"Chaque dimanche de 14h00 à 16h00 et chaque mardi de 10h00 à 12h00, à partir du mardi 05 octobre 2021 jusqu’au mardi 02 novembre 2021 inclus.",Après la signature de l’acte,Non,,,,,,,,
+113,Fraîchement rénové,,Équipée,2,Non,1,Non,Non,462 m²,151 kWh/m²,B,UC:2419124-RES-1,Non communiqué,Non communiqué,Non,Gaz,Non,Oui,Oui,Non,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",370.000 €,Non,"Marktplein 16
+1570 - Galmaarden",spir1423,Après la signature de l’acte,,3,,151 m²,1,,,,,,,,,,,,,743 €,25 m²,24 m²,17 m²,,1,2,,16 m²,47 m²,,,,,,,,,Sud-est,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,Oui,,,,,,
+114,,,,Oui,,,,,531 kWh/m²,20210922-0002467623-RES-1,Non communiqué,Non communiqué,Oui,Oui,,,,,Non,,Zone inondable potentielle,200.000 €,,1.561 €,,,Kim BORLOO,,,1978,4,1,2434 m²,,,,,,,,,,,,,,,"Kapellestraat, 13
+1760",,,,,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,F,,,,Non,"nl :
+elke zaterdag van 2 oktober 2021 tot en met zaterdag 23 oktober 2021 van 14 tot 16 uur",Après la signature de l’acte,Non,,,,,,,,
+115,Excellent état,,,3,,,,,464 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,470.101 €,Non,"Kerkstraat, 38
+1755 - Oetingen",4512794,À la livraison,,3,,186 m²,1,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,7 m,,,,,,,,,,,,,,,,,,,,,,
+116,Excellent état,,,3,,,,Non,269 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,405.044 €,Non,"Kerkstraat, 38
+1755 - Oetingen",4401624,À la livraison,,3,,152 m²,1,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+117,Excellent état,,,3,,,,,268 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,370.633 €,Non,"Kerkstraat, 38
+1755 - Oetingen",4382267,À la livraison,,3,,135 m²,1,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,7 m,,,,,,,,,,,,,,,,,,,,,,
+118,Excellent état,,,3,,,,,266 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,380.086 €,Non,"Kerkstraat, 38
+1755 - Oetingen",4382286,À la livraison,,3,,138 m²,1,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,,,,,,,7 m,,,,,,,,,,,,,,,,,,,,,,
+119,Excellent état,,,3,,,,Non,267 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,413.770 €,Non,"Kerkstraat, 38
+1755 - Oetingen",4455330,À la livraison,,2,,146 m²,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,Excellent état,,,3,,,,Non,293 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,466.188 €,Non,"Kerkstraat, 38
+1755 - Oetingen",4455374,À la livraison,,3,,154 m²,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+121,Excellent état,,,3,,,,Non,421 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,485.308 €,Non,"Kerkstraat, 38
+1755 - Oetingen",4455411,À la livraison,,3,,154 m²,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+122,Excellent état,,,3,,,,Non,235 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,484.019 €,Non,"Kerkstraat, 38
+1755 - Oetingen",4453744,À la livraison,,3,,150 m²,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+123,Excellent état,,,4,,,,Non,354 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,,,,,,,,,521.664 €,Non,"Kerkstraat, 38
+1755 - Oetingen",4455391,À la livraison,,3,,166 m²,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+124,À rafraîchir,,Équipée,3,Non,2,Non,Non,835 m²,477 kWh/m²,E,20110712-0000879946-00000001-9,Non communiqué,Non communiqué,,Gaz,Non,Oui,Oui,,,,,,"Zone d'habitat (résidentiel, urbain ou rural)",310.000 €,Oui,,,Selon le locataire,,2,,396 m²,1,Non,,Non,Connecté,Oui,Non,Non,Non,477,Non,Non,Non,1.344 €,21 m²,11 m²,,14 m,,,"Zone d'habitat (résidentiel, urbain ou rural)",16 m²,14 m²,14 m²,,,Non,Non,Non,Oui,486 m²,Sud,8 m²,Sud,,Non,Oui,Non,Non,Non,Non,Non,Oui,Oui,21 m,,,,396 m²,,,,73 m²,,Toutes sortes,,,,,1,,280 m²,,Oui,,,50
+125,À rénover,,Pas équipée,3,,1,,,670 m²,676 kWh/m²,F,20210401-0002395809-RES-1,Non communiqué,Non communiqué,,Mazout,,,Oui,,Non,Non,Non,,"Zone d'habitat (résidentiel, urbain ou rural)",335.000 €,Non,"Brusselsesteenweg 594
+1731 - Zellik",4359684,Après la signature de l’acte,1963,4,,215 m²,,,Oui,,Connecté,Non,,,,,,,,1.351 €,40 m²,10 m²,,8.3 m,1,3,Urbain,15 m²,14 m²,7 m²,,,,,,,,,,,,,,,,,,,,,15 m,,,Oui,,,,,,,,,,,,,,,,,,,
+126,À rafraîchir,,Équipée,3,Non,2,Non,Non,336 m²,584 kWh/m²,F,20140210-0001528904-00000019-3,Non communiqué,Non communiqué,,Gaz,Non,Oui,Oui,Non,,,Non,,"Zone d'habitat (résidentiel, urbain ou rural)",235.000 €,Oui,,,Selon le locataire,,2,,175 m²,1,Non,Oui,Non,Connecté,Oui,Non,Non,Non,584,Non,Non,Non,,30 m²,8 m²,,4 m,,,"Zone d'habitat (résidentiel, urbain ou rural)",17 m²,17 m²,34 m²,Oui,,Non,Non,Non,Oui,197 m²,Sud,,Sud,,Non,Non,Non,Non,Non,Non,Non,Oui,Oui,,,,,,,,Oui,92 m²,,,,,,,,,,,,,,100
+127,Bon,,Équipée,3,,2,,Non,555 m²,255 kWh/m²,C,20150413-0001749290-1,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Oui,,,Zone inondable potentielle,Zone réservée,399.000 €,Non,"Ninoofsesteenweg 85
+1700 - Dilbeek",4373145,Après la signature de l’acte,1980,3,,156 m²,1,,Oui,,Connecté,Oui,,,,,,,,,40 m²,16 m²,,,1,2,,22 m²,18 m²,11 m²,,,,,,,,,14 m²,,,,,,,,,,,,,Roosdaal,,Oui,,,,,,,,,,,,,,,,,,,
+128,Bon,,Équipée,2,Non,1,Non,Non,40 m²,424 kWh/m²,E,2424282,Non communiqué,Non communiqué,"Oui, conforme",Mazout,Non,Oui,,,,Non,Non,Zone non inondable,,195.000 €,Non,,,Immédiatement,1947,2,,64 m²,1,Non,,Non,,Oui,Non,Non,Non,,Non,Non,Non,300 €,12 m²,10 m²,8 m²,4 m,,,"Zone d'habitat (résidentiel, urbain ou rural)",12 m²,10 m²,,,,Non,Non,Oui,Non,10 m²,Sud,,,,Non,Non,Non,Non,Non,Non,Non,Oui,,,,,,,,,,21 m²,,Toutes sortes,,,,,,,,,,,,
+129,,,Équipée,4,,2,,Non,150 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",325.000 €,Non,"Ninoofsesteenweg 67
+1500 - Halle",564 - 336,Après la signature de l’acte,2020,2,,140 m²,1,,,,,Oui,,,,,,,,,39 m²,,,,,1,,,,,,,,,,,,Sud,,,,,,,,,,,,,5.25 m,,,,,,,Oui,,,,,,,,,Oui,,Non,,,,
+130,,,Équipée,4,,2,,Non,150 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",325.000 €,Non,"Ninoofsesteenweg 67
+1500 - Halle",547 - 336,Après la signature de l’acte,2020,2,,140 m²,1,,,,,Oui,,,,,,,,,39 m²,,,,,1,,,,,,,,,,,,Sud,,,,,,,,,,,,,5.25 m,,,,,,,Oui,,,,,,,,,Oui,,Non,,,,
+131,,,Équipée,4,,2,,Non,150 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",325.000 €,Non,"Ninoofsesteenweg 67
+1500 - Halle",546 - 336,Après la signature de l’acte,2020,2,,140 m²,1,,,,,Oui,,,,,,,,,39 m²,,,,,1,,,,,,,,,,,,Sud,,,,,,,,,,,,,5.25 m,,,,,,,Oui,,,,,,,,,Oui,,Non,,,,
+132,,,,4,Non,,Non,Non,535 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,,Non,Non,,Non,,,,,Autre type de zone,387.812 €,Non,"Avenue Paul Gilson, 49
+1601 - Ruisbroek",9745,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10 m,,,,,,,,,,,,,,,,,,,,,,
+133,,,,4,Non,,Non,Non,931 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,,Non,Non,,Non,,,,,Autre type de zone,437.924 €,Non,"Avenue Paul Gilson, 49
+1601 - Ruisbroek",9678,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19 m,,,,,,,,,,,,,,,,,,,,,,
+134,,,,4,Non,,Non,Non,450 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,,Non,Non,,Non,,,,,Autre type de zone,417.351 €,Non,"Avenue Paul Gilson, 49
+1601 - Ruisbroek",9655,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12 m,,,,,,,,,,,,,,,,,,,,,,
+135,,,,3,Non,,Non,Non,1744 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,,Non,Non,,Non,,,,,Autre type de zone,481.825 €,Non,"Avenue Paul Gilson, 49
+1601 - Ruisbroek",9749,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20 m,,,,,,,,,,,,,,,,,,,,,,
+136,,,,4,Non,,Non,Non,446 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non,,Non,Non,,Non,,,,,Autre type de zone,406.851 €,Non,"Avenue Paul Gilson, 49
+1601 - Ruisbroek",9656,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12 m,,,,,,,,,,,,,,,,,,,,,,
+137,,Oui,Hyper équipée,3,Non,2,Non,Non,,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,,,,,,,,461.154 €,Non,"Burgemeester De Cocklaan 10/1
+9320 - Aalst",SDB 20052123,,,,,143 m²,1,,,,Non connecté,Oui,,,,,,,,,,,,7.2 m,1,,,,,,Oui,,Non,Non,Non,Non,,,,,,,,,,,,,,Oui,,,,,,,,,,,,,,,,,,,,,,,
+138,,,,3,Non,,Non,,448 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Non,,,,,,,,493.648 €,Non,"Burgemeester De Cocklaan 10/1
+9320 - Aalst",TC21051907,,,,,202 m²,,,,,Connecté,Oui,,,,,,,,,,,,,,,,,,,,,Non,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+139,,,,3,Non,,Non,Non,529 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,,,Non,,,,,,,,542.862 €,Non,"Burgemeester De Cocklaan 10/1
+9320 - Aalst",TC21060901,,,,,217 m²,,,,,Connecté,Oui,,,,,,,,,,,,,,,,,,,,,Non,Non,Non,Non,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140,Fraîchement rénové,,,3,,2,,,189 m²,336 kWh/m²,D,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,,,Non,Non,Non,Zone inondable potentielle,"Zone d'habitat (résidentiel, urbain ou rural)",325.000 €,Non,"Ninoofsesteenweg 84
+1750 - Lennik",4380406,À définir,1955,3,,175 m²,,,,,,Non,,,,,,,,708 €,54 m²,15 m²,20 m²,8.5 m,,,Pays,26 m²,12 m²,12 m²,,,,,,,,,9 m²,,,,,,,,,,,Oui,8.5 m,Roosdaal,,,,,,,,,,,,,,,,,,,,,
+141,Bon,,Américaine hyper-équipée,3,,2,Oui,,1084 m²,307 kWh/m²,D,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",395.000 €,Non,"Ninoofsesteenweg 84
+1750 - Lennik",4489939,À définir,1993,4,,168 m²,1,,,,,,,,,,,,,917 €,32 m²,11 m²,,,1,5,,11 m²,12 m²,14 m²,,7 m²,,,,,,,,,,,,,,,,,,,,Roosdaal,,,,,,,,,,,,,,,,,,,,,
+142,Bon,,Américaine hyper-équipée,2,,,,,700 m²,300 kWh/m²,C,Non communiqué,Non communiqué,Non communiqué,,Mazout,,,Oui,,Oui,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",385.000 €,Non,"Ninoofsesteenweg 84
+1750 - Lennik",4456426,Après la signature de l’acte,1999,4,,168 m²,,,,,Connecté,,,,,,,,,1.058 €,32 m²,11 m²,,9 m,,,,16 m²,8 m²,,,,,,,,,,,,,,,,,,,,,,9 m,Roosdaal,,,,,,Oui,53 m²,,,,,,,,,,,,,,
+143,À rénover,,Américaine semi-équipée,4,,,,,460 m²,726 kWh/m²,F,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Non,Non,Non,Zone non inondable,"Zone d'habitat (résidentiel, urbain ou rural)",349.000 €,Non,"Ninoofsesteenweg 84
+1750 - Lennik",4394183,Après la signature de l’acte,1960,4,,250 m²,2,,,,Connecté,,,,,,,,,1.100 €,45 m²,12 m²,,11.75 m,,,,17 m²,13 m²,12 m²,,,,,,,,,,,,,,,,,,,,,42 m,Roosdaal,12 m²,,,,,Oui,,,,,,,,,,,,,,,
+144,Excellent état,,Américaine hyper-équipée,4,,3,,Non,11 m²,116 kWh/m²,B,20210713-0002441509-RES-1,Non communiqué,Non communiqué,,Gaz,,Oui,,,,,,,,530.000 €,Non,"Ninoofsesteenweg 234B
+1700 - Dilbeek",4425421,Après la signature de l’acte,1983,2,,206 m²,2,,,,,Non,,,,,,Oui,,999 €,24 m²,25 m²,,20 m,2,,Urbain,21 m²,22 m²,24 m²,,,,,,,900 m²,,,,,,,,,,,,,Oui,50 m,OOST-VLAANDEREN,,Oui,,,2,Oui,,,,,,,,,,,,,,,
+145,Excellent état,,Américaine hyper-équipée,3,,2,Oui,,1775 m²,Non communiqué,Non communiqué,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,Oui,Non,Non,Zone inondable potentielle,"Zone d'habitat (résidentiel, urbain ou rural)",595.000 €,Non,"Ninoofsesteenweg 84
+1750 - Lennik",4514452,Après la signature de l’acte,1989,4,,404 m²,,,,,Connecté,,,,,,,,,1.643 €,51 m²,17 m²,19 m²,10 m,,,Pays,22 m²,15 m²,15 m²,,17 m²,,,,,,,,,,,,,Oui,,,,,,25.75 m,Roosdaal,,,,,,Oui,36 m²,,,,,,,,,,,,,,
+146,Bon,,Équipée,4,,2,Oui,Non,2753 m²,406 kWh/m²,E,20210909-0002462150-RES-1,Non communiqué,Non communiqué,,Mazout,,Oui,,,,,,,,495.000 €,Non,"Ninoofsesteenweg 234B
+1700 - Dilbeek",4527614,,1993,4,,212 m²,1,,Oui,,Connecté,Oui,,,,,,,,,40 m²,15 m²,,,2,6,,17 m²,17 m²,38 m²,,,,,,,,,35 m²,,,,,,,,,,,,,Andere Vlaams-Brabant,38 m²,Oui,,,1,,,,,,,,,,,,,,,,
+147,Bon,,19 m²,13 m²,,135 m²,,,Connecté,C,20210818-0002452865-RES-1,Non communiqué,Non communiqué,Oui,,,,Oui,Non,,Non,Non,Zone inondable potentielle,Zone d'extension d'habitat,370.000 €,1.041 €,"Grote Baan 170
+9310 - Herdersem",4516860,,À définir,1951,2,247 m²,43 m²,3,,,,Oui,Oui,,,,,,,,Oui,Hyper équipée,4,,,1,1,Urbain,9 m²,13 m²,14 m²,,,,,,,,,,,,,,,251 kWh/m²,,,,,,,,2,,,1 octobre 2022 - 00:00,,,,,,,,,,,,,,,,,
+148,Bon,,Équipée,4,,2,,,707 m²,321 kWh/m²,D,Non communiqué,Non communiqué,Non communiqué,,Gaz,,,,,Non,Non,,Zone d'inondation reconnue,,439.000 €,Non,"Oudesmidsestraat 20
+1700 - Dilbeek",4490285,À définir,,3,,184 m²,2,,,,,Oui,,,,,,,,917 €,45 m²,10 m²,,13.5 m,1,4,,15 m²,15 m²,10 m²,,,,,,,,,,,,,,,,,,,,Oui,14.3 m,,39 m²,,,,,Oui,,,,,,,,,,,,,,,
+149,Excellent état,,Américaine hyper-équipée,6,,4,Oui,,2281 m²,259 kWh/m²,C,Non communiqué,Non communiqué,Non communiqué,,Gaz,,Oui,Oui,,,,,Zone inondable potentielle,,995.000 €,Oui,"Oudesmidsestraat 20
+1700 - Dilbeek",4453880,À définir,,4,,419 m²,4,,Oui,,,Oui,,,,,,,,872 €,64 m²,25 m²,,22 m,1,6,,21 m²,14 m²,12 m²,,,,,,,,,,,,,,,,,,,,,24 m,,15 m²,Oui,,,,Oui,,,,,,,,,,21 m²,,,16 m²,,

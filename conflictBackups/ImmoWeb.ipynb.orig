@@ -2,11 +2,7 @@
  "cells": [
   {
    "cell_type": "code",
-<<<<<<< HEAD
    "execution_count": 1,
-=======
-   "execution_count": 11,
->>>>>>> 17146ca33a17f96da072bd33bb2d7822ef94169d
    "id": "f6bda153",
    "metadata": {},
    "outputs": [],
@@ -23,11 +19,7 @@
   },
   {
    "cell_type": "code",
-<<<<<<< HEAD
    "execution_count": 2,
-=======
-   "execution_count": 12,
->>>>>>> 17146ca33a17f96da072bd33bb2d7822ef94169d
    "id": "de86096a",
    "metadata": {},
    "outputs": [],
@@ -41,11 +33,7 @@
   },
   {
    "cell_type": "code",
-<<<<<<< HEAD
    "execution_count": 3,
-=======
-   "execution_count": 13,
->>>>>>> 17146ca33a17f96da072bd33bb2d7822ef94169d
    "id": "015f3951",
    "metadata": {},
    "outputs": [
@@ -54,29 +42,25 @@
      "output_type": "stream",
      "text": [
 <<<<<<< HEAD
-      "C:\\Users\\aubin\\AppData\\Local\\Temp/ipykernel_30432/2296700920.py:5: DeprecationWarning: use options instead of firefox_options\n",
+      "<ipython-input-3-30a6158f3f0a>:5: DeprecationWarning: use options instead of firefox_options\n",
 =======
-      "<ipython-input-13-30a6158f3f0a>:5: DeprecationWarning: use options instead of firefox_options\n",
->>>>>>> 17146ca33a17f96da072bd33bb2d7822ef94169d
+      "C:\\Users\\aubin\\AppData\\Local\\Temp/ipykernel_26648/2296700920.py:5: DeprecationWarning: use options instead of firefox_options\n",
+>>>>>>> 06516ce08ceb4f30e30c3ab16598250fbae8353c
       "  browser = webdriver.Firefox(firefox_options=opts)\n"
      ]
     }
    ],
    "source": [
-    "from selenium.webdriver import FirefoxOptions\n",
+    "#from selenium.webdriver import FirefoxOptions\n",
     "\n",
-    "opts = FirefoxOptions()\n",
-    "opts.add_argument(\"--headless\")\n",
-    "browser = webdriver.Firefox(firefox_options=opts)"
+    "#opts = FirefoxOptions()\n",
+    "#opts.add_argument(\"--headless\")\n",
+    "#browser = webdriver.Firefox(firefox_options=opts)"
    ]
   },
   {
    "cell_type": "code",
-<<<<<<< HEAD
    "execution_count": 4,
-=======
-   "execution_count": 14,
->>>>>>> 17146ca33a17f96da072bd33bb2d7822ef94169d
    "id": "3b761cd5",
    "metadata": {},
    "outputs": [],
@@ -86,11 +70,7 @@
   },
   {
    "cell_type": "code",
-<<<<<<< HEAD
-   "execution_count": 5,
-=======
-   "execution_count": 15,
->>>>>>> 17146ca33a17f96da072bd33bb2d7822ef94169d
+   "execution_count": 3,
    "id": "a6732cd0",
    "metadata": {},
    "outputs": [],
@@ -100,11 +80,7 @@
   },
   {
    "cell_type": "code",
-<<<<<<< HEAD
-   "execution_count": 6,
-=======
-   "execution_count": 16,
->>>>>>> 17146ca33a17f96da072bd33bb2d7822ef94169d
+   "execution_count": 4,
    "id": "1298b27c",
    "metadata": {},
    "outputs": [],
@@ -233,16 +209,17 @@
   },
   {
    "cell_type": "code",
-<<<<<<< HEAD
-   "execution_count": null,
-=======
-   "execution_count": 17,
->>>>>>> 17146ca33a17f96da072bd33bb2d7822ef94169d
+   "execution_count": 7,
    "id": "78a610d2",
    "metadata": {},
    "outputs": [],
    "source": [
-    "data_read = 0"
+    "def threadedScraper(driver, first_index):\n",
+    "    scraper = ImmoWeb(driver = driver, debug_mode = True, counter = first_index)\n",
+    "    data, data_read = scraper.scrape()\n",
+    "    dataframe = pd.DataFrame(data)\n",
+    "    filename = f\"immoweb/immoweb_batch_{first_index+1}_{data_read}.csv\"\n",
+    "    dataframe.to_csv(filename)"
    ]
   },
   {
@@ -251,67 +228,47 @@
    "id": "34775366",
    "metadata": {},
    "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-<<<<<<< HEAD
-   "execution_count": null,
-   "id": "6891d223",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "34e76284",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-=======
-   "execution_count": 18,
-   "id": "6891d223",
-   "metadata": {},
-   "outputs": [],
    "source": [
-    "scraper = ImmoWeb(debug_mode = True, counter = data_read + 1 )"
+    "# Use following two cells to run the scraper in batches, define the range of batches\n",
+    "# you want to gather in the cell below"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 19,
+   "execution_count": 8,
+   "id": "6891d223",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "data_read = 180 #SET STARTING BATCH HERE\n",
+    "max_batch = 200 #SET ENDING BATCH HERE"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
    "id": "34e76284",
    "metadata": {},
    "outputs": [
     {
-     "name": "stdout",
+     "name": "stderr",
      "output_type": "stream",
      "text": [
-      "batch 1\n",
-      "batch 2\n",
-      "batch 3\n",
-      "batch 4\n",
-      "batch 5\n"
-     ]
-    },
-    {
-     "ename": "AttributeError",
-     "evalue": "type object 'tqdm' has no attribute 'tqdm'",
-     "output_type": "error",
-     "traceback": [
-      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
-      "\u001b[0;31mAttributeError\u001b[0m                            Traceback (most recent call last)",
-      "\u001b[0;32m<ipython-input-19-8dca3f13412f>\u001b[0m in \u001b[0;36m<module>\u001b[0;34m\u001b[0m\n\u001b[0;32m----> 1\u001b[0;31m \u001b[0mdata\u001b[0m\u001b[0;34m,\u001b[0m \u001b[0mdata_read\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mscraper\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mscrape\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m",
-      "\u001b[0;32m<ipython-input-16-d193fcb956e5>\u001b[0m in \u001b[0;36mscrape\u001b[0;34m(self)\u001b[0m\n\u001b[1;32m     20\u001b[0m         \u001b[0murls\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mself\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mreadPagination\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0;36m5\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     21\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m---> 22\u001b[0;31m         \u001b[0;32mfor\u001b[0m \u001b[0murl\u001b[0m \u001b[0;32min\u001b[0m \u001b[0mtqdm\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mtqdm\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mself\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0madvert_urls\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m     23\u001b[0m             \u001b[0mdata\u001b[0m \u001b[0;34m=\u001b[0m \u001b[0mself\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mreadAdPage\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0murl\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m     24\u001b[0m             \u001b[0mself\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mall_data\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mappend\u001b[0m\u001b[0;34m(\u001b[0m\u001b[0mdata\u001b[0m\u001b[0;34m)\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
-      "\u001b[0;31mAttributeError\u001b[0m: type object 'tqdm' has no attribute 'tqdm'"
+      " 97%|█████████▋| 149/153 [09:37<00:24,  6.25s/it]"
      ]
     }
    ],
    "source": [
-    "data, data_read = scraper.scrape()"
+    "while data_read < max_batch:\n",
+    "    driver1 = webdriver.Firefox()\n",
+    "    try: \n",
+    "        threadedScraper(driver1, data_read)\n",
+    "    except:\n",
+    "        print(f\"FAILURE AT PAGE {data_read}\")\n",
+    "    \n",
+    "    driver1.quit()\n",
+    "    data_read += 5"
    ]
->>>>>>> 17146ca33a17f96da072bd33bb2d7822ef94169d
   },
   {
    "cell_type": "code",
@@ -319,7 +276,20 @@
    "id": "9c0a6504",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "# run the following cell to run in threads. Be careful, because memory usage is very high and can\n",
+    "# and will cause crashes."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "889f0fd8",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "first_batch = 0 #SET THE FIRST INDEX OF BATCH YOU WANT TO RUN HERE"
+   ]
   },
   {
    "cell_type": "code",
@@ -327,7 +297,39 @@
    "id": "97a67e11",
    "metadata": {},
    "outputs": [],
-   "source": []
+   "source": [
+    "driver1 = webdriver.Firefoc()\n",
+    "thread1 = Thread(target=threadedScraper, args=(driver1, first_batch))\n",
+    "thread1.start()\n",
+    "\n",
+    "driver2 = webdriver.Firefoc()\n",
+    "thread2 = Thread(target=threadedScraper, args=(driver2, first_batch))\n",
+    "thread2.start()\n",
+    "\n",
+    "driver3 = webdriver.Firefoc()\n",
+    "thread3 = Thread(target=threadedScraper, args=(driver3, first_batch))\n",
+    "thread3.start()\n",
+    "\n",
+    "driver4 = webdriver.Firefoc()\n",
+    "thread4 = Thread(target=threadedScraper, args=(driver4, first_batch))\n",
+    "thread4.start()\n",
+    "\n",
+    "driver5 = webdriver.Firefoc()\n",
+    "thread5 = Thread(target=threadedScraper, args=(driver5, first_batch))\n",
+    "thread5.start()\n",
+    "\n",
+    "thread1.join()\n",
+    "thread2.join()\n",
+    "thread3.join()\n",
+    "thread4.join()\n",
+    "thread5.join()\n",
+    "\n",
+    "driver1.quit()\n",
+    "driver2.quit()\n",
+    "driver3.quit()\n",
+    "driver4.quit()\n",
+    "driver5.quit()"
+   ]
   },
   {
    "cell_type": "code",
@@ -379,17 +381,16 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 7,
+<<<<<<< HEAD
+   "execution_count": 5,
+=======
+   "execution_count": null,
+>>>>>>> main
    "id": "e5a6d6a5",
    "metadata": {},
    "outputs": [],
    "source": [
-    "def threadedScraper(driver, first_index):\n",
-    "    scraper = ImmoWeb(driver = driver, debug_mode = True, counter = first_index)\n",
-    "    data, data_read = scraper.scrape()\n",
-    "    dataframe = pd.DataFrame(data)\n",
-    "    filename = f\"immoweb/immoweb_batch_{first_index+1}_{data_read}.csv\"\n",
-    "    dataframe.to_csv(filename)\n"
+    "\n"
    ]
   },
   {
@@ -402,41 +403,67 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 8,
+<<<<<<< HEAD
+   "execution_count": 6,
+=======
+   "execution_count": null,
+>>>>>>> main
    "id": "540401c6",
    "metadata": {},
    "outputs": [],
+<<<<<<< HEAD
    "source": [
-    "data_read = 275\n"
+<<<<<<< HEAD
+    "data_read = 125\n"
+=======
+    "data_read = 150\n"
+>>>>>>> main
    ]
+=======
+   "source": []
+>>>>>>> 06516ce08ceb4f30e30c3ab16598250fbae8353c
   },
   {
    "cell_type": "code",
-   "execution_count": 9,
+   "execution_count": null,
    "id": "54a71993",
    "metadata": {},
+<<<<<<< HEAD
    "outputs": [
     {
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "100%|██████████| 155/155 [08:17<00:00,  3.21s/it]\n",
-      "100%|██████████| 150/150 [07:45<00:00,  3.10s/it]\n",
-      "100%|██████████| 152/152 [07:34<00:00,  2.99s/it]\n",
-      "100%|██████████| 151/151 [06:08<00:00,  2.44s/it]\n",
-      "100%|██████████| 153/153 [07:21<00:00,  2.89s/it]\n",
-      "100%|██████████| 150/150 [05:46<00:00,  2.31s/it]\n",
-      "100%|██████████| 151/151 [05:54<00:00,  2.35s/it]\n",
-      "100%|██████████| 153/153 [04:57<00:00,  1.95s/it]\n",
-      "100%|██████████| 150/150 [05:29<00:00,  2.19s/it]\n",
-      "100%|██████████| 152/152 [06:00<00:00,  2.37s/it]\n",
-      "100%|██████████| 150/150 [06:26<00:00,  2.58s/it]\n"
+<<<<<<< HEAD
+      "100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 152/152 [25:07<00:00,  9.92s/it]\n",
+      "100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 150/150 [26:09<00:00, 10.46s/it]\n",
+      "100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 150/150 [30:48<00:00, 12.32s/it]\n",
+      " 95%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████▎       | 143/150 [23:55<00:34,  4.95s/it]"
+=======
+      "100%|██████████| 150/150 [19:43<00:00,  7.89s/it]\n",
+      "100%|██████████| 150/150 [18:17<00:00,  7.31s/it]\n",
+      "100%|██████████| 150/150 [15:31<00:00,  6.21s/it]\n",
+      "100%|██████████| 150/150 [24:03<00:00,  9.62s/it]\n",
+      " 77%|███████▋  | 116/150 [28:41<08:24, 14.84s/it]\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "FAILURE AT PAGE 170\n"
+>>>>>>> main
      ]
     }
    ],
    "source": [
-    "while data_read < 330:\n",
+<<<<<<< HEAD
+    "while data_read < 150:\n",
+    "    driver1 = webdriver.Chrome()\n",
+=======
+    "while data_read < 200:\n",
     "    driver1 = webdriver.Firefox()\n",
+>>>>>>> main
     "    try: \n",
     "        threadedScraper(driver1, data_read)\n",
     "    except:\n",
@@ -444,6 +471,11 @@
     "    \n",
     "    driver1.quit()\n",
     "    data_read += 5\n"
+=======
+   "outputs": [],
+   "source": [
+    "\n"
+>>>>>>> 06516ce08ceb4f30e30c3ab16598250fbae8353c
    ]
   },
   {
@@ -451,6 +483,7 @@
    "execution_count": null,
    "id": "6be1a182",
    "metadata": {},
+<<<<<<< HEAD
    "outputs": [
     {
      "name": "stderr",
@@ -468,7 +501,13 @@
       "100%|██████████| 155/155 [08:03<00:00,  3.12s/it]\n",
       "100%|██████████| 153/153 [08:05<00:00,  3.17s/it]\n",
       "100%|██████████| 151/151 [07:40<00:00,  3.05s/it]\n",
-      "100%|██████████| 153/153 [09:13<00:00,  3.62s/it]\n"
+      "100%|██████████| 153/153 [09:13<00:00,  3.62s/it]\n",
+      "100%|██████████| 152/152 [09:16<00:00,  3.66s/it]\n",
+      "100%|██████████| 151/151 [08:29<00:00,  3.38s/it]\n",
+      "100%|██████████| 150/150 [08:41<00:00,  3.47s/it]\n",
+      "100%|██████████| 153/153 [09:30<00:00,  3.73s/it]\n",
+      "100%|██████████| 153/153 [08:52<00:00,  3.48s/it]\n",
+      " 95%|█████████▌| 146/153 [08:10<00:16,  2.42s/it]"
      ]
     }
    ],
@@ -476,7 +515,7 @@
     "data_read = 0\n",
     "\n",
     "while data_read < 200:\n",
-    "    driver1 = webdriver.Firefox()\n",
+    "    driver1 = webdriver.Chrome()\n",
     "    try: \n",
     "        threadedScraper(driver1, data_read)\n",
     "    except:\n",
@@ -485,6 +524,10 @@
     "    driver1.quit()\n",
     "    data_read += 5"
    ]
+=======
+   "outputs": [],
+   "source": []
+>>>>>>> main
   },
   {
    "cell_type": "code",
@@ -531,7 +574,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "29e6ab7d",
+   "id": "9a10148c",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -541,7 +584,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "a3d2fb33",
+   "id": "57b6b899",
    "metadata": {},
    "outputs": [],
    "source": []
@@ -549,7 +592,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "e854f616",
+   "id": "4b855f94",
    "metadata": {},
    "outputs": [],
    "source": []
@@ -557,7 +600,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "d7688857",
+   "id": "b2f7cea0",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -567,7 +610,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "1b36a383",
+   "id": "8f6fbb93",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -577,7 +620,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "3342fe17",
+   "id": "440cbc2e",
    "metadata": {},
    "outputs": [],
    "source": []
@@ -585,7 +628,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "8ee64e1d",
+   "id": "67722db8",
    "metadata": {},
    "outputs": [],
    "source": []
@@ -593,7 +636,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "8071bb0a",
+   "id": "fd19ace2",
    "metadata": {},
    "outputs": [],
    "source": []
@@ -601,7 +644,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "8b68ddf5",
+   "id": "b01704b4",
    "metadata": {},
    "outputs": [],
    "source": []
@@ -609,7 +652,7 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "07ccc28b",
+   "id": "206c0b17",
    "metadata": {},
    "outputs": [],
    "source": []
@@ -631,7 +674,11 @@
    "name": "python",
    "nbconvert_exporter": "python",
    "pygments_lexer": "ipython3",
+<<<<<<< HEAD
+   "version": "3.9.7"
+=======
    "version": "3.8.8"
+>>>>>>> main
   }
  },
  "nbformat": 4,
