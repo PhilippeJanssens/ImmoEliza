@@ -8,7 +8,7 @@ The program currently has two functional scrapers and one in development.
 
 1. [x] [immoweb](https://www.immoweb.be/fr)
 2. [x] [immo elissa](https://immoelissa.be/)
-3. [ ] [zimmo *in development*](https://www.zimmo.be/nl/)
+3. [ ] [zimmo (*in development*)](https://www.zimmo.be/nl/)
 
 ### Tech
 
